@@ -1,0 +1,80 @@
+[
+  {
+    "id": "E14",
+    "artifacts": {
+      "youtube_embed_url": "//www.youtube.com/embed/xIQVnLzKG4U",
+      "slides": {
+        "other_url": "",
+        "embed_url": "//slides.com/avasil/understanding-monix-observable-scalamatsuri2022/embed",
+        "speakerdeck": {
+          "data_id": "",
+          "data_ratio": ""
+        }
+      }
+    },
+    "en": {
+      "title": "Title",
+      "detail": "Detail",
+      "language": "English",
+      "length": 40,
+      "tags": [
+        "Functional Programming",
+        " Software Design and Architecture",
+        " Others"
+      ],
+      "keywords": [
+        "Concurrency",
+        "Streaming",
+        "Internals"
+      ],
+      "speakers": [
+        {
+          "name": "Taro ScalaMatsuri",
+          "icon": "https://2020.scalamatsuri.org/",
+          "organization": "Software Engineer at VirtusLab",
+          "speaker_experience": [
+            "ScalaMatsuri 2020: https://2020.scalamatsuri.org/"
+          ],
+          "contributes": [
+            "https://2020.scalamatsuri.org/"
+          ],
+          "github": "scalajp",
+          "twitter": "scala_jp",
+          "other_sns": ""
+        }
+      ]
+    },
+    "ja": {
+      "title": "タイトル",
+      "detail": "内容",
+      "language": "English",
+      "length": 40,
+      "tags": [
+        "Functional Programming",
+        " Software Design and Architecture",
+        " Others"
+      ],
+      "keywords": [
+        "Concurrency",
+        "Streaming",
+        "Internals"
+      ],
+      "speakers": [
+        {
+          "name": "スカラ太郎",
+          "icon": "https://2020.scalamatsuri.org/",
+          "organization": "Software Engineer at VirtusLab",
+          "speaker_experience": [
+            "ScalaMatsuri 2020: https://2020.scalamatsuri.org/"
+          ],
+          "contributes": [
+            "https://2020.scalamatsuri.org/"
+          ],
+          "github": "scalajp",
+          "twitter": "scala_jp",
+          "other_sns": ""
+        }
+      ]
+    }
+  }
+]

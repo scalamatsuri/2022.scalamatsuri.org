@@ -1,0 +1,284 @@
+<template>
+  <div id="sponsorship">
+    <div class="main">
+      <div class="main_inner">
+        <h1 class="main_title">
+          スポンサー募集
+        </h1>
+      </div>
+    </div>
+    <div class="notification" />
+
+    <!-- sponsorship ここから -->
+    <div class="sponsorship">
+      <h2 class="sponsorship_title">
+        Scalaコミュニティ 日本最大のイベント<br class="is_pc">ScalaMatsuriのスポンサーを募集しています。
+      </h2>
+      <p class="sponsorship_text">
+        様々な特典をご用意しています。詳細は以下の資料を参照してください。
+      </p>
+      <div class="sponsorship_btnArea">
+        <a href="/pdf/sponsorship.pdf" class="sponsorship_btn sponsorship_btn-pdf">スポンサーシップのご案内</a>
+        <!--
+        <a href="https://forms.gle/jz29vPswF52yUnZB8" class="sponsorship_btn sponsorship_btn-form">お申込みフォーム</a>
+        -->
+      </div>
+      <p class="sponsorship_note">
+        2022/10/1 ScalaMatsuri 2022 <strong>スポンサー募集は締め切りました。</strong><br>たくさんのご応募、誠にありがとうございました。
+      </p>
+    </div>
+    <!-- sponsorship ここまで -->
+    <!-- recruit ここから -->
+    <section class="section recruit">
+      <h2 class="section_title">
+        <span class="section_title_inner">特別企画 - 私、ScalaMatsuriで転職しました -</span>
+      </h2>
+      <p class="section_text">
+        ScalaMatsuriがきっかけで、ScalaMatsuri協賛企業に就職または転職された方々のインタビュー記事です。
+      </p>
+      <ul class="recruit_recruit">
+        <li v-for="r in recruit_recruits" :key="r.url">
+          <img :src="r.image" :alt="r.title" class="recruit_recruit_img">
+          <p class="recruit_recruit_title">
+            <a :href="r.url">{{ r.title }}</a>
+          </p>
+        </li>
+      </ul>
+    </section>
+    <!-- recruit ここまで -->
+    <!-- plan ここから -->
+    <section class="section plan">
+      <h2 class="section_title">
+        <span class="section_title_inner">スポンサープラン</span>
+      </h2>
+      <div class="section_scroll">
+        <table class="section_table2 section_table2-wide">
+          <thead>
+            <tr>
+              <th colspan="3" />
+              <th>
+                <p class="color color_shogun">
+                  将軍<span>ショーグン</span>
+                </p>
+              </th>
+              <th>
+                <p class="color color_tairou">
+                  大老<span>タイロウ</span>
+                </p>
+              </th>
+              <th>
+                <p class="color color_daimyo">
+                  大名<span>ダイミョー</span>
+                </p>
+              </th>
+              <th>
+                <p class="color color_samurai">
+                  侍<span>サムライ</span>
+                </p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th colspan="3">
+                金額
+              </th>
+              <td>¥1,250,000</td>
+              <td>¥750,000</td>
+              <td>¥300,000</td>
+              <td>¥100,000</td>
+            </tr>
+            <tr>
+              <th colspan="3">
+                招待枠
+              </th>
+              <td>12名様</td>
+              <td>10名様</td>
+              <td>7名様</td>
+              <td>3名様</td>
+            </tr>
+            <tr>
+              <th rowspan="2">
+                Webサイト掲載
+              </th>
+              <th>ロゴ画像</th>
+              <th />
+              <td>◎<br>ファーストビュー</td>
+              <td>○</td>
+              <td>○</td>
+              <td>○</td>
+            </tr>
+            <tr>
+              <th>広告ページ</th>
+              <th><span>サービス紹介や<br>リクルーティング</span></th>
+              <td>○</td>
+              <td>○</td>
+              <td>○</td>
+              <td>─</td>
+            </tr>
+            <tr>
+              <th rowspan="3">
+                ロゴ掲載
+              </th>
+              <th>スピーカー<br>バーチャル背景</th>
+              <th>登壇者の<br>背景画像</th>
+              <td>カンファレンス<br>会場A,C</td>
+              <td>カンファレンス<br>会場B</td>
+              <td>─</td>
+              <td>─</td>
+            </tr>
+            <tr>
+              <th>バーチャルのれん</th>
+              <th>来場者の<br>目に触れる位置</th>
+              <td>○</td>
+              <td>○</td>
+              <td>─</td>
+              <td>─</td>
+            </tr>
+            <tr>
+              <th>Tシャツ</th>
+              <th>公式ECサイトで<br>頒布</th>
+              <td>○</td>
+              <td>-</td>
+              <td>─</td>
+              <td>─</td>
+            </tr>
+            <tr>
+              <th rowspan="2">
+                スライド掲載
+              </th>
+              <th>Zoom Webinar</th>
+              <th>
+                セッションの<br>
+                休憩時間に上映。<br>
+                バーチャルブースへの誘導にも◎
+              </th>
+              <td>1ページ</td>
+              <td>1ページ</td>
+              <td>1/2ページ</td>
+              <td>─</td>
+            </tr>
+            <tr>
+              <th>オープニング</th>
+              <th>注目が集まる場面</th>
+              <td>ロゴ掲載・<br>読み上げ</td>
+              <td>ロゴ掲載・<br>読み上げ</td>
+              <td>ロゴ掲載</td>
+              <td>─</td>
+            </tr>
+            <tr>
+              <th colspan="3">
+                バーチャルブース(別売) 申し込み可能数
+              </th>
+              <td>最大2枠</td>
+              <td>最大1枠</td>
+              <td>最大1枠</td>
+              <td>最大1枠</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+    <!-- plan ここまで -->
+    <!-- booth ここから -->
+    <section class="section booth">
+      <h2 class="section_title">
+        <span class="section_title_inner">バーチャルブース</span>
+      </h2>
+      <table class="section_table2 section_table2-alignL">
+        <tr>
+          <th>金額</th>
+          <td>¥250,000</td>
+        </tr>
+        <tr>
+          <th>上限枠数</th>
+          <td>11枠</td>
+        </tr>
+        <tr>
+          <th>招待枠</th>
+          <td>3名様</td>
+        </tr>
+      </table>
+      <p class="section_text">
+        バーチャルブースには3名様分の招待枠が付きます。この招待枠は通常プランに付いて来るものと同じ扱いで、カンファレンスや懇親会にご参加頂けますが、バーチャルブースの設営及び運営をされる方も招待枠を使用してご入場ください。<br>
+      </p>
+    </section>
+    <!-- sponsorship ここから -->
+    <div class="sponsorship">
+      <h2 class="sponsorship_title">
+        Scalaコミュニティ 日本最大のイベント<br class="is_pc">ScalaMatsuriのスポンサーを募集しています。
+      </h2>
+      <p class="sponsorship_text">
+        様々な特典をご用意しています。詳細は以下の資料を参照してください。
+      </p>
+      <div class="sponsorship_btnArea">
+        <a href="/pdf/sponsorship.pdf" class="sponsorship_btn sponsorship_btn-pdf">スポンサーシップのご案内</a>
+        <!--
+        <a href="https://forms.gle/jz29vPswF52yUnZB8" class="sponsorship_btn sponsorship_btn-form">お申込みフォーム</a>
+        -->
+      </div>
+      <p class="sponsorship_note">
+        2022/10/1 ScalaMatsuri 2022 <strong>スポンサー募集は締め切りました。</strong><br>たくさんのご応募、誠にありがとうございました。
+      </p>
+    </div>
+    <!-- sponsorship ここまで -->
+    <section class="inquiry">
+      <h3 class="inquiry_title">
+        スポンサーのお申込みに関するお問い合わせ
+      </h3>
+      <p class="inquiry_text">
+        <a href="">本年度スポンサーシップのご案内</a> をご参照の上、不明点などがございましたら <a href="https://docs.google.com/forms/d/e/1FAIpQLSftjA6961ZzzJjqq1CrWtAN9wwrqXRUGFqZI5G8x2BjmZHeWw/viewform" target="_blank" rel="noopener">お問い合わせフォーム</a> よりお問い合わせください。
+      </p>
+    </section>
+  </div>
+</template>
+
+<script>
+// import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
+
+export default {
+  // TODO: スポンサーが決定し次第、404表示を解除する
+  // mixins: [Page404NotFoundMixin],
+  data() {
+    return {
+      recruit_recruits: [
+        {
+          image: require('~/assets/img/sponsorship/img-recruit1.jpg'),
+          url: 'https://blog.scalamatsuri.org/entry/2019/12/18/141705',
+          title: 'マーベリック株式会社さまへ転職された リチャード伊真岡さん(@RichardImaokaJP)'
+        },
+        {
+          image: require('~/assets/img/sponsorship/img-recruit3.jpg'),
+          url: 'https://blog.scalamatsuri.org/entry/2022/05/01/155020',
+          title: 'アルプ株式会社さまへ転職された オミさん(@omiend)'
+        },
+        {
+          image: require('~/assets/img/sponsorship/img-recruit2.jpg'),
+          url: 'https://blog.scalamatsuri.org/entry/2017/10/30/150859',
+          title: '株式会社セプテーニ・オリジナルさまへ転職された 河内崇さん（@kawachi）'
+        }
+      ]
+    }
+  },
+  head() {
+    return {
+      title: 'スポンサー募集',
+      meta: [{ name: 'og:title', content: 'スポンサー募集 | ScalaMatsuri 2022' }]
+    }
+  }
+}
+</script>
+
+<style lang="scss" scoped>
+.notification {
+  text-align: center;
+  font-size: 20px;
+  width: 100%;
+  padding: 100px 20px .1em;
+
+  & > strong {
+    border-bottom: 2px solid #EBA808;
+    padding-bottom: .1em;
+  }
+}
+</style>
