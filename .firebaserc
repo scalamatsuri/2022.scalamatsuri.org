@@ -1,6 +1,6 @@
 {
   "projects": {
     "default": "scalamatsuri-2022-web-staging",
-    "staging": ""
+    "production": "scalamatsuri-2022-web"
   }
 }
