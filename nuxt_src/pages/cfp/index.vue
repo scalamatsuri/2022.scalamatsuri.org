@@ -1,43 +1,39 @@
 <i18n>
 ## language=yaml
 en:
-  title: Come share your stories at ScalaMatsuri 2022!
+  title: Submit your talks for ScalaMatsuri 2022!
   section1_body: |
-    We are excited to announce that ScalaMatsuri will be held on Oct 17th (Saturday) and 16th (Sunday), 2022 at Tokyo International Exchange Center.<br>
-    Please submit your talk for the general sessions.<br>
-    For 2022 edition, we are adding a new track to increase more talks for Scala beginners, making the total to four tracks, of which two will have professional interpreters translating to/from English-Japanese at real time.<br/>
-    The CFP will close at 2022, February 1st (Saturday) 23:59 <a href="https://time.is/en/Anywhere%20on%20Earth">Anywhere on Earth</a> (or Feb 2, 20:59 JST).
-    <br/>
+    We are excited to announce that ScalaMatsuri will be held on March 19th (Saturday), 2000 and tentatively on March 20th (Sunday) as well. Please submit your talk for the general sessions.<br/><br/>
+    The CFP will close at January 15th (Saturday), 2022 23:59 <a href="https://time.is/en/Anywhere%20on%20Earth">Anywhere on Earth</a> (or Jan 16th 20:59 JST).
+    <br/><br/>
+    We're considering pre-recording talks for those who might find it difficult to give the talk live due to the timezone. If you wish to pre-record your talk, please let us know in the CFP.<br/>
+    We're not planning on providing dubbed track for the prerecordings; however, some sessions will be translated at real time by  professional interpreters.
+    <br/><br/>
     Matsuri, meaning festival, is about time and space out of the everyday.<br>
     It’s about mustering up the courage to do something cool (even though we are normally shy).<br>
     We want to make it a fun experience, regardless of gender, race, and many different backgrounds.<br>
     All participants, including speakers and sponsors, are asked to be respectful to each other and follow the <a href="%{coc_link}" target="_blank" rel="noopener"><span>code of conduct</span></a>.<br><br>
     As one of largest international Scala conferences in Asia, we want to make it a fun event for both the domestic audience and those visiting Japan from overseas.
-  section2_title: Speakers
+  section2_title: Speaker selection process
   section2_body: |
-    For ScalaMatsuri 2022, the speakers will be determined using 2 methods:<br>
-    <ul class="section_note">
-      <li class="section_note_item"> Voting by participants</li>
-      <li class="section_note_item"> Recommendation by the program committee </li>
-    </ul>
-    <br/>
-    Recommendation by the program committee:
-      The program committee will be made up by experts who are in tune with the Scala ecosystem and the recent trends.<br/>
-      The committee is tasked to pick various ranges of talks to make the conference more fun for everyone including advanced talks, foundational talks, and talks suited for new learners of Scala.
+    We'll conduct a survey to gauge the topic interests among the early bird ticket buyers. ScalaMatsuri organizers will curate the talks using the result as a reference.
   section3_title: Application
-  section3_body: <a href="https://forms.gle/9YXwoKXTPCoF1LS69">Submit my talk</a> / <a href="https://forms.gle/3PSAEUeB2nTFTrKK7">Add another speaker</a>
+  section3_body:
+    <ul>
+      <li><a href="https://forms.gle/8TDyvRhiFq8U2iDq7">Submit my talk</a></li>
+      <li><a href="https://forms.gle/MUXJ182ov6yzxhXh9">Add another speaker</a></li>
+    </ul>
   section4_title: Application details
   section4_body: |
     <ul class="section_note">
-      <li class="section_note_item">Any topic interesting Scala beginners or Scala community is welcome.</li>
-      <li class="section_note_item">The session length are 40 min and 100 min (includes 20 min recess).</li>
-      <li class="section_note_item">The format may be the regular lecture format, hands-on workshop format, hackathon, or whatever you can think of.</li>
+      <li class="section_note_item">Any topic that might be of interest to Scala learners and Scala community members are welcome, including beginner tutorials, favorite technique, and case studies.</li>
+      <li class="section_note_item">The session length is 20 min. We will allow 40 min as exception, but will likely accept 20 min talks mainly for 2022 edition</li>
+      <li class="section_note_item">The format may be the regular lecture format.</li>
       <li class="section_note_item">The talk must be in either English or Japanese. All slides must be in English. Note that we will prepare Japanese subtitles.</li>
-      <li class="section_note_item">The abstract must be 300 characters or fewer. We might ask for a longer overview once the talk is accepted.</li>
-      <li class="section_note_item">Pick 3 keywords that could help voters get an idea of your talk. The keywords will be displayed on the talk list.</li>
-      <li class="section_note_item">You are allowed up to 3 submissions. However, we'll ask you to select 1 talk even if multiple talks qualified.</li>
+      <li class="section_note_item">The abstract must be 300 characters or fewer. We might ask for a longer overview once your talk is accepted.</li>
+      <li class="section_note_item">You are allowed up to 3 submissions.</li>
       <li class="section_note_item">Please note that if you exceed any of the limits, the staff may edit your submissions at our discretion.</li>
-      <li class="section_note_item">If you would like to modify your submissions, please send a pull request to <a href="https://github.com/scalajp/2022.scalamatsuri.org" target="_blank">this repository</a>.</li>
+      <li class="section_note_item">We're not planning on providing dubbed translation track for the prerecordings.</li>
     </ul>
     Note again that ScalaMatsuri organizers will need to prepare the subtitles, so you are asked to submit the slides weeks in advance.
 ja:
