@@ -80,23 +80,23 @@
             </li>
           </ul>
           <!--  ログイン前 ここから -->
-          <!-- <ul v-if="isLoggedOut" class="function"> -->
-          <!-- <div class="function_item function_item-application"> -->
-          <!-- <nuxt-link :to="localePath('login')" style="background-color: #EBA80A;"> -->
-          <!-- {{ $t('login') }} -->
-          <!-- </nuxt-link> -->
-          <!-- </div> -->
-          <!-- <div class="function_item function_item-application"> -->
-          <!-- <a href="https://scalaconfjp.doorkeeper.jp/events/103550" target="_blank" rel="noopener"> -->
-          <!-- {{ $t('ticket') }} -->
-          <!-- </a> -->
-          <!-- </div> -->
-          <!-- <li class="function_item function_item-login"> -->
-          <!-- <nuxt-link :to="localePath('cfp')"> -->
-          <!-- {{ $t('cfp') }} -->
-          <!-- </nuxt-link> -->
-          <!-- </li> -->
-          <!-- </ul> -->
+          <ul v-if="isLoggedOut" class="function">
+            <!-- <div class="function_item function_item-application"> -->
+            <!-- <nuxt-link :to="localePath('login')" style="background-color: #EBA80A;"> -->
+            <!-- {{ $t('login') }} -->
+            <!-- </nuxt-link> -->
+            <!-- </div> -->
+            <!-- <div class="function_item function_item-application"> -->
+            <!-- <a href="https://scalaconfjp.doorkeeper.jp/events/103550" target="_blank" rel="noopener"> -->
+            <!-- {{ $t('ticket') }} -->
+            <!-- </a> -->
+            <!-- </div> -->
+            <li class="function_item function_item-login">
+              <nuxt-link :to="localePath('cfp')">
+                {{ $t('cfp') }}
+              </nuxt-link>
+            </li>
+          </ul>
           <!-- ログイン前 ここまで -->
           <!-- ログイン後 ここから -->
           <!-- <ul v-else-if="isLoggedIn" class="function"> -->
