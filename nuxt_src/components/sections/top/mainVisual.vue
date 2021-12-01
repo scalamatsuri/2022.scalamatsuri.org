@@ -2,7 +2,7 @@
 ## language=yaml
 en:
   alt: The largest international Scala conference in Asia
-  date: on 19th-20th Mar. Online
+  date: on 19th-20th Mar. 2022 Online
 ja:
   alt: アジア最大級のScalaカンファレンス
   date: 2022年3月19日(土) - 20日(日) オンライン
