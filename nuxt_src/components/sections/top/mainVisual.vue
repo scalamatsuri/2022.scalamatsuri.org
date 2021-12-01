@@ -1,9 +1,11 @@
 <i18n>
 ## language=yaml
 en:
-  alt: ScalaMatsuri 2022 The largest international Scala conference in Asia on 17th-18th Oct. 2022 Tokyo International Exchange Center
+  alt: The largest international Scala conference in Asia
+  date: on 19th-20th Mar. Online
 ja:
-  alt: ScalaMatsuri 2022 アジア最大級のScalaカンファレンス 2022年03月 オンライン
+  alt: アジア最大級のScalaカンファレンス
+  date: 2022年3月19日(土) - 20日(日) オンライン
 </i18n>
 
 <template>
@@ -13,10 +15,10 @@ ja:
         <h1 class="main__title">
           ScalaMatsuri 2022
           <p class="main__title-sub">
-            アジア最大級のScalaカンファレンス
+            {{ $t('alt') }}
           </p>
           <p class="main__title-sub">
-            2022年3月開催予定
+            {{ $t('date') }}
           </p>
         </h1>
       </div>
