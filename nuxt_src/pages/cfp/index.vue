@@ -39,37 +39,36 @@ en:
 ja:
   title: "ScalaMatsuriで話を聞かせてください！"
   section1_body: |
-    2022年3月26日(土)および2022年3月27日(日)の2日間の日程で、ScalaMatsuri 2022を開催します。<br/>
-    そこで、ScalaMatsuri 2022の一般セッションの応募を開始します。<br/>
-    締切は2022年1月15日(土) 23:59 <a href="https://time.is/ja/Anywhere%20on%20Earth">Anywhere on Earth</a> (1月16日 20:59 JST)を予定しています。<br/>
-    <br/>
-    今回、時差の関係で当日発表が難しい方のために、事前録画による登壇を検討しております。事前録画による登壇を希望する人はCFP応募時点でお伝えください。
-    一部セッションにはプロによる日英同時通訳がつきますが、事前録画には吹き替え録音などは提供しない予定です。字幕は可能であればつけていただいたほうが望ましいです。<br/>
-    <br/>
+    2022年3月19日(土)にScalaMatsuri 2022を開催します。（2022年3月20日(日)の実施は未定です。）<br/>
+    そこで、ScalaMatsuri 2022の一般セッションの応募を開始します。<br/><br/><br/>
+    締切は2022年1月15日(土) 23:59 <a href="https://time.is/ja/Anywhere%20on%20Earth">Anywhere on Earth</a> (1月16日 20:59 JST)を予定しています。<br/><br/>
+    今回、時差の関係で当日発表が難しい方のために、事前録画による登壇を検討しております。事前録画による登壇を希望する人はCFP応募時点でお伝えください。<br/>
+    一部セッションにはプロによる日英同時通訳がつきますが、事前録画には吹き替え録音などは提供しない予定です。<br/><br/>
     「Matsuri」はハレの日、つまり非日常の時と空間です。<br/>
     (普段はシャイでも) ちょっと勇気を出してちょっとカッコいいことをやってみたい。<br/>
     性別や人種など多様な背景を持つ人々が互いに敬意を払って楽しい時間を過ごせるよう、当カンファレンスでは発表者や参加者、スポンサーの皆さんに<a href="%{coc_link}" target="_blank" rel="noopener"><span>行動規範</span></a>を守っていただくようにお願いしています。<br/>
-    アジア最大規模の国際的なイベントとして、日本国内だけではなく、海外からの参加者にも楽しめるイベントにしたいと考えています。
+    アジア最大規模の国際的なイベントとして、日本国内だけではなく、海外からの参加者にも楽しめるイベントにしたいと考えています。<br/>
   section2_title: "講演者の決定"
   section2_body: |
     今回のScalaMatsuriでは、チケット購入時にアンケートで「Scalaに関する興味のあるキーワード」を頂く予定です。<br/>
     アンケート結果を参考に、ScalaMatsuri 2022運営にて選考会を開催し講演者を決定します。<br/>
   section3_title: "応募"
   section3_body: |
-    <a href="https://forms.gle/6nwjzQ7N7ZPFvB5m8">セッション応募フォーム</a>  / <a href="https://forms.gle/3PSAEUeB2nTFTrKK7">追加講演者登録フォーム</a>
+    <ul>
+      <li><a href="https://forms.gle/zyXVYrPEyeQbgPTX9">セッション応募フォーム</a></li>
+      <li><a href="https://forms.gle/MUXJ182ov6yzxhXh9">追加講演者登録フォーム</a></li>
+    </ul>
   section4_title: "応募要項"
   section4_body: |
     <ul class="section_note">
       <li class="section_note_item">内容は、Scala ビギナー もしくは Scala コミュニティが興味があると思うトピックであれば自由です。</li>
-      <li class="section_note_item">講演の時間は20分、もしくは20分 * 2枠となります。</li>
-      <li class="section_note_item">講演は通常の一人が聴衆に対して喋る講義形式のほか、ハンズオン形式、ハッカソン形式など自由な形式で行っていただけます。</li>
+      <li class="section_note_item">講演の時間は20分枠となります。40分枠もございますが、今回は20分枠が中心のイベントになります。</li>
+      <li class="section_note_item">講演は通常の一人が聴衆に対して喋る講義形式でお願いします。</li>
       <li class="section_note_item">話す言語は、英語もしくは日本語です。スライド本文は英語で、日本語の字幕つけをお願いしています。</li>
-      <li class="section_note_item">提出には、日本語で200字以内の概要、および300字以内の英語の概要が必要です。<br/>(採択後に、あらためて長めの概要の提出をお願いする場合があります。)</li>
-      <li class="section_note_item">1人複数のセッションを応募していただけますが、すべて採択されるわけではありません。</li>
+      <li class="section_note_item">提出には、日本語で200字以内の概要、または300字以内の英語の概要が必要です。<br/>(採択後に、あらためて長めの概要の提出をお願いする場合があります。)</li>
+      <li class="section_note_item">1人3セッションまで応募していただけます。</li>
       <li class="section_note_item">各種制限を超えている場合など、運営の判断で掲載内容を若干修正する場合があります。予めご了承ください。</li>
-      <li class="section_note_item">一部セッションには、プロによる日英同時通訳がつきます。</li>
-      <li class="section_note_item">事前録画には吹き替え録音などは提供しない予定です。字幕は可能であればつけていただいたほうが望ましいです。</li>
-      <li class="section_note_item">セッション内容の掲載後修正がある場合は、<a href="https://github.com/ScalaMatsuri/2022.scalamatsuri.org" target="_blank" rel="noopener">こちらのRepositoryへ直接Pull Request</a>をお送りください。</li>
+      <li class="section_note_item">事前録画には吹き替え録音などは提供しない予定です。</li>
     </ul>
     <br/>
     概要、スライド等の英語につきましては、運営のベストエフォートでレビューをしています。
