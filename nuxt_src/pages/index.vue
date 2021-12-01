@@ -4,7 +4,7 @@
     <news :posts="blogPosts" />
     <!-- <chairpersonRecruit /> -->
     <!-- <thankYou /> -->
-    <!-- <banner /> -->
+    <banner />
     <!-- <program /> -->
     <events />
     <lazy-component>
@@ -20,7 +20,7 @@ import mainVisual from '@/components/sections/top/mainVisual'
 import news from '@/components/sections/top/news'
 // import thankYou from '@/components/sections/top/thankYou'
 // import chairpersonRecruit from '@/components/sections/top/chairpersonRecruit'
-// import banner from '@/components/sections/top/banner'
+import banner from '@/components/sections/top/banner'
 import events from '@/components/sections/top/events'
 // import access from '@/components/sections/top/access'
 import info from '@/components/sections/top/info'
@@ -33,7 +33,7 @@ export default {
     news,
     // chairpersonRecruit,
     // thankYou,
-    // banner,
+    banner,
     events,
     info
     // topSponsors,
