@@ -3,7 +3,7 @@
 en:
   title: Submit your talks for ScalaMatsuri 2022!
   section1_body: |
-    We are excited to announce that ScalaMatsuri will be held on March 19th (Saturday), 2000 and tentatively on March 20th (Sunday) as well. Please submit your talk for the general sessions.<br/><br/>
+    We are excited to announce that ScalaMatsuri will be held on March 19th (Saturday), 2022 and tentatively on March 20th (Sunday) as well. Please submit your talk for the general sessions.<br/><br/>
     The CFP will close at January 15th (Saturday), 2022 23:59 <a href="https://time.is/en/Anywhere%20on%20Earth">Anywhere on Earth</a> (or Jan 16th 20:59 JST).
     <br/><br/>
     We're considering pre-recording talks for those who might find it difficult to give the talk live due to the timezone. If you wish to pre-record your talk, please let us know in the CFP.<br/>
