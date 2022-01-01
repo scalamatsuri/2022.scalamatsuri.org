@@ -10,7 +10,7 @@
     <lazy-component>
       <info />
     </lazy-component>
-    <!-- <topSponsors /> -->
+    <topSponsors />
   </div>
 </template>
 
@@ -24,7 +24,7 @@ import banner from '@/components/sections/top/banner'
 import events from '@/components/sections/top/events'
 // import access from '@/components/sections/top/access'
 import info from '@/components/sections/top/info'
-// import topSponsors from '@/components/sections/top/sponsors'
+import topSponsors from '@/components/sections/top/sponsors'
 // // import program from '@/components/sections/top/program'
 
 export default {
@@ -35,8 +35,8 @@ export default {
     // thankYou,
     banner,
     events,
-    info
-    // topSponsors,
+    info,
+    topSponsors
     // program
   },
   computed: {
