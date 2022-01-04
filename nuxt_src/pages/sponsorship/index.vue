@@ -18,14 +18,14 @@
         様々な特典をご用意しています。詳細は以下の資料を参照してください。
       </p>
       <div class="sponsorship_btnArea">
-        <a href="/pdf/sponsorship.pdf" class="sponsorship_btn sponsorship_btn-pdf">スポンサーシップのご案内</a>
-        <!--
-        <a href="https://forms.gle/jz29vPswF52yUnZB8" class="sponsorship_btn sponsorship_btn-form">お申込みフォーム</a>
-        -->
+        <a href="/pdf/sponsorship.pdf" class="sponsorship_btn sponsorship_btn-pdf" target="_blank" rel="noopener">スポンサーシップのご案内</a>
+        <a href="https://forms.gle/3o9P94ejae7VYk839" class="sponsorship_btn sponsorship_btn-form" target="_blank" rel="noopener">お申込みフォーム</a>
       </div>
+      <!--
       <p class="sponsorship_note">
-        2022/10/1 ScalaMatsuri 2022 <strong>スポンサー募集は締め切りました。</strong><br>たくさんのご応募、誠にありがとうございました。
+        2022/2/28 ScalaMatsuri 2022 <strong>スポンサー募集は締め切りました。</strong><br>たくさんのご応募、誠にありがとうございました。
       </p>
+      -->
     </div>
     <!-- sponsorship ここまで -->
     <!-- recruit ここから -->
@@ -40,7 +40,7 @@
         <li v-for="r in recruit_recruits" :key="r.url">
           <img :src="r.image" :alt="r.title" class="recruit_recruit_img">
           <p class="recruit_recruit_title">
-            <a :href="r.url">{{ r.title }}</a>
+            <a :href="r.url" target="_blank" rel="noopener">{{ r.title }}</a>
           </p>
         </li>
       </ul>
@@ -62,11 +62,6 @@
                 </p>
               </th>
               <th>
-                <p class="color color_tairou">
-                  大老<span>タイロウ</span>
-                </p>
-              </th>
-              <th>
                 <p class="color color_daimyo">
                   大名<span>ダイミョー</span>
                 </p>
@@ -83,19 +78,9 @@
               <th colspan="3">
                 金額
               </th>
-              <td>¥1,250,000</td>
-              <td>¥750,000</td>
-              <td>¥300,000</td>
+              <td>¥700,000</td>
+              <td>¥250,000</td>
               <td>¥100,000</td>
-            </tr>
-            <tr>
-              <th colspan="3">
-                招待枠
-              </th>
-              <td>12名様</td>
-              <td>10名様</td>
-              <td>7名様</td>
-              <td>3名様</td>
             </tr>
             <tr>
               <th rowspan="2">
@@ -106,78 +91,46 @@
               <td>◎<br>ファーストビュー</td>
               <td>○</td>
               <td>○</td>
-              <td>○</td>
             </tr>
             <tr>
               <th>広告ページ</th>
               <th><span>サービス紹介や<br>リクルーティング</span></th>
               <td>○</td>
               <td>○</td>
-              <td>○</td>
-              <td>─</td>
-            </tr>
-            <tr>
-              <th rowspan="3">
-                ロゴ掲載
-              </th>
-              <th>スピーカー<br>バーチャル背景</th>
-              <th>登壇者の<br>背景画像</th>
-              <td>カンファレンス<br>会場A,C</td>
-              <td>カンファレンス<br>会場B</td>
-              <td>─</td>
-              <td>─</td>
-            </tr>
-            <tr>
-              <th>バーチャルのれん</th>
-              <th>来場者の<br>目に触れる位置</th>
-              <td>○</td>
-              <td>○</td>
-              <td>─</td>
-              <td>─</td>
-            </tr>
-            <tr>
-              <th>Tシャツ</th>
-              <th>公式ECサイトで<br>頒布</th>
-              <td>○</td>
-              <td>-</td>
-              <td>─</td>
               <td>─</td>
             </tr>
             <tr>
               <th rowspan="2">
                 スライド掲載
               </th>
-              <th>Zoom Webinar</th>
-              <th>
-                セッションの<br>
-                休憩時間に上映。<br>
-                バーチャルブースへの誘導にも◎
-              </th>
-              <td>1ページ</td>
-              <td>1ページ</td>
-              <td>1/2ページ</td>
-              <td>─</td>
-            </tr>
-            <tr>
               <th>オープニング</th>
               <th>注目が集まる場面</th>
-              <td>ロゴ掲載・<br>読み上げ</td>
               <td>ロゴ掲載・<br>読み上げ</td>
               <td>ロゴ掲載</td>
               <td>─</td>
             </tr>
             <tr>
+              <th>セッション間<br>CMスライド</th>
+              <th />
+              <td>スライド掲載</td>
+              <td>ロゴ＋文言掲載</td>
+              <td>─</td>
+            </tr>
+            <tr>
               <th colspan="3">
-                バーチャルブース(別売) 申し込み可能数
+                バーチャルブース 20万(税込)<br>
+                最大5チャンネルまで
               </th>
-              <td>最大2枠</td>
-              <td>最大1枠</td>
-              <td>最大1枠</td>
-              <td>最大1枠</td>
+              <td>別売</td>
+              <td>別売</td>
+              <td>別売</td>
             </tr>
           </tbody>
         </table>
       </div>
+      <p class="section_text">
+        ご留意点: 今年はチケットが無料になったため、招待枠はありません。
+      </p>
     </section>
     <!-- plan ここまで -->
     <!-- booth ここから -->
@@ -188,20 +141,13 @@
       <table class="section_table2 section_table2-alignL">
         <tr>
           <th>金額</th>
-          <td>¥250,000</td>
+          <td>¥200,000</td>
         </tr>
         <tr>
-          <th>上限枠数</th>
-          <td>11枠</td>
-        </tr>
-        <tr>
-          <th>招待枠</th>
-          <td>3名様</td>
+          <th>Discordチャンネル数</th>
+          <td>最大5つまで</td>
         </tr>
       </table>
-      <p class="section_text">
-        バーチャルブースには3名様分の招待枠が付きます。この招待枠は通常プランに付いて来るものと同じ扱いで、カンファレンスや懇親会にご参加頂けますが、バーチャルブースの設営及び運営をされる方も招待枠を使用してご入場ください。<br>
-      </p>
     </section>
     <!-- sponsorship ここから -->
     <div class="sponsorship">
@@ -212,14 +158,12 @@
         様々な特典をご用意しています。詳細は以下の資料を参照してください。
       </p>
       <div class="sponsorship_btnArea">
-        <a href="/pdf/sponsorship.pdf" class="sponsorship_btn sponsorship_btn-pdf">スポンサーシップのご案内</a>
-        <!--
-        <a href="https://forms.gle/jz29vPswF52yUnZB8" class="sponsorship_btn sponsorship_btn-form">お申込みフォーム</a>
-        -->
+        <a href="/pdf/sponsorship.pdf" class="sponsorship_btn sponsorship_btn-pdf" target="_blank" rel="noopener">スポンサーシップのご案内</a>
+        <a href="https://forms.gle/3o9P94ejae7VYk839" class="sponsorship_btn sponsorship_btn-form" target="_blank" rel="noopener">お申込みフォーム</a>
       </div>
-      <p class="sponsorship_note">
-        2022/10/1 ScalaMatsuri 2022 <strong>スポンサー募集は締め切りました。</strong><br>たくさんのご応募、誠にありがとうございました。
-      </p>
+      <!-- <p class="sponsorship_note">
+        2022/2/28 ScalaMatsuri 2022 <strong>スポンサー募集は締め切りました。</strong><br>たくさんのご応募、誠にありがとうございました。
+      </p> -->
     </div>
     <!-- sponsorship ここまで -->
     <section class="inquiry">
@@ -227,18 +171,14 @@
         スポンサーのお申込みに関するお問い合わせ
       </h3>
       <p class="inquiry_text">
-        <a href="">本年度スポンサーシップのご案内</a> をご参照の上、不明点などがございましたら <a href="https://docs.google.com/forms/d/e/1FAIpQLSftjA6961ZzzJjqq1CrWtAN9wwrqXRUGFqZI5G8x2BjmZHeWw/viewform" target="_blank" rel="noopener">お問い合わせフォーム</a> よりお問い合わせください。
+        <a href="/pdf/sponsorship.pdf" target="_blank" rel="noopener">本年度スポンサーシップのご案内</a> をご参照の上、不明点などがございましたら <a href="https://docs.google.com/forms/d/e/1FAIpQLSftjA6961ZzzJjqq1CrWtAN9wwrqXRUGFqZI5G8x2BjmZHeWw/viewform" target="_blank" rel="noopener">お問い合わせフォーム</a> よりお問い合わせください。
       </p>
     </section>
   </div>
 </template>
 
 <script>
-import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
-
 export default {
-  // TODO: スポンサーが決定し次第、404表示を解除する
-  mixins: [Page404NotFoundMixin],
   data() {
     return {
       recruit_recruits: [
@@ -249,7 +189,7 @@ export default {
         },
         {
           image: require('~/assets/img/sponsorship/img-recruit3.jpg'),
-          url: 'https://blog.scalamatsuri.org/entry/2022/05/01/155020',
+          url: 'https://blog.scalamatsuri.org/entry/2020/05/01/155020',
           title: 'アルプ株式会社さまへ転職された オミさん(@omiend)'
         },
         {

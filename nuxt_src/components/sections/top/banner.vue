@@ -18,9 +18,9 @@ ja:
 <template>
   <div class="banner">
     <div class="banner_list">
-      <!-- <nuxt-link :to="localePath('sponsorship')" class="banner_item banner_item-sponsor">
+      <nuxt-link :to="localePath('sponsorship')" class="banner_item banner_item-sponsor">
         <span>{{ $t('sponsorship') }} </span>
-      </nuxt-link> -->
+      </nuxt-link>
       <!-- <a :href="$t('tshirt_url')" class="banner_item banner_item-tshirt">
         <span>{{ $t('tshirt') }} </span>
       </a> -->

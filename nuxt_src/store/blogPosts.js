@@ -28,6 +28,6 @@ export const mutations = {
 }
 
 const hatenaBlogUrls = {
-  ja: 'https://blog.scalamatsuri.org/rss/category/ScalaMatsuri2021',
-  en: 'https://blog-en.scalamatsuri.org/rss/category/ScalaMatsuri2021'
+  ja: 'https://blog.scalamatsuri.org/rss/category/ScalaMatsuri2022',
+  en: 'https://blog-en.scalamatsuri.org/rss/category/ScalaMatsuri2022'
 }

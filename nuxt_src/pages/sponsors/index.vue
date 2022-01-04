@@ -4,7 +4,6 @@ en:
   title: "Sponsors"
   sponsorType:
     syogun: Shogun Sponsor
-    tairo: Tairo Sponsor
     daimyo: Daimyo Sponsor
   inquiry:
     title: Inquiry about Sponsorship
@@ -13,7 +12,6 @@ ja:
   title: スポンサー
   sponsorType:
     syogun: 将軍スポンサー
-    tairo: 大老スポンサー
     daimyo: 大名スポンサー
   inquiry:
     title: スポンサー申し込みはこちら
@@ -36,14 +34,6 @@ ja:
       </h2>
       <div v-if="syogun_sponsors.length" class="sponsor_list">
         <div v-for="sponsor in syogun_sponsors" :key="sponsor.logo">
-          <sponsor :sponsor="sponsor" />
-        </div>
-      </div>
-      <h2 v-if="tairo_sponsors.length" class="sponsor_title">
-        {{ $t('sponsorType.tairo') }}
-      </h2>
-      <div v-if="tairo_sponsors.length" class="sponsor_list">
-        <div v-for="sponsor in tairo_sponsors" :key="sponsor.logo">
           <sponsor :sponsor="sponsor" />
         </div>
       </div>
@@ -74,7 +64,6 @@ ja:
 import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
 import Sponsor from '@/components/sections/sponsor/sponsor.vue'
 import syoguns from '@/data/sponsors/syogun'
-import tairos from '@/data/sponsors/tairo'
 import daimyos from '@/data/sponsors/daimyo'
 
 export default {
@@ -85,7 +74,6 @@ export default {
   data() {
     return {
       syogun_sponsors: [],
-      tairo_sponsors: [],
       daimyo_sponsors: []
     }
   },
@@ -94,7 +82,6 @@ export default {
       return sponsor.text_html
     }
     this.syogun_sponsors = this.shuffle(syoguns.filter(s => hasHtmls(s)))
-    this.tairo_sponsors = this.shuffle(tairos.filter(s => hasHtmls(s)))
     this.daimyo_sponsors = this.shuffle(daimyos.filter(s => hasHtmls(s)))
   },
   head() {
