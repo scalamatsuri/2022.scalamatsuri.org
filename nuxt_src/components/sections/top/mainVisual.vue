@@ -22,6 +22,13 @@ ja:
           </p>
         </h1>
       </div>
+      <div class="main_sponsor">
+        <ul class="main_sponsor_inner">
+          <li v-for="sponsor in syoguns" :key="sponsor.logo" class="main_sponsor_item">
+            <a :href="sponsor.url"><img :src="sponsor.logo" :alt="sponsor.name"></a>
+          </li>
+        </ul>
+      </div>
     </div>
   </main>
 </template>
