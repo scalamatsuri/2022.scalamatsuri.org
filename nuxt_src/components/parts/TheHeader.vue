@@ -60,11 +60,11 @@
                 <span>{{ $t('code-of-conduct') }}</span>
               </nuxt-link>
             </li>
-            <!-- <li class="gnav_item" :class="{ 'gnav_item-current': current_path('/sponsors') }">
+            <li class="gnav_item" :class="{ 'gnav_item-current': current_path('/sponsors') }">
               <nuxt-link :to="localePath('sponsors')">
                 <span>{{ $t('sponsors') }}</span>
               </nuxt-link>
-            </li> -->
+            </li>
             <!-- <li class="gnav_item" :class="{ 'gnav_item-current': current_path('/extra-staff') }">
               <nuxt-link :to="localePath('extra-staff')">
                 <span>{{ $t('extra-staff') }}</span>
