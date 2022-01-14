@@ -205,7 +205,7 @@ export default {
         {
           image: require('~/assets/img/sponsorship/img-recruit2.jpg'),
           url: 'https://blog.scalamatsuri.org/entry/2017/10/30/150859',
-          title: '株式会社セプテーニ・オリジナルさまへ転職された 河内崇さん（@kawachi）'
+          title: '株式会社FLINTERSさまへ転職された 河内崇さん（@kawachi）'
         }
       ]
     }
