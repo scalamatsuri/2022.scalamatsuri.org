@@ -61,7 +61,6 @@ ja:
 </template>
 
 <script>
-import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
 import Sponsor from '@/components/sections/sponsor/sponsor.vue'
 import syoguns from '@/data/sponsors/syogun'
 import daimyos from '@/data/sponsors/daimyo'
@@ -70,7 +69,6 @@ export default {
   components: {
     Sponsor
   },
-  mixins: [Page404NotFoundMixin],
   data() {
     return {
       syogun_sponsors: [],
