@@ -86,44 +86,46 @@
             <!-- {{ $t('login') }} -->
             <!-- </nuxt-link> -->
             <!-- </div> -->
-            <!-- <div class="function_item function_item-application"> -->
-            <!-- <a href="https://scalaconfjp.doorkeeper.jp/events/103550" target="_blank" rel="noopener"> -->
-            <!-- {{ $t('ticket') }} -->
-            <!-- </a> -->
-            <!-- </div> -->
-            <li class="function_item function_item-login">
+            <li class="function_item function_item-application">
+              <a href="https://scalaconfjp.doorkeeper.jp/events/131313" target="_blank" rel="noopener">
+                {{ $t('ticket') }}
+              </a>
+            </li>
+            <!-- <li class="function_item function_item-login">
               <nuxt-link :to="localePath('cfp')">
                 {{ $t('cfp') }}
               </nuxt-link>
-            </li>
+            </li> -->
           </ul>
-          <!-- ログイン前 ここまで -->
-          <!-- ログイン後 ここから -->
-          <!-- <ul v-else-if="isLoggedIn" class="function"> -->
-          <!-- <li class="function_item function_item-userIcon"> -->
-          <!-- <div class="userMenu js-myMenu"> -->
-          <!-- <div class="function_userIcon js-myMenuIcon" :style="`background-image: url(${auth.profile.photoURL})`" @click="toggleUserMenu()" /> -->
-          <!-- <ul v-if="userMenuActive" class="userMenu_list js-myMenuList"> -->
-          <!-- <li class="userMenu_list_item" @click="logout()"> -->
-          <!-- {{ $t('logout') }} -->
-          <!-- </li> -->
-          <!-- </ul> -->
-          <!-- </div> -->
-          <!-- </li> -->
-          <!-- <li class="function_item function_item-login"> -->
-          <!-- <nuxt-link :to="localePath('cfp')"> -->
-          <!-- {{ $t('cfp') }} -->
-          <!-- </nuxt-link> -->
-          <!-- </li> -->
-          <!-- <li class="function_item function_item-application"> -->
-          <!-- <a href="https://scalaconfjp.doorkeeper.jp/events/103550" target="_blank" rel="noopener"> -->
-          <!-- {{ $t('ticket') }} -->
-          <!-- </a> -->
-          <!-- </li> -->
-          <!-- </ul> -->
-          <!-- ログイン後 ここまで -->
         </div>
+        </ul>
+        <!-- ログイン前 ここまで -->
+        <!-- ログイン後 ここから -->
+        <!-- <ul v-else-if="isLoggedIn" class="function"> -->
+        <!-- <li class="function_item function_item-userIcon"> -->
+        <!-- <div class="userMenu js-myMenu"> -->
+        <!-- <div class="function_userIcon js-myMenuIcon" :style="`background-image: url(${auth.profile.photoURL})`" @click="toggleUserMenu()" /> -->
+        <!-- <ul v-if="userMenuActive" class="userMenu_list js-myMenuList"> -->
+        <!-- <li class="userMenu_list_item" @click="logout()"> -->
+        <!-- {{ $t('logout') }} -->
+        <!-- </li> -->
+        <!-- </ul> -->
+        <!-- </div> -->
+        <!-- </li> -->
+        <!-- <li class="function_item function_item-login"> -->
+        <!-- <nuxt-link :to="localePath('cfp')"> -->
+        <!-- {{ $t('cfp') }} -->
+        <!-- </nuxt-link> -->
+        <!-- </li> -->
+        <!-- <li class="function_item function_item-application"> -->
+        <!-- <a href="https://scalaconfjp.doorkeeper.jp/events/103550" target="_blank" rel="noopener"> -->
+        <!-- {{ $t('ticket') }} -->
+        <!-- </a> -->
+        <!-- </li> -->
+        <!-- </ul> -->
+        <!-- ログイン後 ここまで -->
       </div>
+    </div>
     </div>
     <!-- グローバルナビ PC ここまで -->
     <!-- グローバルナビ SP ここから -->
@@ -183,11 +185,11 @@
                   {{ $t('login') }}
                 </nuxt-link>
               </div> -->
-              <!-- <div class="function_item function_item-application">
-                <a href="https://scalaconfjp.doorkeeper.jp/events/103550" target="_blank" rel="noopener">
+              <div class="function_item function_item-application">
+                <a href="https://scalaconfjp.doorkeeper.jp/events/131313" target="_blank" rel="noopener">
                   {{ $t('ticket') }}
                 </a>
-              </div> -->
+              </div>
               <!-- <div class="function_item function_item-login" @click="toggleMenu()">
                 <nuxt-link :to="localePath('cfp')">
                   {{ $t('cfp') }}

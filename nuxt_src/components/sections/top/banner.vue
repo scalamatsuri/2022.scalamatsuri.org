@@ -24,12 +24,12 @@ ja:
       <!-- <a :href="$t('tshirt_url')" class="banner_item banner_item-tshirt">
         <span>{{ $t('tshirt') }} </span>
       </a> -->
-      <nuxt-link :to="localePath('cfp')" class="banner_item banner_item-staff">
+      <!-- <nuxt-link :to="localePath('cfp')" class="banner_item banner_item-staff">
         <span>{{ $t('cfp') }}</span>
-      </nuxt-link>
-      <!-- <a href="https://scalaconfjp.doorkeeper.jp/events/103550" target="_blank" rel="noopener" class="banner_item banner_item-staff">
-        <span>{{ $t('doorkeeper') }}</span>
-      </a> -->
+      </nuxt-link> -->
+      <a href="https://scalaconfjp.doorkeeper.jp/events/131313" target="_blank" rel="noopener" class="banner_item banner_item-staff">
+        <span>{{ $t('ticket') }}</span>
+      </a>
     </div>
   </div>
 </template>
