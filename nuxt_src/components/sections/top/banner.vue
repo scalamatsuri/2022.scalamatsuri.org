@@ -28,7 +28,7 @@ ja:
         <span>{{ $t('cfp') }}</span>
       </nuxt-link> -->
       <a href="https://scalaconfjp.doorkeeper.jp/events/131313" target="_blank" rel="noopener" class="banner_item banner_item-staff">
-        <span>{{ $t('doorkeeper') }}</span>
+        <span>{{ $t('ticket') }}</span>
       </a>
     </div>
   </div>
