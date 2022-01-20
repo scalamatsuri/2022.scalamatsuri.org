@@ -2,7 +2,9 @@
   {
     "name": "アルプ株式会社",
     "logo": "/img/sponsors/alpinc.svg",
-    "url": "https://alpinc.notion.site/52af90188305440d86acf72968646054"
+    "url": "https://alpinc.notion.site/52af90188305440d86acf72968646054",
+    "text_html": "<p>アルプは、サブスクリプションビジネスを行う企業様向けに、今までスプレッドシートや自社開発だった契約や請求の管理を、SaaSとして提供するScalebasaeというプロダクトを開発しています。</p><p><a href=\"https://scalebase.com\">Scalebase</a></p><p>Scalebaseの開発においては創業時よりDDDを軸とし、バックエンドシステムをScalaで構築しています。Effやモジュラモノリスを採用するなど、まだ事例が少ない技術も複雑なドメインの表現に最適であると判断すれば積極的に取り入れています。</p><p>Scalebaseは、サブスクリプションの請求サイクル、認証・認可、決済や会計など複雑なドメインを扱っています。さらにお客様の業務のコアな部分を担っているため、難しい問題に取り組むのが好きな人には良い環境だと思います！</p><p>少しでもご興味ある方は、CTOの竹尾とざっくばらんにお話しましょう！</p><p><a href=\"https://meety.net/matches/OgtlvqczNxJt\">CTO竹尾のMeety</a></p><p><a href=\"https://alpinc.notion.site/52af90188305440d86acf72968646054\">アルプ採用情報</a></p>",
+    "slide_html": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/11b29a049a0845bfb8d68fcc7d7ee9f2\" title=\"Scalebaseバックエンド構成について/the backend design of Scalebase\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;\" data-ratio=\"1.78343949044586\"></iframe>"
   },
   {
  	"name": "株式会社チェンジ・ザ・ワールド",
