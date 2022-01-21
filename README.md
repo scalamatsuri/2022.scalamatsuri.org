@@ -3,7 +3,7 @@
 > 2022.scalamatsuri.org Nuxt.js project
 
 [![Deploy to Firebase Hosting on production](https://github.com/scalamatsuri/2022.scalamatsuri.org/actions/workflows/production-firebase-hosting-merge.yml/badge.svg)](https://github.com/scalamatsuri/2022.scalamatsuri.org/actions/workflows/production-firebase-hosting-merge.yml)
-[![Deploy to Firebase Hosting on staging](https://github.com/scalamatsuri/2022.scalamatsuri.org/actions/workflows/production-firebase-hosting-merge.yml/badge.svg)](https://github.com/scalamatsuri/2022.scalamatsuri.org/actions/workflows/staging-firebase-hosting-merge.yml)
+[![Deploy to Firebase Hosting on staging](https://github.com/scalamatsuri/2022.scalamatsuri.org/actions/workflows/staging-firebase-hosting-merge.yml/badge.svg)](https://github.com/scalamatsuri/2022.scalamatsuri.org/actions/workflows/staging-firebase-hosting-merge.yml)
 
 ## Build Setup
 
