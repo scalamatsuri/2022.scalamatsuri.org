@@ -3,14 +3,14 @@
     "name": "アルプ株式会社",
     "logo": "/img/sponsors/alpinc.svg",
     "url": "https://alpinc.notion.site/52af90188305440d86acf72968646054",
-    "text_html": "<p>アルプは、サブスクリプションビジネスを行う企業様向けに、今までスプレッドシートや自社開発だった契約や請求の管理を、SaaSとして提供するScalebasaeというプロダクトを開発しています。</p><p><a href=\"https://scalebase.com\">Scalebase</a></p><p>Scalebaseの開発においては創業時よりDDDを軸とし、バックエンドシステムをScalaで構築しています。Effやモジュラモノリスを採用するなど、まだ事例が少ない技術も複雑なドメインの表現に最適であると判断すれば積極的に取り入れています。</p><p>Scalebaseは、サブスクリプションの請求サイクル、認証・認可、決済や会計など複雑なドメインを扱っています。さらにお客様の業務のコアな部分を担っているため、難しい問題に取り組むのが好きな人には良い環境だと思います！</p><p>少しでもご興味ある方は、CTOの竹尾とざっくばらんにお話しましょう！</p><p><a href=\"https://meety.net/matches/OgtlvqczNxJt\">CTO竹尾のMeety</a></p><p><a href=\"https://alpinc.notion.site/52af90188305440d86acf72968646054\">アルプ採用情報</a></p>",
+    "text_html": "<p>アルプは、サブスクリプションビジネスを行う企業様向けに、今までスプレッドシートや自社開発だった契約や請求の管理を、SaaSとして提供するScalebaseというプロダクトを開発しています。</p><p><a href=\"https://scalebase.com\">Scalebase</a></p><p>Scalebaseの開発においては創業時よりDDDを軸とし、バックエンドシステムをScalaで構築しています。Effやモジュラモノリスを採用するなど、まだ事例が少ない技術も複雑なドメインの表現に最適であると判断すれば積極的に取り入れています。</p><p>Scalebaseは、サブスクリプションの請求サイクル、認証・認可、決済や会計など複雑なドメインを扱っています。さらにお客様の業務のコアな部分を担っているため、難しい問題に取り組むのが好きな人には良い環境だと思います！</p><p>少しでもご興味ある方は、CTOの竹尾とざっくばらんにお話しましょう！</p><p><a href=\"https://meety.net/matches/OgtlvqczNxJt\">CTO竹尾のMeety</a></p><p><a href=\"https://alpinc.notion.site/52af90188305440d86acf72968646054\">アルプ採用情報</a></p>",
     "slide_html": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/11b29a049a0845bfb8d68fcc7d7ee9f2\" title=\"Scalebaseバックエンド構成について/the backend design of Scalebase\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;\" data-ratio=\"1.78343949044586\"></iframe>"
   },
   {
- 	"name": "株式会社チェンジ・ザ・ワールド",
- 	"logo": "/img/sponsors/changetheworld.png",
- 	"url": "https://ctws.jp/",
- 	"text_html": "<p><b>社会的で革新的な事業に挑戦し、より良いカタチに「世界を変える」</b></p><p>株式会社チェンジ・ザ・ワールドはグリーンエネルギーの発展にみんなが参加できる社会を創るべく、営農型太陽光発電システム企画・販売とスマホで買える太陽光発電所CHANGEのサービスを展開しています。</p><p><a href=\"https://change-x.jp/\">スマホで買える太陽光発電所「CHANGE(チェンジ)」</a>は、誰でも気軽に1ワット(200~300円)から太陽光発電所を分割購入することができるウェブサービスです。<br/>再生可能エネルギーの普及と、クリーンな電力による日本のエネルギー自給率向上を目指し2017年7月にサービスを開始いたしました。</p><p>システムはゼロから自社エンジニアがScalaで構築、サービス設計の要となる「発電所(ワット)の価格設計の計算」では特許を出願中。<br/>「CHANGE(チェンジ)」システムは今後、太陽光発電に限らず様々な「環境アクション」のプラットフォームに進化させていく予定です。</p><p>チェンジ・ザ・ワールドでは一緒に世界を変えるメンバーを募集しています。<br/><a href=\"https://ctws.jp/recruit\">https://ctws.jp/recruit</a></p><p>また、弊社ではプログラミングを駆使して未来を作る若者の発掘と育成を目的として、学生向けプログラミングコンテスト<b>「CTWプロコン」</b>を開催しております。<br/>今回で3回目となる今年のテーマは「CHANGE THE WORLD」ということで世界を変えるようなプロダクトを募集しました。<br/>本選では多くの応募から勝ち抜いたチームの発表の様子をYouTube Liveにて配信する予定です！ぜひご覧ください！<br/><br/><a href=\"https://youtu.be/FMXKY_sFvEQ\">配信リンク</a></p>",
+    "name": "株式会社チェンジ・ザ・ワールド",
+    "logo": "/img/sponsors/changetheworld.png",
+    "url": "https://ctws.jp/",
+    "text_html": "<p><b>社会的で革新的な事業に挑戦し、より良いカタチに「世界を変える」</b></p><p>株式会社チェンジ・ザ・ワールドはグリーンエネルギーの発展にみんなが参加できる社会を創るべく、営農型太陽光発電システム企画・販売とスマホで買える太陽光発電所CHANGEのサービスを展開しています。</p><p><a href=\"https://change-x.jp/\">スマホで買える太陽光発電所「CHANGE(チェンジ)」</a>は、誰でも気軽に1ワット(200~300円)から太陽光発電所を分割購入することができるウェブサービスです。<br/>再生可能エネルギーの普及と、クリーンな電力による日本のエネルギー自給率向上を目指し2017年7月にサービスを開始いたしました。</p><p>システムはゼロから自社エンジニアがScalaで構築、サービス設計の要となる「発電所(ワット)の価格設計の計算」では特許を出願中。<br/>「CHANGE(チェンジ)」システムは今後、太陽光発電に限らず様々な「環境アクション」のプラットフォームに進化させていく予定です。</p><p>チェンジ・ザ・ワールドでは一緒に世界を変えるメンバーを募集しています。<br/><a href=\"https://ctws.jp/recruit\">https://ctws.jp/recruit</a></p><p>また、弊社ではプログラミングを駆使して未来を作る若者の発掘と育成を目的として、学生向けプログラミングコンテスト<b>「CTWプロコン」</b>を開催しております。<br/>今回で3回目となる今年のテーマは「CHANGE THE WORLD」ということで世界を変えるようなプロダクトを募集しました。<br/>本選では多くの応募から勝ち抜いたチームの発表の様子をYouTube Liveにて配信する予定です！ぜひご覧ください！<br/><br/><a href=\"https://youtu.be/FMXKY_sFvEQ\">配信リンク</a></p>",
     "slide_html": ""
   }
 ]
