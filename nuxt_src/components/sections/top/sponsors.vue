@@ -97,7 +97,7 @@ export default {
         },
         {
           'name': 'hatena',
-          'logo': '/img/sponsors/hatena.svg',
+          'logo': '/img/sponsors/hatena.png',
           'url': 'http://hatenacorp.jp/',
           'display_name': this.$i18n.t('bugyo_hatena')
         },
