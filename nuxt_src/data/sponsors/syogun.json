@@ -3,7 +3,7 @@
     "name": "Chatwork株式会社",
     "logo": "/img/sponsors/chatwork.png",
     "url": "https://corp.chatwork.com/ja/",
-    "text_html": "",
+    "text_html": "<p><a href=\"https://recruit.chatwork.com/message/\">日本でジャイアントキリングを。</a></p><p>日本のビジネスチャットの普及率は、まだ15.6%未満。残りの白地は、グローバルなテックジャイアントとの争奪戦です。まだ300人にも満たない私たちが、数千人、数万人規模の会社とマーケットを巡って競い合い、シェアをさらに伸ばしていく。そこに本気で挑んでいます。</p><p><a href=\"https://recruit.chatwork.com/jobs/\">プロダクトに携わる方へ。</a></p><p>働く歴史を変えるプロダクトを、つくっていこう。導入社数は毎月4000社で増え続け、累計のチャットログは65億に達し、毎月数億のメッセージが飛び交うサービスとして、いまも拡大を続けています。業界トップクラスのスキルを持ったメンバーが集い、問題解決に取り組んでいます。でもまだ、つくりたいプロダクトの20%も実現できていません。日本のあらゆる産業が使っているプロダクトをつくる。そんなメンバーの一員になりませんか。</p><ul><li><a href=\"https://hrmos.co/pages/chatwork/jobs?category=1501423708939517952\">Chatwork株式会社 エンジニア 求人一覧</a></li><li><a href=\"https://hrmos.co/pages/chatwork/jobs/1020001\">Scalaエンジニア 募集要項ページ</a></li><li><a href=\"https://creators-note.chatwork.com/\">Chatwork Creator's Note (技術ブログ)</a></li></ul>",
     "slide_html": ""
   },
   {
@@ -15,5 +15,10 @@
  	"name": "株式会社COMPASS",
  	"logo": "/img/sponsors/qubena.png",
  	"url": "https://qubena.com/"
+  },
+  {
+  "name": "株式会社スリーシェイク",
+  "logo": "/img/sponsors/3shake.png",
+  "url": "https://3-shake.com/"
   }
 ]
