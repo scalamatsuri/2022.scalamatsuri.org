@@ -12,5 +12,34 @@
     "url": "https://ctws.jp/",
     "text_html": "<p><b>社会的で革新的な事業に挑戦し、より良いカタチに「世界を変える」</b></p><p>株式会社チェンジ・ザ・ワールドはグリーンエネルギーの発展にみんなが参加できる社会を創るべく、営農型太陽光発電システム企画・販売とスマホで買える太陽光発電所CHANGEのサービスを展開しています。</p><p><a href=\"https://change-x.jp/\">スマホで買える太陽光発電所「CHANGE(チェンジ)」</a>は、誰でも気軽に1ワット(200~300円)から太陽光発電所を分割購入することができるウェブサービスです。<br/>再生可能エネルギーの普及と、クリーンな電力による日本のエネルギー自給率向上を目指し2017年7月にサービスを開始いたしました。</p><p>システムはゼロから自社エンジニアがScalaで構築、サービス設計の要となる「発電所(ワット)の価格設計の計算」では特許を出願中。<br/>「CHANGE(チェンジ)」システムは今後、太陽光発電に限らず様々な「環境アクション」のプラットフォームに進化させていく予定です。</p><p>チェンジ・ザ・ワールドでは一緒に世界を変えるメンバーを募集しています。<br/><a href=\"https://ctws.jp/recruit\">https://ctws.jp/recruit</a></p><p>また、弊社ではプログラミングを駆使して未来を作る若者の発掘と育成を目的として、学生向けプログラミングコンテスト<b>「CTWプロコン」</b>を開催しております。<br/>今回で3回目となる今年のテーマは「CHANGE THE WORLD」ということで世界を変えるようなプロダクトを募集しました。<br/>本選では多くの応募から勝ち抜いたチームの発表の様子をYouTube Liveにて配信する予定です！ぜひご覧ください！<br/><br/><a href=\"https://youtu.be/FMXKY_sFvEQ\">配信リンク</a></p>",
     "slide_html": ""
+  },
+  {
+    "name": "Visional",
+    "logo": "/img/sponsors/visional.png",
+    "url": "https://www.visional.inc/ja/careers.html"
+  },
+  {
+    "name": "株式会社はてな",
+    "logo": "/img/sponsors/hatena.png",
+    "url": "https://hatenacorp.jp/recruit/engineer",
+    "text_html": "<p>はてなは「『知る』『つながる』『表現する』で新しい体験を提供し、人の生活を豊かにする」をミッションに、「<a href=\"https://b.hatena.ne.jp/\">はてなブックマーク</a>」「<a href=\"https://hatenablog.com/\">はてなブログ</a>」などのソーシャルサービスを展開してきました。最近はこれまでのサービス開発・運用知見を活かし、サーバー監視サービス「<a href=\"https://mackerel.io/\">Mackerel</a>」などビジネス向けの製品や、受託サービスの開発・運用も行っています。</p><p>Scala は Mackerel やはてなブックマーク、はてなブログで採用され、稼働しています（<a href=\"https://developer.hatenastaff.com/entry/2019/07/09/103000\">ScalaMatsuri2019にて「いかにして我々は10年もののPerlプロダクトをScalaでリプレースしたか」というタイトルで登壇しました</a>、<a href=\"https://developer.hatenastaff.com/entry/2016/08/24/150000\">Scala 関西 Summit ではてなにおけるマイクロサービスと Scala について発表します</a> など）。</p><p>技術によってインターネットと人々の生活を豊かにすることに情熱を持てる方、ぜひはてなで働いてみませんか？ 詳しくは以下のサイトをご覧ください。</p><ul><li><a href=\"https://hatenacorp.jp/recruit/engineer/\">エンジニア採用 - 採用情報 - 株式会社はてな</a></li><li><a href=\"https://speakerdeck.com/hatena/engineers-recruitment\">株式会社はてな エンジニア採用資料 / Engineers Recruitment - Speaker Deck</a></li><li><a href=\"https://developer.hatenastaff.com/\">Hatena Developer Blog</a></li></ul>",
+    "slide_html": "<script async class=\"speakerdeck-embed\" data-id=\"3eb0c03150414e2193134e2d5caa24f8\" data-ratio=\"1.33333333333333\" src=\"//speakerdeck.com/assets/embed.js\"></script>"
+  },
+  {
+    "name": "AnyMind Group Inc.",
+    "logo": "/img/sponsors/anymind.png",
+    "url": "https://anymindgroup.com/career/"
+  },
+  {
+    "name": "ファンズ株式会社",
+    "logo": "/img/sponsors/funds.png",
+    "url": "https://funds.jp/"
+  },
+  {
+    "name": "株式会社FLINTERS",
+    "logo": "/img/sponsors/FLINTES.svg",
+    "url": "https://www.flinters.co.jp/",
+    "text_html": "<p>FLINTERS（セプテーニ・オリジナルから2021年に社名変更）はセプテーニグループを技術で成功に導くスペシャリスト集団です。<br>セプテーニグループではデジタルマーケティング事業、メディアプラットフォーム事業、新規事業の3つの領域で展開しており、FLINTERSでは各領域でのツールやプロダクトを開発しています。</p><p>ScalaMatsuri 2016 から今回まで6回連続スポンサーです。</p><p>保守性の高いシステムを素早く作るために、Scalaの積極的な採用、ドメイン駆動設計(DDD)を取り入れる等の方針を掲げています。方針は技術指針として公開していますので、興味のある方はご参照ください。<br><a href=\"https://www.flinters.co.jp/\">https://www.flinters.co.jp/</a></p><p>FLINTERSでは一緒に働ける仲間を積極的に募集しています。<br>保守性の高いシステムを素早く作りたい方、ぜひお気軽にご連絡ください!<br><a href=\"https://www.flinters.co.jp/recruit/\">https://www.flinters.co.jp/recruit/</a></p>",
+    "slide_html": ""
   }
 ]
