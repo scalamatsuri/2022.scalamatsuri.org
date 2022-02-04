@@ -35,8 +35,8 @@ ja:
       <li><a href="https://www.slideshare.net/scalaconfjp/building-a-unified-data-pipline-in-spark" target="_blank">Apache Spark を用いた Big Data パイプラインの統一</a></li>
       <li><a href="https://www.slideshare.net/scalaconfjp/the-evolution-of-scala-scala" target="_blank">The Evolution of Scala / Scala進化論</a></li>
       <li><a href="/sub-samples/sub-sample.key" target="_blank">サンプル資料 (Keynote 09)</a></li>
-      <li><a href="/sub-samples/sub-sample.pdf" target="_blank">サンプル資料 (PowerPoint)</a></li>
-      <li><a href="/sub-samples/sub-sample.pptx" target="_blank">サンプル資料 (PDF)</a></li>
+      <li><a href="/sub-samples/sub-sample.pdf" target="_blank">サンプル資料 (PDF)</a></li>
+      <li><a href="/sub-samples/sub-sample.pptx" target="_blank">サンプル資料 (PowerPoint)</a></li>
     </ul>
     <br/>
     サンプル資料を参考に丸ゴシック体の 36px (Windows だと 27pt、Mac だと 36pt) で二行分のスペースを資料の下の部分に入れて下さい。 字幕の文言は、全てを直訳しようとせずに、肝となる部分だけを一言で意訳するようにして下さい。
