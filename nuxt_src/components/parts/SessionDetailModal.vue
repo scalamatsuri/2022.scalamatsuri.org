@@ -17,7 +17,7 @@
 <template>
   <div ref="modalKeyListener" class="modal_inner" tabindex="0" @keyup.escape="$emit('close')">
     <h2 class="modal_title">
-      <nuxt-link v-if="isProposal(program)" :to="localePath({name: 'proposals-id', params: {id: program.id}})" no-prefetch target="_blank">
+      <nuxt-link v-if="isProposal(program)" :to="localePath({ name: 'proposals-id', params: { id: program.id } })" no-prefetch target="_blank">
         {{ program[$i18n.locale].title }}
       </nuxt-link>
       <span v-else>
@@ -144,8 +144,8 @@
             </p>
           </dd>
         </dl>
-        <dl v-if="speaker.speaker_experience && speaker.speaker_experience.length > 0" class="modal_scope_large">
-          <dt v-if="program[$i18n.locale].speakers && program[$i18n.locale].speakers.length === 1">
+        <dl v-if=" speaker.speaker_experience && speaker.speaker_experience.length > 0 " class="modal_scope_large">
+          <dt v-if=" program[$i18n.locale].speakers && program[$i18n.locale].speakers.length === 1 ">
             {{ $t('speaker_experience') }}
           </dt>
           <dt v-else>
