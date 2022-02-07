@@ -22,13 +22,7 @@
           "name": "NAKAMURA Manabu (gakuzzzz)",
           "icon": "https://pbs.twimg.com/profile_images/1431608839/ceb5e4f7-bec8-4a68-a86c-32d0c7ae4e22_400x400.png",
           "organization": "(株)Tech to Value, (株)エフ・コード",
-          "speaker_experience": [
-            "ScalaMatusri 2020  https://2020.scalamatsuri.org/ja/proposals/J27",
-            "",
-            "BuriKaigi2020 https: //gakuzzzz.github.io/slides/type_safe_builder_in_java/",
-            "",
-            "Scala関西Summit 2019 https: //gakuzzzz.github.io/slides/lightweight_clean_architecture_with_dmt/"
-          ],
+          "speaker_experience": [],
           "contributes": [
             "https://github.com/t2v/holidays",
             "",
@@ -52,13 +46,7 @@
           "name": "NAKAMURA Manabu (gakuzzzz)",
           "icon": "https://pbs.twimg.com/profile_images/1431608839/ceb5e4f7-bec8-4a68-a86c-32d0c7ae4e22_400x400.png",
           "organization": "(株)Tech to Value, (株)エフ・コード",
-          "speaker_experience": [
-            "ScalaMatusri 2020  https://2020.scalamatsuri.org/ja/proposals/J27",
-            "",
-            "BuriKaigi2020 https: //gakuzzzz.github.io/slides/type_safe_builder_in_java/",
-            "",
-            "Scala関西Summit 2019 https: //gakuzzzz.github.io/slides/lightweight_clean_architecture_with_dmt/"
-          ],
+          "speaker_experience": [],
           "contributes": [
             "https://github.com/t2v/holidays",
             "",
@@ -94,13 +82,7 @@
           "name": "Pierre Ricadat",
           "icon": "https://avatars.githubusercontent.com/u/7413894?v=4",
           "organization": "Server Engineer at Devsisters",
-          "speaker_experience": [
-            "Scala Matsuri 2020 - https://www.youtube.com/watch?v=oLvdhVNIC3k",
-            "",
-            "SF Scala - https: //www.youtube.com/watch?v=lgxUKsOH65k",
-            "",
-            "Functional Scala 2019 - https: //www.youtube.com/watch?v=OC8PbviYUlQ"
-          ],
+          "speaker_experience": [],
           "contributes": [
             "Caliban, ZIO"
           ],
@@ -122,13 +104,7 @@
           "name": "Pierre Ricadat",
           "icon": "https://avatars.githubusercontent.com/u/7413894?v=4",
           "organization": "Server Engineer at Devsisters",
-          "speaker_experience": [
-            "Scala Matsuri 2020 - https://www.youtube.com/watch?v=oLvdhVNIC3k",
-            "",
-            "SF Scala - https: //www.youtube.com/watch?v=lgxUKsOH65k",
-            "",
-            "Functional Scala 2019 - https: //www.youtube.com/watch?v=OC8PbviYUlQ"
-          ],
+          "speaker_experience": [],
           "contributes": [
             "Caliban, ZIO"
           ],
@@ -162,13 +138,7 @@
           "name": "@phenan",
           "icon": "https://pbs.twimg.com/profile_images/663178783/enemy4_400x400.png",
           "organization": "LINE株式会社",
-          "speaker_experience": [
-            "Scala における型クラス入門 (ScalaMatsuri 2019) slide: https://speakerdeck.com/phenan/intro-to-typeclass-in-scala",
-            "",
-            "User-Defined Operators Including Name Binding for New Language Constructs (<Programming> 2017)",
-            "",
-            "Composable User-Defined Operators That Can Express User-Defined Literals (Modularity'14)"
-          ],
+          "speaker_experience": [],
           "contributes": [],
           "github": "phenan",
           "twitter": "phenan",
@@ -188,13 +158,7 @@
           "name": "@phenan",
           "icon": "https://pbs.twimg.com/profile_images/663178783/enemy4_400x400.png",
           "organization": "LINE株式会社",
-          "speaker_experience": [
-            "Scala における型クラス入門 (ScalaMatsuri 2019) slide: https://speakerdeck.com/phenan/intro-to-typeclass-in-scala",
-            "",
-            "User-Defined Operators Including Name Binding for New Language Constructs (<Programming> 2017)",
-            "",
-            "Composable User-Defined Operators That Can Express User-Defined Literals (Modularity'14)"
-          ],
+          "speaker_experience": [],
           "contributes": [],
           "github": "phenan",
           "twitter": "phenan",
@@ -282,9 +246,7 @@
           "name": "Ryan Wright",
           "icon": "https://en.gravatar.com/ryanrwright",
           "organization": "Founder & CEO at thatDot, Inc.",
-          "speaker_experience": [
-            "Many years of presenting to DARPA as principal investigator, as software engineering leader, and startup founder!"
-          ],
+          "speaker_experience": [],
           "contributes": [
             "quine.io  -  this will be released in mid-February as completely free/open software. It is written entirely in Scala, and is the focus of this talk."
           ],
@@ -306,9 +268,7 @@
           "name": "Ryan Wright",
           "icon": "https://en.gravatar.com/ryanrwright",
           "organization": "Founder & CEO at thatDot, Inc.",
-          "speaker_experience": [
-            "Many years of presenting to DARPA as principal investigator, as software engineering leader, and startup founder!"
-          ],
+          "speaker_experience": [],
           "contributes": [
             "quine.io  -  this will be released in mid-February as completely free/open software. It is written entirely in Scala, and is the focus of this talk."
           ],
@@ -342,9 +302,7 @@
           "name": "Eugene Yokota",
           "icon": "https://pbs.twimg.com/profile_images/1433141732930109446/1chynLaI_400x400.jpg",
           "organization": "Twitter",
-          "speaker_experience": [
-            "Scala Days, ScalaSphere, NE Scala"
-          ],
+          "speaker_experience": [],
           "contributes": [
             "sbt, scopt"
           ],
@@ -366,9 +324,7 @@
           "name": "Eugene Yokota",
           "icon": "https://pbs.twimg.com/profile_images/1433141732930109446/1chynLaI_400x400.jpg",
           "organization": "Twitter",
-          "speaker_experience": [
-            "Scala Days, ScalaSphere, NE Scala"
-          ],
+          "speaker_experience": [],
           "contributes": [
             "sbt, scopt"
           ],
@@ -402,16 +358,7 @@
           "name": "TSUJI Yohei (crossroad0201)",
           "icon": "https://pbs.twimg.com/profile_images/1236925246/crossroad0201_400x400.jpg",
           "organization": "Chatwork株式会社",
-          "speaker_experience": [
-            "2019/8/31 MixLeap 現場でDDD",
-            "https: //speakerdeck.com/crossroad0201/domeinqu-dong-she-ji-demobuwakusimasita",
-            "",
-            "2018/11/10 Scala関西Summit2018",
-            "https: //speakerdeck.com/crossroad0201/entapuraizu-scala",
-            "",
-            "2018/318 ScalaMatsuri 2018",
-            "https: //speakerdeck.com/crossroad0201/practice-ddd-with-scala-en"
-          ],
+          "speaker_experience": [],
           "contributes": [],
           "github": "crossroad0201",
           "twitter": "crossroad0201",
@@ -431,16 +378,7 @@
           "name": "TSUJI Yohei (crossroad0201)",
           "icon": "https://pbs.twimg.com/profile_images/1236925246/crossroad0201_400x400.jpg",
           "organization": "Chatwork株式会社",
-          "speaker_experience": [
-            "2019/8/31 MixLeap 現場でDDD",
-            "https: //speakerdeck.com/crossroad0201/domeinqu-dong-she-ji-demobuwakusimasita",
-            "",
-            "2018/11/10 Scala関西Summit2018",
-            "https: //speakerdeck.com/crossroad0201/entapuraizu-scala",
-            "",
-            "2018/318 ScalaMatsuri 2018",
-            "https: //speakerdeck.com/crossroad0201/practice-ddd-with-scala-en"
-          ],
+          "speaker_experience": [],
           "contributes": [],
           "github": "crossroad0201",
           "twitter": "crossroad0201",
@@ -472,9 +410,7 @@
           "name": "Tsubasa Matsukawa",
           "icon": "https://en.gravatar.com/userimage/43626898/23eb203df81ebe5097a33a3133c65df0.jpeg",
           "organization": "アルプ株式会社",
-          "speaker_experience": [
-            "ScalaMatsuri 2019 (https://speakerdeck.com/ma2k8/the-advantage-of-using-eff-in-scala-project)"
-          ],
+          "speaker_experience": [],
           "contributes": [],
           "github": "wing_007",
           "twitter": "ma2k8",
@@ -494,9 +430,7 @@
           "name": "Tsubasa Matsukawa",
           "icon": "https://en.gravatar.com/userimage/43626898/23eb203df81ebe5097a33a3133c65df0.jpeg",
           "organization": "アルプ株式会社",
-          "speaker_experience": [
-            "ScalaMatsuri 2019 (https://speakerdeck.com/ma2k8/the-advantage-of-using-eff-in-scala-project)"
-          ],
+          "speaker_experience": [],
           "contributes": [],
           "github": "wing_007",
           "twitter": "ma2k8",

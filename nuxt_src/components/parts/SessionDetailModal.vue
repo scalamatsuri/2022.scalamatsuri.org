@@ -106,7 +106,7 @@
           {{ program[$i18n.locale].language }}
         </dd>
       </dl>
-      <dl v-if="program[$i18n.locale].keywords" class="modal_scope">
+      <!-- <dl v-if="program[$i18n.locale].keywords" class="modal_scope">
         <dt>
           {{ $t('keywords') }}
         </dt>
@@ -117,8 +117,8 @@
             </li>
           </ul>
         </dd>
-      </dl>
-      <dl v-if="program[$i18n.locale].tags" class="modal_scope">
+      </dl> -->
+      <!-- <dl v-if="program[$i18n.locale].tags" class="modal_scope">
         <dt>
           {{ $t('tag') }}
         </dt>
@@ -129,7 +129,7 @@
             </li>
           </ul>
         </dd>
-      </dl>
+      </dl> -->
       <div v-for="speaker in program[$i18n.locale].speakers" :key="speaker.name">
         <dl v-if="speaker.contributes && speaker.contributes.length > 0" class="modal_scope_large">
           <dt v-if="program[$i18n.locale].speakers.length === 1">
