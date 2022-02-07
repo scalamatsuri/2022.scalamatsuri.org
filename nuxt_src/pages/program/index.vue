@@ -11,7 +11,7 @@ en:
     Conference DAY in conference format (3 parallel sessions). Doors open at 10:30, scheduled to end at 21:00 in JST.<br>
     Simultaneous interpretation will be provided via Zoom Webinar for all Track A or B sessions.
   day2_description: |
-    Open Mic DAY <a href="https://github.com/scalamatsuri/2022.unconference/projects/1" target="_blank" rel="noopener">Timetable</a>.<br>
+    Open Mic Conference DAY <a href="https://github.com/scalamatsuri/2022.unconference/projects/1" target="_blank" rel="noopener">Timetable</a>.<br>
     Doors open at 10:00, and scheduled to end at 15:25 in JST.<br>
     Please put your sessions ideas to <a href="https://github.com/scalamatsuri/2022.unconference" target="_blank" rel="noopener">scalamatsuri/2022.unconference</a> Github repository.<br><br>
 
