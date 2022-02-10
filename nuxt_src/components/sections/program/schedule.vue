@@ -14,13 +14,9 @@
       </div>
     </div>
   </div>
-  <div
-    v-else-if="isProgram()"
-    class="schedule_event"
-  >
-    <p class="schedule_room">
-      {{ schedule.room }}
-    </p>
+  <div v-else-if="isProgram()" class="schedule_event">
+    <!-- NOTE: 2022 はシングルトラックで ROOM がないため非表示 -->
+    <!-- <p class="schedule_room">{{ schedule.room }}</p> -->
     <!-- 内容 ここから -->
     <div v-if="schedule.proposal" class="schedule_detail">
       <p class="schedule_title">
@@ -48,10 +44,7 @@
     <!-- 登壇者 ここから -->
     <div class="schedule_speakers">
       <div v-for="speaker in schedule.proposal[locale].speakers" :key="speaker.name" class="schedule_speaker">
-        <img
-          v-lazy="speaker.icon"
-          class="schedule_speaker_icon"
-        >
+        <img v-lazy="speaker.icon" class="schedule_speaker_icon">
         <p class="schedule_speaker_name">
           {{ speaker.name }}
         </p>
@@ -115,7 +108,7 @@ export default {
   // 場当たり的な対応だが…
   methods: {
     useRoom() {
-      return this.schedule && !!this.schedule.room
+      return this.schedule && !!this.schedule.proposal
     },
     isProgram() {
       return this.useRoom() && !!this.schedule.proposal
