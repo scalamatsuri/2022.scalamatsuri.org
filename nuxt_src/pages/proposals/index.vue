@@ -128,6 +128,7 @@ import TableRow from '@/components/sections/candidates/tableRow'
 import Modal from '@/components/parts/SessionDetailModal.vue'
 // import ProposalSkelton from '@/components/parts/ProposalSkelton.vue'
 import * as mTypes from '@/store/mutation-types'
+import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
 
 // import VotedSessions from '@/components/sections/proposals/VotedSessions.vue'
 
@@ -138,6 +139,7 @@ export default {
     // ProposalSkelton,
     // VotedSessions
   },
+  mixins: [Page404NotFoundMixin],
   data() {
     return {
       selectProgram: null,
