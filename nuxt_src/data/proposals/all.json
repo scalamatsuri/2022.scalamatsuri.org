@@ -83,9 +83,7 @@
           "icon": "https://avatars.githubusercontent.com/u/7413894?v=4",
           "organization": "Server Engineer at Devsisters",
           "speaker_experience": [],
-          "contributes": [
-            "Caliban, ZIO"
-          ],
+          "contributes": ["Caliban, ZIO"],
           "github": "ghostdogpr",
           "twitter": "ghostdogpr",
           "other_sns": ""
@@ -105,9 +103,7 @@
           "icon": "https://avatars.githubusercontent.com/u/7413894?v=4",
           "organization": "Server Engineer at Devsisters",
           "speaker_experience": [],
-          "contributes": [
-            "Caliban, ZIO"
-          ],
+          "contributes": ["Caliban, ZIO"],
           "github": "ghostdogpr",
           "twitter": "ghostdogpr",
           "other_sns": ""
@@ -244,7 +240,7 @@
       "speakers": [
         {
           "name": "Ryan Wright",
-          "icon": "https://en.gravatar.com/ryanrwright",
+          "icon": "http://2.gravatar.com/avatar/e09b083ecc20bb306f371a0216a5c889",
           "organization": "Founder & CEO at thatDot, Inc.",
           "speaker_experience": [],
           "contributes": [
@@ -266,7 +262,7 @@
       "speakers": [
         {
           "name": "Ryan Wright",
-          "icon": "https://en.gravatar.com/ryanrwright",
+          "icon": "http://2.gravatar.com/avatar/e09b083ecc20bb306f371a0216a5c889",
           "organization": "Founder & CEO at thatDot, Inc.",
           "speaker_experience": [],
           "contributes": [
@@ -303,9 +299,7 @@
           "icon": "https://pbs.twimg.com/profile_images/1433141732930109446/1chynLaI_400x400.jpg",
           "organization": "Twitter",
           "speaker_experience": [],
-          "contributes": [
-            "sbt, scopt"
-          ],
+          "contributes": ["sbt, scopt"],
           "github": "eed3si9n",
           "twitter": "eed3si9n",
           "other_sns": ""
@@ -325,9 +319,7 @@
           "icon": "https://pbs.twimg.com/profile_images/1433141732930109446/1chynLaI_400x400.jpg",
           "organization": "Twitter",
           "speaker_experience": [],
-          "contributes": [
-            "sbt, scopt"
-          ],
+          "contributes": ["sbt, scopt"],
           "github": "eed3si9n",
           "twitter": "eed3si9n",
           "other_sns": ""
