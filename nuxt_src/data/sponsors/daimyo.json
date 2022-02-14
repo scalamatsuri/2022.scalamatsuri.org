@@ -45,5 +45,15 @@
     "url": "https://www.flinters.co.jp/",
     "text_html": "<p>FLINTERS（セプテーニ・オリジナルから2021年に社名変更）はセプテーニグループを技術で成功に導くスペシャリスト集団です。<br>セプテーニグループではデジタルマーケティング事業、メディアプラットフォーム事業、新規事業の3つの領域で展開しており、FLINTERSでは各領域でのツールやプロダクトを開発しています。</p><p>ScalaMatsuri 2016 から今回まで6回連続スポンサーです。</p><p>保守性の高いシステムを素早く作るために、Scalaの積極的な採用、ドメイン駆動設計(DDD)を取り入れる等の方針を掲げています。方針は技術指針として公開していますので、興味のある方はご参照ください。<br><a href=\"https://www.flinters.co.jp/\">https://www.flinters.co.jp/</a></p><p>FLINTERSでは一緒に働ける仲間を積極的に募集しています。<br>保守性の高いシステムを素早く作りたい方、ぜひお気軽にご連絡ください!<br><a href=\"https://www.flinters.co.jp/recruit/\">https://www.flinters.co.jp/recruit/</a></p>",
     "slide_html": ""
+  },
+  {
+    "name": "株式会社FOLIO",
+    "logo": "/img/sponsors/folio.svg",
+    "url": "https://corp.folio-sec.com/"
+  },
+  {
+    "name": "株式会社アットウェア ",
+    "logo": "/img/sponsors/atware.svg",
+    "url": "https://www.atware.co.jp/"
   }
 ]

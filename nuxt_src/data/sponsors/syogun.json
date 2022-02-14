@@ -7,18 +7,20 @@
     "slide_html": ""
   },
   {
- 	"name": "株式会社リクルート",
- 	"logo": "/img/sponsors/recruit.jpg",
- 	"url": "https://recruit-saiyo.jp/technology/"
+ 	  "name": "株式会社リクルート",
+ 	  "logo": "/img/sponsors/recruit.jpg",
+ 	  "url": "https://recruit-saiyo.jp/technology/"
   },
   {
- 	"name": "株式会社COMPASS",
- 	"logo": "/img/sponsors/qubena.png",
- 	"url": "https://qubena.com/"
+ 	  "name": "株式会社COMPASS",
+ 	  "logo": "/img/sponsors/qubena.png",
+ 	  "url": "https://qubena.com/",
+    "text_html": "<p><a href=\"https://qubena.com/\">COMPASS</a>は、「Qubena（キュビナ）」というAI型教材の開発を通して、子どもたちの<br>学習をパーソナライズし、より効果的に知識、技能を習得できるプラットフォームを<br>提供しています！</p><p>現在全国約100自治体、公立・私立小中高合計で1,800校にて導入され、約50万人の<br>子供たちの学びを支えています。<br>昨今のコロナの影響もあり、EdTechの市場規模は2600億円となっており、今後ますます<br>多くの自治体での導入が見込まれています。</p><p><b>「Scalaで、学びをもっと愉しく！」</b></p><p>バックエンド開発ではScalaを全面的に採用し、設計にはDDD、高負荷への対策に<br>Akka Cluster Sharding(分散システム)を導入しています。<br>また、進化可能なアーキテクチャ基盤の構築に向けてモジュラモノリスの導入に取り<br>組んでいます。</p><p>組織としては開発リソースの80%を機能開発に、20%をカイゼン活動、技術的課題への<br>取り組みに充てており、常に現状に満足しないシステム開発を進めています。</p><p>日本の公教育をアップデートし、子どもたちの未来を支えるエンジニアを募集しています！<br>少しでも興味がある方は、ぜひお気軽にご連絡ください！</p><p><a href=\"https://herp.careers/v1/compass/requisition-groups/1aae6e77-07d3-4903-b02d-3d589c183ec4\">エンジニア採用情報</a><br><a href=\"https://note.qubena.com/\">COMPASS公式note</a>",
+    "slide_html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;\"><iframe src=\"https://speakerdeck.com/player/35d1c6c17ce8487bb0498febcf88a569\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media;\"></iframe></div>"
   },
   {
-  "name": "株式会社スリーシェイク",
-  "logo": "/img/sponsors/3shake.png",
-  "url": "https://3-shake.com/"
+    "name": "株式会社スリーシェイク",
+    "logo": "/img/sponsors/3shake.png",
+    "url": "https://3-shake.com/"
   }
 ]
