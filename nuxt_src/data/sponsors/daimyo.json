@@ -28,7 +28,9 @@
   {
     "name": "AnyMind Group Inc.",
     "logo": "/img/sponsors/anymind.png",
-    "url": "https://anymindgroup.com/career/"
+    "url": "https://anymindgroup.com/career/",
+    "text_html": "<p>AnyMind Group</p><p>ブランドの生産・EC構築・マーケティング・物流を一貫して支援する<br>プラットフォームを世界13市場17拠点に提供するテクノロジーカンパニーです。</p><p>現在Product Developmentチームは、約15国籍、70名を超えるメンバーで拠点横断のグローバルチームになっています。多国籍チームなので公用語は英語です。</p><p>開発拠点を構えるBangkok、Tokyo、Ho Chi Minh City、Bangalore勤務（VISAの審査有）、あるいはフルリモート勤務(JP、 TH timezone) で働いていただけます。拠点の移動も可能です。</p><p>グローバルな環境で働きたい方、英語を使って業務したい方、ご応募お待ちしています。</p><p>AnyMind Group</p><p>We are a technology company that provides platforms that consistently supports brand production, EC construction, marketing, and logistics.</p><p>platforms that support integrated production, e-commerce, marketing, and logistics in 13 markets and 17 locations worldwide.</p><p>Currently, the Product Development team is a cross-base global team with 70 members from about 15 different nationalities. As a multinational team, the official language within the team is English.</p><p>You can work at our development sites in Bangkok, Tokyo, Ho Chi Minh City, Bangalore (with VISA review), or full remote work (JP, TH timezone). It's also possible to relocate.</p><p>If you want to work in a global environment and use English in your work, we are looking forward to your application.</p>",
+    "slide_html": ""
   },
   {
     "name": "ファンズ株式会社",
@@ -43,5 +45,15 @@
     "url": "https://www.flinters.co.jp/",
     "text_html": "<p>FLINTERS（セプテーニ・オリジナルから2021年に社名変更）はセプテーニグループを技術で成功に導くスペシャリスト集団です。<br>セプテーニグループではデジタルマーケティング事業、メディアプラットフォーム事業、新規事業の3つの領域で展開しており、FLINTERSでは各領域でのツールやプロダクトを開発しています。</p><p>ScalaMatsuri 2016 から今回まで6回連続スポンサーです。</p><p>保守性の高いシステムを素早く作るために、Scalaの積極的な採用、ドメイン駆動設計(DDD)を取り入れる等の方針を掲げています。方針は技術指針として公開していますので、興味のある方はご参照ください。<br><a href=\"https://www.flinters.co.jp/\">https://www.flinters.co.jp/</a></p><p>FLINTERSでは一緒に働ける仲間を積極的に募集しています。<br>保守性の高いシステムを素早く作りたい方、ぜひお気軽にご連絡ください!<br><a href=\"https://www.flinters.co.jp/recruit/\">https://www.flinters.co.jp/recruit/</a></p>",
     "slide_html": ""
+  },
+  {
+    "name": "株式会社FOLIO",
+    "logo": "/img/sponsors/folio.svg",
+    "url": "https://corp.folio-sec.com/"
+  },
+  {
+    "name": "株式会社アットウェア",
+    "logo": "/img/sponsors/atware.svg",
+    "url": "https://www.atware.co.jp/"
   }
 ]

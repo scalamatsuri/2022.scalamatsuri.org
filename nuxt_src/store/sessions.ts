@@ -10,8 +10,8 @@ import { defineModule, defineGetter } from '~/store/helpers'
 import { RootState } from '~/store'
 import { Session } from '~/models/session'
 
-import sessionsData from '~/data/sessions/all.json'
-import proposalData from '~/data/top/acceptedSessions.json'
+import sessionsData from '~/data/sessions/index.json'
+import acceptedSessions from '~/data/top/acceptedSessions.json'
 import sponsorSessionData from '~/data/sponsor-sessions/all.json'
 import { Proposal } from '~/models/proposal'
 
@@ -33,19 +33,17 @@ export interface State {
 
 const initialState = (): State => {
   const partialSessions: Array<PartialSession> = sessionsData
-  const proposals: Array<Proposal> = proposalData
+  const sessons: Array<Proposal> = acceptedSessions
   const sponsorSessions: Array<Proposal> = sponsorSessionData
 
-  // All sessions, containing: proposals, sponsor sessions, and unconference sessions.
-  const sessionsMap: Map<string, Proposal> = new Map(proposals.concat(sponsorSessions).map(p => [p.id, p]))
+  // All sessions, containing: acceptedSessions, sponsor sessions, and unconference sessions.
+  const sessionsMap: Map<string, Proposal> = new Map(sessons.concat(sponsorSessions).map(p => [p.id, p]))
 
   return {
-    sessions: partialSessions.map(s => 
-      ({
-        ...s,
-        proposal: s.id ? sessionsMap.get(s.id) : undefined
-      })
-    )
+    sessions: partialSessions.map(s => ({
+      ...s,
+      proposal: s.id ? sessionsMap.get(s.id) : undefined
+    }))
   }
 }
 
@@ -55,7 +53,7 @@ const getters = defineGetter<State, RootState>()({
    */
   filterByDateAndGroupByStartAt: state => (date: number): Dictionary<Session[]> => {
     const targets = state.sessions.filter(s => DateTime.fromSeconds(s.startAt).setZone(`UTC+9`).day === date)
-    return  groupBy(sortBy(targets, ['startAt']), 'startAt')
+    return groupBy(sortBy(targets, ['startAt']), 'startAt')
   }
 })
 

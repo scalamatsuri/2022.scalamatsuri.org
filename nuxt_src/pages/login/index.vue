@@ -40,9 +40,11 @@
 import { mapState, mapGetters } from 'vuex'
 import firebase from 'firebase/app'
 import { auth } from '~/plugins/firebase'
+import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
 
 export default {
   name: 'FirebaseAuth',
+  mixins: [Page404NotFoundMixin],
   data() {
     return {
       prevRoute: null
