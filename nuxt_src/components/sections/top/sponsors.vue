@@ -1,6 +1,7 @@
 <i18n>
 ## language=yaml
 en:
+  sponsor_title: "Sponsors"
   sponsor_overview: |
     We are looking for sponsors who can support ScalaMatsuri, Asia's largest international Scala conference.<br>
     For details, please see the <a href="%{sponsor_link}">sponsor recruitment page</a>.
@@ -13,6 +14,7 @@ en:
   bugyo_hatena: "Kawara-ban Bugyo"
   bugyo_sentry: "Metsuke Bugyo"
 ja:
+  sponsor_title: "スポンサー"
   sponsor_overview: |
     アジア最大級の国際Scalaカンファレンスである、ScalaMatsuriに協賛いただけるスポンサー様を募集しています。<br>
     詳細は<a href="%{sponsor_link}">スポンサー募集ページ</a> をご覧ください。
@@ -28,8 +30,8 @@ ja:
 <template>
   <section class="sponsors">
     <div class="sponsors_inner">
-      <h2 class="sponsors_title">
-        Sponsors
+      <h2 class="content_title">
+        {{ $t('sponsor_title') }}
       </h2>
       <p class="content_text">
         <span v-html="$t('sponsor_overview', { sponsor_link: localePath('sponsorship') } )" />
