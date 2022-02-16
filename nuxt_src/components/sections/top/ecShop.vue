@@ -8,7 +8,7 @@ ja:
 en:
   title: ScalaMatsuri T-shirt shop
   overview: |
-    ScalaMatsuri T-shirts online shop has been open for a limited period! There are seven color T-shirts.
+    ScalaMatsuri T-shirts online shop has been open for a limited period!
   ecshop_world_link: Worldwide Orders
 </i18n>
 
