@@ -8,7 +8,7 @@ en:
 ja:
   sponsorship: "スポンサー募集"
   cfp: "セッションに応募する"
-  ticket: "チケット購入"
+  ticket: "チケット"
   doorkeeper: "Doorkeeper"
 </i18n>
 <template>
