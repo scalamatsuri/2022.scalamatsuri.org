@@ -3,21 +3,21 @@
 en:
   title: Program
   day1_header: Conference Day
-  day2_header: Open Mic Day
-  unconference_title: What is an unconference？
+  day2_header: Open Mic Conference Day
+  unconference_title: What is an Open Mic Conference?
   to_candidates: To Proposals
   bookmark_only: BookMark Only
   day1_description: |
     Conference DAY in conference format (3 parallel sessions). Doors open at 10:30, scheduled to end at 21:00 in JST.<br>
     Simultaneous interpretation will be provided via Zoom Webinar for all Track A or B sessions.
   day2_description: |
-    Open Mic Conference DAY <a href="https://github.com/scalamatsuri/2022.unconference/projects/1" target="_blank" rel="noopener">Timetable</a>.<br>
+    Open Mic Conference <br>
     Doors open at 10:00, and scheduled to end at 15:25 in JST.<br>
     Please put your sessions ideas to <a href="https://github.com/scalamatsuri/2022.unconference" target="_blank" rel="noopener">scalamatsuri/2022.unconference</a> Github repository.<br><br>
 
 ja:
   title: プログラム
-  day1_header: カンファレンス Day
+  day1_header: 飛び入りカンファレンス Day
   day2_header: 飛び入りカンファレンス Day
   unconference_title: 飛び入りカンファレンスとは？
   to_candidates: 応募セッション一覧を表示する
@@ -26,7 +26,8 @@ ja:
     カンファレンス形式 10時00分入場開始 15:25終了予定 (JST)。<br>
     全セッションについて、Zoom Webinarを利用した同時通訳がつきます。<br><br>
   day2_description: |
-    飛び入りカンファレンス DAY <a href="https://github.com/scalamatsuri/2022.unconference/projects/1" target="_blank" rel="noopener">タイムテーブル</a> 10時30分入場開始 20時終了予定(JST）<br>
+    飛び入りカンファレンス <br>
+    10時30分入場開始 20時終了予定(JST）<br>
     セッションのアイディアは、<a href="https://github.com/scalamatsuri/2022.unconference" target="_blank" rel="noopener">scalamatsuri/2022.unconference</a> Githubリポジトリに投稿してください。<br><br>
     さらに、ScalaMatsuriスポンサー企業によるバーチャルブースコンテンツTrackも追加予定です。どうぞお楽しみに！
 </i18n>
@@ -74,20 +75,35 @@ ja:
               {{ getTimeStr(parseInt(startAt)) }}
             </p>
             <div class="schedule_events">
-              <div v-for="session in sessions" :key="session.title || session.proposal" @click="openModal(session.proposal)">
-                <schedule :schedule="session" :locale="$i18n.locale" :style="{ 'pointer-events': isSessionWellDetailed(session.proposal) ? 'auto' : 'none', }" />
+              <div
+                v-for="session in sessions"
+                :key="session.title || session.proposal"
+                @click="openModal(session.proposal)"
+              >
+                <schedule
+                  :schedule="session"
+                  :locale="$i18n.locale"
+                  :style="{ 'pointer-events': isSessionWellDetailed(session.proposal) ? 'auto' : 'none' }"
+                />
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
+
     <div id="day2" class="program">
       <h2 class="program_title">
         {{ getWholeDayStrOf(sessionsIn20) + $t('day2_header') }}
       </h2>
-      <!-- <p class="program_text"><span v-html="$t('day2_description')" /></p> -->
-      <!-- <p><nuxt-link :to="localePath('unconference')">{{ $t('unconference_title') }}</nuxt-link></p> -->
+      <p class="program_text">
+        <span v-html="$t('day2_description')" />
+      </p>
+      <p>
+        <nuxt-link :to="localePath('unconference')">
+          {{ $t('unconference_title') }}
+        </nuxt-link>
+      </p>
       <div class="schedule">
         <div v-for="[startAt, sessions] in Object.entries(sessionsIn20)" :key="startAt">
           <div class="schedule_content">
@@ -95,8 +111,16 @@ ja:
               {{ getTimeStr(parseInt(startAt)) }}
             </p>
             <div class="schedule_events">
-              <div v-for="session in sessions" :key="session.title || session.proposal.id" @click="openModal(session.proposal)">
-                <schedule :schedule="session" :locale="$i18n.locale" :style="{ 'pointer-events': isSessionWellDetailed(session.proposal) ? 'auto' : 'none', }" />
+              <div
+                v-for="session in sessions"
+                :key="session.title || session.proposal.id"
+                @click="openModal(session.proposal)"
+              >
+                <schedule
+                  :schedule="session"
+                  :locale="$i18n.locale"
+                  :style="{ 'pointer-events': isSessionWellDetailed(session.proposal) ? 'auto' : 'none' }"
+                />
               </div>
             </div>
           </div>
@@ -105,7 +129,13 @@ ja:
     </div>
 
     <transition name="fade">
-      <div v-if="showModal" class="modal is_active fadeIn animated" tabindex="0" @click.self="closeModal()" @keyup.escape="closeModal()">
+      <div
+        v-if="showModal"
+        class="modal is_active fadeIn animated"
+        tabindex="0"
+        @click.self="closeModal()"
+        @keyup.escape="closeModal()"
+      >
         <modal :program="selectProgram" @close="closeModal" />
       </div>
     </transition>
@@ -157,17 +187,10 @@ export default {
     },
     getWholeDayStrOf(sessionTimeObj) {
       const sessionTimes = Object.keys(sessionTimeObj).map(v => parseInt(v))
-      return this.getWholeDayStr(
-        sessionTimes[0],
-        sessionTimes[sessionTimes.length - 1]
-      )
+      return this.getWholeDayStr(sessionTimes[0], sessionTimes[sessionTimes.length - 1])
     },
     isSessionWellDetailed(session) {
-      return (
-        session &&
-        session[this.$i18n.locale] &&
-        session[this.$i18n.locale].detail
-      )
+      return session && session[this.$i18n.locale] && session[this.$i18n.locale].detail
     },
     openModal(item) {
       if (!item || !this.isSessionWellDetailed(item)) return
@@ -182,9 +205,7 @@ export default {
     const $t = this.$t.bind(this)
     return {
       title: $t('title'),
-      meta: [
-        { name: 'og:title', content: `${$t('title')} | ScalaMatsuri 2022` }
-      ]
+      meta: [{ name: 'og:title', content: `${$t('title')} | ScalaMatsuri 2022` }]
     }
   }
 }
