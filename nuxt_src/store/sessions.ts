@@ -34,7 +34,7 @@ const initialState = (): State => {
   const openMicSessions: Array<Proposal> = openMicSessionData
   const sponsorSessions: Array<Proposal> = sponsorSessionData
 
-  // All sessions, containing: proposals, sponsor sessions, and unconference sessions.
+  // All sessions, containing: proposals, sponsor sessions, and Open mic conference sessions.
   const sessionsMap: Map<string, Proposal> = new Map(
     sessons
       .concat(sponsorSessions)

@@ -4,7 +4,7 @@ en:
   title: Program
   day1_header: Conference Day
   day2_header: Open Mic Conference Day
-  unconference_title: What is an Open Mic Conference?
+  day2_title: What is an Open Mic Conference?
   to_candidates: To Proposals
   bookmark_only: BookMark Only
   day1_description: |
@@ -19,7 +19,7 @@ ja:
   title: プログラム
   day1_header: 飛び入りカンファレンス Day
   day2_header: 飛び入りカンファレンス Day
-  unconference_title: 飛び入りカンファレンスとは？
+  day2_title: 飛び入りカンファレンスとは？
   to_candidates: 応募セッション一覧を表示する
   bookmark_only: ブックマークのみ表示
   day1_description: |
@@ -101,7 +101,7 @@ ja:
       </p>
       <p>
         <nuxt-link :to="localePath('unconference')">
-          {{ $t('unconference_title') }}
+          {{ $t('day2_title') }}
         </nuxt-link>
       </p>
       <div class="schedule">
