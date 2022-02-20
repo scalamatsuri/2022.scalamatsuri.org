@@ -8,8 +8,8 @@ en:
   to_candidates: To Proposals
   bookmark_only: BookMark Only
   day1_description: |
-    Conference DAY in conference format (3 parallel sessions). Doors open at 10:30, scheduled to end at 21:00 in JST.<br>
-    Simultaneous interpretation will be provided via Zoom Webinar for all Track A or B sessions.
+    Conference DAY in conference format. Doors open at 10:00, scheduled to end at 15:25 in JST.<br>
+    Simultaneous interpretation will be provided via Zoom Webinar for all sessions.
   day2_description: |
     Open Mic Conference DAY <a href="https://github.com/scalamatsuri/2022.unconference/projects/1" target="_blank" rel="noopener">Timetable</a>.<br>
     Doors open at 10:00, and scheduled to end at 15:25 in JST.<br>
