@@ -104,5 +104,7 @@ ja:
     <p class="copyright">
       <small>&copy; ScalaMatsuri Organization | Japan Scala Association</small>
     </p>
+    <!--お問い合わせフォーム(JIRA)-->
+    <script data-jsd-embedded data-key="5fb513a6-45d7-424f-9213-6f517b966355" data-base-url="https://jsd-widget.atlassian.com" src="https://jsd-widget.atlassian.com/assets/embed.js" />
   </footer>
 </template>
