@@ -71,7 +71,8 @@ ja:
         <div v-for="[startAt, sessions] in Object.entries(sessionsIn19)" :key="startAt">
           <div class="schedule_content">
             <p class="schedule_time">
-              {{ getTimeStr(parseInt(startAt)) }}
+              {{ getTimeStr(parseInt(startAt)) }}<br>
+              <small>({{ getTimeZoneStr(parseInt(startAt)) }})</small>
             </p>
             <div class="schedule_events">
               <div v-for="session in sessions" :key="session.title || session.proposal" @click="openModal(session.proposal)">
@@ -92,7 +93,8 @@ ja:
         <div v-for="[startAt, sessions] in Object.entries(sessionsIn20)" :key="startAt">
           <div class="schedule_content">
             <p class="schedule_time">
-              {{ getTimeStr(parseInt(startAt)) }}
+              {{ getTimeStr(parseInt(startAt)) }}<br>
+              <small>({{ getTimeZoneStr(parseInt(startAt)) }})</small>
             </p>
             <div class="schedule_events">
               <div v-for="session in sessions" :key="session.title || session.proposal.id" @click="openModal(session.proposal)">
@@ -142,6 +144,9 @@ export default {
   methods: {
     getTimeStr(time) {
       return DateTime.fromSeconds(time).toFormat('HH:mm')
+    },
+    getTimeZoneStr(time) {
+      return DateTime.fromSeconds(time).toFormat('ZZZZ')
     },
     getDateStr(time) {
       return DateTime.fromSeconds(time).toFormat('d')
