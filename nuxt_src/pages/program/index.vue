@@ -8,7 +8,7 @@ en:
   to_candidates: To Proposals
   bookmark_only: BookMark Only
   day1_description: |
-    Conference DAY in conference format. Doors open at 10:00, scheduled to end at 15:25 in JST.<br>
+    Conference DAY in conference format. Doors open at 09:30, scheduled to end at 15:25 in JST.<br>
     Simultaneous interpretation will be provided via Zoom Webinar for all sessions.
   day2_description: |
     Open Mic Conference <br>
@@ -23,7 +23,7 @@ ja:
   to_candidates: 応募セッション一覧を表示する
   bookmark_only: ブックマークのみ表示
   day1_description: |
-    カンファレンス形式 10時00分入場開始 15:25終了予定 (JST)。<br>
+    カンファレンス形式 09時30分入場開始 15:25終了予定 (JST)。<br>
     全セッションについて、Zoom Webinarを利用した同時通訳がつきます。<br><br>
   day2_description: |
     飛び入りカンファレンス <br>
