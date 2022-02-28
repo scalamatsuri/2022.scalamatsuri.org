@@ -73,7 +73,9 @@
   {
     "name": "Kipp Financial Technologies株式会社",
     "logo": "/img/sponsors/kipp.svg",
-    "url": "https://kipp-corp.com/"
+    "url": "https://kipp-corp.com/",
+    "text_html": "<p><a href=\"https://kipp-corp.com/\">Kipp Financial Technologies (kipp)</a> は、金融サービス提供事業者向けプラットフォーム (Banking as a Service) 開発をしています。プラットフォーム上で発生しているトランザクション量は毎月 20% 以上の成長を続けており、プラットフォームの規模が急拡大しています。プロダクト開発を支えるコア技術として、Scala を活用しています。</p><p>kipp では、金融サービス提供事業者が実装・運用に頭を悩ませずユーザー体験の改善や業務効率化に集中できるよう、モダンな設計で多機能な金融システム基盤をワンストップで提供しています。</p><p><a href=\"https://engineering.kipp-corp.com/\">Kipp Engineering Blog</a> では kipp における取り組みや働き方を紹介しています。そのなかでも特に kipp について深く知っていただける記事をいくつかご紹介します。</p><p><a href=\"https://engineering.kipp-corp.com/blog/hello-world/\">・Kipp Engineering Blogを始めます</a> … kipp の概要と技術スタック、少ない作業量で高品質な管理画面を提供するコツ等を紹介しています。<br><a href=\"https://engineering.kipp-corp.com/blog/team/\">・kippエンジニアリングチームの作り方</a> … kipp エンジニアリングチームの実情とその背景にある考え方、それを実現するための取り組みを説明しています。<br><a href=\"https://engineering.kipp-corp.com/blog/workflow/\">・kippのワークスタイル紹介</a> … 今まさに実践しているワークフローを紹介します。複数のチームがどのようにコラボレートするのかもお伝えしています。<br><a href=\"https://engineering.kipp-corp.com/blog/graphql-hacks/\">・ScalaのマクロをつかったGraphQLサーバの構築</a> … 限られたリソースで多機能なアプリケーションを開発するために GraphQL サーバを構築した事例を紹介しています。</p><p>kipp の開発環境は、従来の金融系といって想像される労働集約的な開発とは一線を画しています。Banking as a Service (BaaS) は SaaS 形式で複数のクライアントに提供するため、クライアントの要望を聞きつつ既存のサービス設計と融合し資産的価値を高めるというチャレンジングな開発体験ができます。</p><p>kipp では、働き方の自由度を高めることで、多様な人材がパフォーマンスを発揮できるような組織づくりをしています。各メンバーがアウトプットを最大化できる方法を考慮した結果、フルリモート勤務と裁量労働制を導入しています（現在も北海道から九州まで各地に在籍）。また、業務委託の開発者も多数参加しています。業務委託から正社員になったメンバーもいます。</p><p>プロダクトの成長にともない、kipp では全国各地から一緒に働ける仲間を積極的に募集しています。日本から新たに価値ある Fintech サービスを生み出しませんか？</p><p>【Kipp Financial Technologies 株式会社 採用情報】<br><a href=\"https://www.wantedly.com/projects/759043\">・サーバサイドエンジニア</a><br><a href=\"https://www.wantedly.com/projects/782595\">・サイトリライアビリティエンジニア</a><br><a href=\"https://www.wantedly.com/projects/732778\">・プロダクトマネジャー</a></p>",
+    "slide_html": ""
   },
   {
     "name": "レバレジーズ株式会社",
