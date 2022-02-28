@@ -13,7 +13,7 @@ en:
   day2_description: |
     Open Mic Conference <br>
     Doors open at 10:00, and scheduled to end at 15:25 in JST.<br>
-    Please put your sessions ideas to <a href="https://github.com/scalamatsuri/2022.unconference" target="_blank" rel="noopener">scalamatsuri/2022.unconference</a> Github repository.<br><br>
+    Please put your sessions ideas to <a href="https://github.com/scalamatsuri/2022.open-mic-day" target="_blank" rel="noopener">scalamatsuri/2022.open-mic-day</a> Github repository.<br><br>
 
 ja:
   title: プログラム
@@ -28,7 +28,7 @@ ja:
   day2_description: |
     飛び入りカンファレンス <br>
     10時30分入場開始 20時終了予定(JST）<br>
-    セッションのアイディアは、<a href="https://github.com/scalamatsuri/2022.unconference" target="_blank" rel="noopener">scalamatsuri/2022.unconference</a> Githubリポジトリに投稿してください。<br><br>
+    セッションのアイディアは、<a href="https://github.com/scalamatsuri/2022.open-mic-day" target="_blank" rel="noopener">scalamatsuri/2022.open-mic-day</a> Githubリポジトリに投稿してください。<br><br>
     さらに、ScalaMatsuriスポンサー企業によるバーチャルブースコンテンツTrackも追加予定です。どうぞお楽しみに！
 </i18n>
 
@@ -72,7 +72,7 @@ ja:
         <div v-for="[startAt, sessions] in Object.entries(sessionsIn19)" :key="startAt">
           <div class="schedule_content">
             <p class="schedule_time">
-              {{ getTimeStr(parseInt(startAt)) }}<br>
+              {{ getTimeStr(parseInt(startAt)) }}<br />
               <small>({{ getTimeZoneStr(parseInt(startAt)) }})</small>
             </p>
             <div class="schedule_events">
@@ -109,7 +109,7 @@ ja:
         <div v-for="[startAt, sessions] in Object.entries(sessionsIn20)" :key="startAt">
           <div class="schedule_content">
             <p class="schedule_time">
-              {{ getTimeStr(parseInt(startAt)) }}<br>
+              {{ getTimeStr(parseInt(startAt)) }}<br />
               <small>({{ getTimeZoneStr(parseInt(startAt)) }})</small>
             </p>
             <div class="schedule_events">

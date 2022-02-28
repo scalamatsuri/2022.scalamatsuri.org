@@ -13,15 +13,15 @@ en:
     Let's see how ScalaMatsuri Open mic conference is organized.
   day2_flow_title: ScalaMatsuri Open mic conference flow
   day2_flow_text_01: |
-    We will prepare <a href="https://github.com/scalamatsuri/2022.unconference" target="_blank" rel="noopener">a GitHub repository to gather session ideas</a> beforehand.
+    We will prepare <a href="https://github.com/scalamatsuri/2022.open-mic-day" target="_blank" rel="noopener">a GitHub repository to gather session ideas</a> beforehand.
     <br>
-    Please create <a href="https://github.com/scalamatsuri/2022.unconference/issues" target="_blank" rel="noopener">GitHub issues</a> to put your session ideas.
+    Please create <a href="https://github.com/scalamatsuri/2022.open-mic-day/issues" target="_blank" rel="noopener">GitHub issues</a> to put your session ideas.
     <br><br>
     Morning and Coffee-break sessions will be held during Open mic conference day.
     <br>
     We will assign sessions ideas on the GitHub project into session slots, and finally form a timetable.
     <br><br>
-    Once <a href="https://github.com/scalamatsuri/2022.unconference/projects/1" target="_blank" rel="noopener">the timetable</a> is decided, the Open mic conference starts.
+    Once <a href="https://github.com/scalamatsuri/2022.open-mic-day/projects/1" target="_blank" rel="noopener">the timetable</a> is decided, the Open mic conference starts.
     <br><br>
     There must be a lot of attractive sessions.
     <br>
@@ -89,13 +89,13 @@ ja:
     では、ScalaMatsuriの飛び入りカンファレンスがどのように作られていくか、説明したいと思います。
   day2_flow_title: ScalaMatsuriの飛び入りカンファレンスの流れ
   day2_flow_text_01: |
-    ScalaMatsuri 2022では、<a href="https://github.com/scalamatsuri/2022.unconference" target="_blank" rel="noopener">ネタを募集するGitHubリポジトリ</a>を用意します。
+    ScalaMatsuri 2022では、<a href="https://github.com/scalamatsuri/2022.open-mic-day" target="_blank" rel="noopener">ネタを募集するGitHubリポジトリ</a>を用意します。
     <br><br>
-    思い思いにセッションのアイディアを<a href="https://github.com/scalamatsuri/2022.unconference/issues" target="_blank" rel="noopener">GitHub issue</a>に書いて下さい。
+    思い思いにセッションのアイディアを<a href="https://github.com/scalamatsuri/2022.open-mic-day/issues" target="_blank" rel="noopener">GitHub issue</a>に書いて下さい。
     <br><br>
     飛び入りカンファレンスDAYに「朝会」を行い、集まったネタを元にセッションの決定とタイムテーブルの作成を行います。
     <br><br>
-    <a href="https://github.com/scalamatsuri/2022.unconference/projects/1" target="_blank" rel="noopener">タイムテーブル</a>が決まったら、飛び入りカンファレンス開始です。
+    <a href="https://github.com/scalamatsuri/2022.open-mic-day/projects/1" target="_blank" rel="noopener">タイムテーブル</a>が決まったら、飛び入りカンファレンス開始です。
     <br><br>
     面白いセッションが目白押しで、聞きたいセッションがかぶることも多いので、途中参加、途中退出は自由です。
   themes_title: ネタ出し
@@ -182,7 +182,7 @@ ja:
         <span class="section_title_inner">{{ $t('flow_of_the_day_title') }}</span>
       </h2>
       <p class="section_text" v-html="$t('flow_of_the_day_text_01')" />
-      <br><br>
+      <br /><br />
       <figure class="section_figure">
         <iframe
           class="section_movie"
