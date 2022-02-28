@@ -36,9 +36,7 @@
       <div class="section_table1">
         <dl>
           <dt>開催日</dt>
-          <dd>
-            <em>2022年10/17(土) 〜 10/18(日)</em><br>当日の作業やZoom Webinarの扱い方について事前説明会も開催します。
-          </dd>
+          <dd><em>2022年10/17(土) 〜 10/18(日)</em><br>当日の作業やZoom Webinarの扱い方について事前説明会も開催します。</dd>
         </dl>
         <dl>
           <dt>開催時間</dt>
@@ -86,21 +84,16 @@
         </dl>
       </div>
       <div class="section_btnArea">
-        <a
-          href="https://forms.gle/SkbscteHs4nzGPZB8"
-          target="_blank"
-          rel="noopener"
-          class="section_btn section_btn-l"
-        >スタッフに応募する</a>
+        <a href="https://forms.gle/SkbscteHs4nzGPZB8" target="_blank" rel="noopener" class="section_btn section_btn-l">スタッフに応募する</a>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-// import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
+import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
 export default {
-  // mixins: [Page404NotFoundMixin],
+  mixins: [Page404NotFoundMixin],
   head() {
     return {
       title: '直前期スタッフ募集',

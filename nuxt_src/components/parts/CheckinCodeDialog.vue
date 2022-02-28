@@ -27,7 +27,7 @@
             {{ $t('description') }}
           </div>
           <form class="content__form" @submit.prevent="$emit('submit', value)">
-            <input ref="inputRef" v-model="value" type="text" class="form__input" :placeholder="$t('placeholder')" />
+            <input ref="inputRef" v-model="value" type="text" class="form__input" :placeholder="$t('placeholder')">
             <button class="form__submit">
               {{ $t('submit') }}
             </button>
