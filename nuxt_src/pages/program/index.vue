@@ -17,7 +17,7 @@ en:
 
 ja:
   title: プログラム
-  day1_header: 飛び入りカンファレンス Day
+  day1_header: カンファレンス Day
   day2_header: 飛び入りカンファレンス Day
   day2_title: 飛び入りカンファレンスとは？
   to_candidates: 応募セッション一覧を表示する
