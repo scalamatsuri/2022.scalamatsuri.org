@@ -49,12 +49,12 @@ export default {
       default: ''
     }
   },
-  data: function() {
+  data: function () {
     return {
       value: this.initialValue || ''
     }
   },
-  mounted: function() {
+  mounted: function () {
     this.$nextTick(this.$refs.inputRef.focus())
   }
 }
