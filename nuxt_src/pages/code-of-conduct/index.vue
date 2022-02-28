@@ -37,7 +37,7 @@ en:
     - The conference organizers are to prepare an incident reporting form both in offline and online. Upon a report, adequate actions will be taken like giving a citation or a warning to prevent from repeating the incident.
     - All sponsors are asked to comply with the Code of conduct when they apply. Their slides and commercial videos are checked beforehand and modified if necessary.
     - All speakers are asked to comply with the Code of conduct when they apply to CFP. Their slides are checked beforehand and modified if necessary.
-    - In Unconference, the conference organizers will ask speakers to be checked to comply with Code of conduct before their talks. Due the nature of Unconference, it will be difficult to guarantee prior check of all contents, so this will require cooperation from all participants.
+    - In Open mic conference, the conference organizers will ask speakers to be checked to comply with Code of conduct before their talks. Due the nature of Open mic conference, it will be difficult to guarantee prior check of all contents, so this will require cooperation from all participants.
   contacts_during_the_conference_title: Contacts during the conference
   contacts_during_the_conference_text_01: |
     If you are being harassed, notice that someone else is being harassed, please report the following form or contact a nearby conference staff immediately.
@@ -93,7 +93,7 @@ ja:
     - インシデントの報告窓口をオンライン及びオフラインで設けます。インシデントが報告された場合、主催者は同様のインシデントが繰り返し発生しないように努め、必要に応じて注意や警告を行います。
     - ScalaMatsuriの全てのスポンサーに対し、スポンサー申込時に行動規範準拠の同意を確認しています。また、スライドやCMといった上映コンテンツの事前チェックによる行動規範準拠の確認、そして必要な場合は修正を依頼しています。
     - カンファレンスにおける全ての発表者に対し、CFPへの応募時に行動規範準拠の同意を確認しています。また、スライドの事前チェックによる行動規範準拠の確認、そして必要な場合は修正を依頼しています。
-    - アンカンファレンスでは、全ての発表者に対しスライドの事前チェックを受けるように呼びかけます。アンカンファレンスの性質上、漏れのない事前チェックを保証することは難しいので、皆さんのご協力が特に不可欠です。よろしくお願いします。
+    - 飛び入りカンファレンスでは、全ての発表者に対しスライドの事前チェックを受けるように呼びかけます。飛び入りカンファレンスの性質上、漏れのない事前チェックを保証することは難しいので、皆さんのご協力が特に不可欠です。よろしくお願いします。
   contacts_during_the_conference_title: 会期中の報告窓口
   contacts_during_the_conference_text_01: |
     自分や他の人がハラスメントを受けている場合には以下のフォームにてご連絡ください。

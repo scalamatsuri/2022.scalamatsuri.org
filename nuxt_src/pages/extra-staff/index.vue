@@ -20,7 +20,8 @@
         </div>
         -->
         <p class="extrastaff_note">
-          2022/10/1 ScalaMatsuri 2022 <strong>直前期スタッフ募集は締め切りました。</strong><br> たくさんのご応募、誠にありがとうございました。
+          2022/10/1 ScalaMatsuri 2022 <strong>直前期スタッフ募集は締め切りました。</strong><br>
+          たくさんのご応募、誠にありがとうございました。
         </p>
       </div>
     </div>
@@ -35,7 +36,9 @@
       <div class="section_table1">
         <dl>
           <dt>開催日</dt>
-          <dd><em>2022年10/17(土) 〜 10/18(日)</em><br>当日の作業やZoom Webinarの扱い方について事前説明会も開催します。</dd>
+          <dd>
+            <em>2022年10/17(土) 〜 10/18(日)</em><br>当日の作業やZoom Webinarの扱い方について事前説明会も開催します。
+          </dd>
         </dl>
         <dl>
           <dt>開催時間</dt>
@@ -65,7 +68,7 @@
             <p>(シフト時間外は自由にScalaMatsuriを楽しんでください！)</p>
             <ul>
               <li>各セッションのタイムキーパー、司会</li>
-              <li>アンカンファレンス</li>
+              <li>飛び入りカンファレンス</li>
             </ul>
           </dd>
         </dl>
@@ -74,14 +77,21 @@
           <dd>
             <ul>
               <li>チケット代無料</li>
-              <li><a href="https://scalamatsuri.official.ec/" target="_blank" rel="noopener">Tシャツ</a>割引クーポン(システム下限の50円となります)</li>
+              <li>
+                <a href="https://scalamatsuri.official.ec/" target="_blank" rel="noopener">Tシャツ</a>割引クーポン(システム下限の50円となります)
+              </li>
               <li>後日のスタッフ打ち上げへの参加</li>
             </ul>
           </dd>
         </dl>
       </div>
       <div class="section_btnArea">
-        <a href="https://forms.gle/SkbscteHs4nzGPZB8" target="_blank" rel="noopener" class="section_btn section_btn-l">スタッフに応募する</a>
+        <a
+          href="https://forms.gle/SkbscteHs4nzGPZB8"
+          target="_blank"
+          rel="noopener"
+          class="section_btn section_btn-l"
+        >スタッフに応募する</a>
       </div>
     </div>
   </div>
@@ -94,9 +104,7 @@ export default {
   head() {
     return {
       title: '直前期スタッフ募集',
-      meta: [
-        { name: 'og:title', content: '直前期スタッフ募集 | ScalaMatsuri 2022' }
-      ]
+      meta: [{ name: 'og:title', content: '直前期スタッフ募集 | ScalaMatsuri 2022' }]
     }
   }
 }
