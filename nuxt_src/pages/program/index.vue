@@ -12,7 +12,7 @@ en:
     Simultaneous interpretation will be provided via Zoom Webinar for all sessions.
   day2_description: |
     Open Mic Conference <br>
-    Doors open at 10:00, and scheduled to end at 15:25 in JST.<br>
+    Doors open at 9:30, and scheduled to end at 17:00 in JST.<br>
     Please put your sessions ideas to <a href="https://github.com/scalamatsuri/2022.open-mic-day" target="_blank" rel="noopener">scalamatsuri/2022.open-mic-day</a> Github repository.<br><br>
 
 ja:
@@ -27,7 +27,7 @@ ja:
     全セッションについて、Zoom Webinarを利用した同時通訳がつきます。<br><br>
   day2_description: |
     飛び入りカンファレンス <br>
-    10時30分入場開始 20時終了予定(JST）<br>
+    09時30分入場開始 17時終了予定(JST）<br>
     セッションのアイディアは、<a href="https://github.com/scalamatsuri/2022.open-mic-day" target="_blank" rel="noopener">scalamatsuri/2022.open-mic-day</a> Githubリポジトリに投稿してください。<br><br>
     さらに、ScalaMatsuriスポンサー企業によるバーチャルブースコンテンツTrackも追加予定です。どうぞお楽しみに！
 </i18n>
@@ -76,11 +76,7 @@ ja:
               <small>({{ getTimeZoneStr(parseInt(startAt)) }})</small>
             </p>
             <div class="schedule_events">
-              <div
-                v-for="session in sessions"
-                :key="session.title || session.proposal"
-                @click="openModal(session.proposal)"
-              >
+              <div v-for="session in sessions" :key="session.title || session.proposal" @click="openModal(session.proposal)">
                 <schedule
                   :schedule="session"
                   :locale="$i18n.locale"
@@ -113,11 +109,7 @@ ja:
               <small>({{ getTimeZoneStr(parseInt(startAt)) }})</small>
             </p>
             <div class="schedule_events">
-              <div
-                v-for="session in sessions"
-                :key="session.title || session.proposal.id"
-                @click="openModal(session.proposal)"
-              >
+              <div v-for="session in sessions" :key="session.title || session.proposal.id" @click="openModal(session.proposal)">
                 <schedule
                   :schedule="session"
                   :locale="$i18n.locale"
@@ -131,13 +123,7 @@ ja:
     </div>
 
     <transition name="fade">
-      <div
-        v-if="showModal"
-        class="modal is_active fadeIn animated"
-        tabindex="0"
-        @click.self="closeModal()"
-        @keyup.escape="closeModal()"
-      >
+      <div v-if="showModal" class="modal is_active fadeIn animated" tabindex="0" @click.self="closeModal()" @keyup.escape="closeModal()">
         <modal :program="selectProgram" @close="closeModal" />
       </div>
     </transition>

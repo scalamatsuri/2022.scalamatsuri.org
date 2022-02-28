@@ -182,7 +182,7 @@ ja:
         <span class="section_title_inner">{{ $t('flow_of_the_day_title') }}</span>
       </h2>
       <p class="section_text" v-html="$t('flow_of_the_day_text_01')" />
-      <br /><br />
+      <br><br>
       <figure class="section_figure">
         <iframe
           class="section_movie"
