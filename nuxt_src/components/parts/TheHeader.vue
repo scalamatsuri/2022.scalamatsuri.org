@@ -21,7 +21,7 @@
     proposals: "セッション候補"
     outline: "開催概要"
     login: "ログイン"
-    ticket: "チケット購入"
+    ticket: "チケット"
     cfp: "セッション募集"
     extra-staff: "スタッフ募集"
     logout: "ログアウト"

@@ -15,9 +15,9 @@
     </div>
   </div>
   <div v-else-if="isProgram()" class="schedule_event">
-    <!-- NOTE: 2022 はシングルトラックで ROOM がないため非表示 -->
-    <!-- <p class="schedule_room">{{ schedule.room }}</p> -->
-    <!-- 内容 ここから -->
+    <p v-if="schedule.room" class="schedule_room">
+      {{ schedule.room }}
+    </p>
     <div v-if="schedule.proposal" class="schedule_detail">
       <p class="schedule_title">
         {{ schedule.proposal[locale].title }}
@@ -26,10 +26,10 @@
         <p class="schedule_tag">
           {{ getTimeStr(schedule.startAt) }} - {{ getTimeStr(schedule.endAt) }}
         </p>
-        <p class="schedule_tag">
+        <p v-if="schedule.proposal[locale].language" class="schedule_tag">
           {{ schedule.proposal[locale].language }}
         </p>
-        <p v-if="schedule.proposal[locale].tags" class="schedule_tag">
+        <p v-if="schedule.proposal[locale].tags.length > 0" class="schedule_tag">
           {{ schedule.proposal[locale].tags.join() }}
         </p>
       </div>
@@ -44,13 +44,15 @@
     <!-- 登壇者 ここから -->
     <div class="schedule_speakers">
       <div v-for="speaker in schedule.proposal[locale].speakers" :key="speaker.name" class="schedule_speaker">
-        <img v-lazy="speaker.icon" class="schedule_speaker_icon">
-        <p class="schedule_speaker_name">
-          {{ speaker.name }}
-        </p>
-        <p class="schedule_speaker_id">
-          {{ speaker.id }}
-        </p>
+        <div v-if="speaker.name">
+          <img v-if="speaker.icon" v-lazy="speaker.icon" class="schedule_speaker_icon">
+          <p class="schedule_speaker_name">
+            {{ speaker.name }}
+          </p>
+          <p class="schedule_speaker_id">
+            {{ speaker.id }}
+          </p>
+        </div>
       </div>
     </div>
     <!-- 登壇者 ここまで -->
