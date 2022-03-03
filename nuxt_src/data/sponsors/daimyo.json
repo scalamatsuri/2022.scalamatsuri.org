@@ -49,7 +49,9 @@
   {
     "name": "株式会社FOLIO",
     "logo": "/img/sponsors/folio.svg",
-    "url": "https://corp.folio-sec.com/"
+    "url": "https://corp.folio-sec.com/",
+    "text_html": "<p>FOLIOは様々な資産運用サービスを提供している証券会社です。</p><p>直近では、toCサービスで培ったシステムやノウハウを、他の金融機関にSaaS方式で提供する<a href=\"https://4rap.folio-sec.com/\">4RAP</a>という新規事業をローンチしました。<br>スタートアップらしいスピード感と、金融機関としての堅牢性を兼ね備えたシステムをScalaやK8S, DDD等を利用して開発しています。</p><p><b>Scalaで資産運用をもっと身近にしませんか？</b></p><p>FOLIOでのScala開発について</p><ul><li>・AWS/EKS上で稼働させるScalaアプリケーション（cats, fs2などを採用）の開発を通じてモダンな技術のキャッチアップが可能です。</li><li>・コーディングガイドラインや採用ライブラリのチュートリアル集の整備など、Scala未経験者も活躍しやすい環境を整えています。</li><li>・作って終わりではなく、長く運用し改善し続けることを見据えたシステム設計・開発のノウハウが学べます。</li></ul><p>資産運用をもっと身近にしたいエンジニア、Scalaで堅牢なシステムを作りたいエンジニアを積極募集中です。<br>お気軽にご連絡ください！</p><ul><li>・<a href=\"https://open.talentio.com/r/1/c/folio-sec/pages/16926\">バックエンドエンジニア カジュアル面談へのご応募はこちらから</a></li><li>・<a href=\"https://www.figma.com/proto/WcBxKrIa4BbWOH5TvSaTsh/FOLIO%E4%BC%9A%E7%A4%BE%E7%B4%B9%E4%BB%8B%E8%B3%87%E6%96%99%EF%BC%88%E5%85%AC%E9%96%8B%E7%94%A8%EF%BC%89?page-id=0%3A1&node-id=2%3A2&viewport=315%2C48%2C0.08&scaling=scale-down-width&starting-point-node-id=2%3A2\">会社説明資料</a></li></ul>",
+    "slide_html": ""
   },
   {
     "name": "株式会社アットウェア",
