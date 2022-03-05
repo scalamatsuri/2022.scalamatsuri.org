@@ -72,7 +72,7 @@ ja:
         <div v-for="[startAt, sessions] in Object.entries(sessionsIn19)" :key="startAt">
           <div class="schedule_content">
             <p class="schedule_time">
-              {{ getTimeStr(parseInt(startAt)) }}<br />
+              {{ getTimeStr(parseInt(startAt)) }}<br>
               <small>({{ getTimeZoneStr(parseInt(startAt)) }})</small>
             </p>
             <div class="schedule_events">
@@ -105,7 +105,7 @@ ja:
         <div v-for="[startAt, sessions] in Object.entries(sessionsIn20)" :key="startAt">
           <div class="schedule_content">
             <p class="schedule_time">
-              {{ getTimeStr(parseInt(startAt)) }}<br />
+              {{ getTimeStr(parseInt(startAt)) }}<br>
               <small>({{ getTimeZoneStr(parseInt(startAt)) }})</small>
             </p>
             <div class="schedule_events">
