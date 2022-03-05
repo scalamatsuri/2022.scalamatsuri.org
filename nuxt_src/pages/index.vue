@@ -4,7 +4,7 @@
     <news :posts="blogPosts" />
     <!-- <thankYou /> -->
     <banner />
-    <ecShop />
+    <!-- <ecShop /> -->
     <program />
     <!-- <events /> -->
     <lazy-component>
@@ -19,7 +19,7 @@ import { mapActions, mapState } from 'vuex'
 import mainVisual from '@/components/sections/top/mainVisual'
 import news from '@/components/sections/top/news'
 // import thankYou from '@/components/sections/top/thankYou'
-import ecShop from '@/components/sections/top/ecShop'
+// import ecShop from '@/components/sections/top/ecShop'
 import banner from '@/components/sections/top/banner'
 // import events from '@/components/sections/top/events'
 // import access from '@/components/sections/top/access'
@@ -31,7 +31,7 @@ export default {
   components: {
     mainVisual,
     news,
-    ecShop,
+    // ecShop,
     // thankYou,
     banner,
     // events,

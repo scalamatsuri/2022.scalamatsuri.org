@@ -19,13 +19,12 @@
       </p>
       <div class="sponsorship_btnArea">
         <a href="/pdf/sponsorship.pdf" class="sponsorship_btn sponsorship_btn-pdf" target="_blank" rel="noopener">スポンサーシップのご案内</a>
-        <a href="https://forms.gle/3o9P94ejae7VYk839" class="sponsorship_btn sponsorship_btn-form" target="_blank" rel="noopener">お申込みフォーム</a>
+        <!-- <a href="https://forms.gle/3o9P94ejae7VYk839" class="sponsorship_btn sponsorship_btn-form" target="_blank" rel="noopener">お申込みフォーム</a> -->
       </div>
-      <!--
+
       <p class="sponsorship_note">
         2022/2/28 ScalaMatsuri 2022 <strong>スポンサー募集は締め切りました。</strong><br>たくさんのご応募、誠にありがとうございました。
       </p>
-      -->
     </div>
     <!-- sponsorship ここまで -->
     <!-- recruit ここから -->
@@ -169,11 +168,11 @@
       </p>
       <div class="sponsorship_btnArea">
         <a href="/pdf/sponsorship.pdf" class="sponsorship_btn sponsorship_btn-pdf" target="_blank" rel="noopener">スポンサーシップのご案内</a>
-        <a href="https://forms.gle/3o9P94ejae7VYk839" class="sponsorship_btn sponsorship_btn-form" target="_blank" rel="noopener">お申込みフォーム</a>
+        <!-- <a href="https://forms.gle/3o9P94ejae7VYk839" class="sponsorship_btn sponsorship_btn-form" target="_blank" rel="noopener">お申込みフォーム</a> -->
       </div>
-      <!-- <p class="sponsorship_note">
+      <p class="sponsorship_note">
         2022/2/28 ScalaMatsuri 2022 <strong>スポンサー募集は締め切りました。</strong><br>たくさんのご応募、誠にありがとうございました。
-      </p> -->
+      </p>
     </div>
     <!-- sponsorship ここまで -->
     <section class="inquiry">
