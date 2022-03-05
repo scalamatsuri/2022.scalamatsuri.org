@@ -4,22 +4,30 @@ en:
   sponsorship: "Sponsorship(ja)"
   cfp: "Call for proposals"
   ticket: "Ticket"
-  doorkeeper: "Doorkeeper"
+  tshirt: "Get a (Ninja) T-Shirt"
 ja:
   sponsorship: "スポンサー募集"
   cfp: "セッションに応募する"
   ticket: "チケット"
-  doorkeeper: "Doorkeeper"
+  tshirt: "(忍者)Tシャツ購入"
 </i18n>
 <template>
   <div class="banner">
     <div class="banner_list">
-      <nuxt-link :to="localePath('sponsorship')" class="banner_item banner_item-sponsor">
+      <!-- <nuxt-link :to="localePath('sponsorship')" class="banner_item banner_item-sponsor">
         <span>{{ $t('sponsorship') }} </span>
-      </nuxt-link>
+      </nuxt-link> -->
       <!-- <nuxt-link :to="localePath('cfp')" class="banner_item banner_item-staff">
         <span>{{ $t('cfp') }}</span>
       </nuxt-link> -->
+      <a
+        href="https://scalamatsuri-online-shop.myshopify.com/"
+        target="_blank"
+        rel="noopener"
+        class="banner_item banner_item-sponsor"
+      >
+        <span>{{ $t('tshirt') }} </span>
+      </a>
       <a
         href="https://scalaconfjp.doorkeeper.jp/events/131313"
         target="_blank"
