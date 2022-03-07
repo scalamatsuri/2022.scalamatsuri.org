@@ -303,9 +303,9 @@
   },
 
   {
-    "id": "1647749700",
+    "id": "1647749700A",
     "en": {
-      "title": "LT 1",
+      "title": "LT 1 - A (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -325,7 +325,7 @@
       ]
     },
     "ja": {
-      "title": "LT 1",
+      "title": "LT 1 - A (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -346,9 +346,9 @@
     }
   },
   {
-    "id": "1647750600",
+    "id": "1647749700B",
     "en": {
-      "title": "LT 2",
+      "title": "LT 1 - B (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -368,7 +368,7 @@
       ]
     },
     "ja": {
-      "title": "LT 2",
+      "title": "LT 1 - B (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -388,7 +388,92 @@
       ]
     }
   },
-
+  {
+    "id": "1647750600A",
+    "en": {
+      "title": "LT 2 - A (max 15 min)",
+      "detail": "",
+      "language": "",
+      "length": 15,
+      "tags": [],
+      "keywords": [],
+      "speakers": [
+        {
+          "name": "",
+          "icon": "",
+          "organization": "",
+          "speaker_experience": [""],
+          "contributes": [],
+          "github": "",
+          "twitter": "",
+          "other_sns": ""
+        }
+      ]
+    },
+    "ja": {
+      "title": "LT 2 - A (max 15 min)",
+      "detail": "",
+      "language": "",
+      "length": 15,
+      "tags": [],
+      "keywords": [],
+      "speakers": [
+        {
+          "name": "",
+          "icon": "",
+          "organization": "",
+          "speaker_experience": [""],
+          "contributes": [],
+          "github": "",
+          "twitter": "",
+          "other_sns": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "1647750600B",
+    "en": {
+      "title": "LT 2 - B (max 15 min)",
+      "detail": "",
+      "language": "",
+      "length": 15,
+      "tags": [],
+      "keywords": [],
+      "speakers": [
+        {
+          "name": "",
+          "icon": "",
+          "organization": "",
+          "speaker_experience": [""],
+          "contributes": [],
+          "github": "",
+          "twitter": "",
+          "other_sns": ""
+        }
+      ]
+    },
+    "ja": {
+      "title": "LT 2 - B (max 15 min)",
+      "detail": "",
+      "language": "",
+      "length": 15,
+      "tags": [],
+      "keywords": [],
+      "speakers": [
+        {
+          "name": "",
+          "icon": "",
+          "organization": "",
+          "speaker_experience": [""],
+          "contributes": [],
+          "github": "",
+          "twitter": "",
+          "other_sns": ""
+        }
+      ]
+    }
+  },
   {
     "id": "1647752400A",
     "en": {
@@ -735,9 +820,9 @@
     }
   },
   {
-    "id": "1647761400",
+    "id": "1647761400A",
     "en": {
-      "title": "LT 3",
+      "title": "LT 3 - A (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -757,7 +842,7 @@
       ]
     },
     "ja": {
-      "title": "LT 3",
+      "title": "LT 3 - A (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -778,9 +863,9 @@
     }
   },
   {
-    "id": "1647762300",
+    "id": "1647761400B",
     "en": {
-      "title": "LT 4",
+      "title": "LT 3 - B (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -800,7 +885,7 @@
       ]
     },
     "ja": {
-      "title": "LT 4",
+      "title": "LT 3 - B (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -821,9 +906,9 @@
     }
   },
   {
-    "id": "1647763200",
+    "id": "1647762300A",
     "en": {
-      "title": "Closing",
+      "title": "LT 4 - A (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -843,7 +928,50 @@
       ]
     },
     "ja": {
-      "title": "Closing",
+      "title": "LT 4 - A (max 15 min)",
+      "detail": "",
+      "language": "",
+      "length": 15,
+      "tags": [],
+      "keywords": [],
+      "speakers": [
+        {
+          "name": "",
+          "icon": "",
+          "organization": "",
+          "speaker_experience": [""],
+          "contributes": [],
+          "github": "",
+          "twitter": "",
+          "other_sns": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "1647762300B",
+    "en": {
+      "title": "LT 4 - B (max 15 min)",
+      "detail": "",
+      "language": "",
+      "length": 15,
+      "tags": [],
+      "keywords": [],
+      "speakers": [
+        {
+          "name": "",
+          "icon": "",
+          "organization": "",
+          "speaker_experience": [""],
+          "contributes": [],
+          "github": "",
+          "twitter": "",
+          "other_sns": ""
+        }
+      ]
+    },
+    "ja": {
+      "title": "LT 4 - B (max 15 min)",
       "detail": "",
       "language": "",
       "length": 15,
