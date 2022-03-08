@@ -56,7 +56,9 @@
   {
     "name": "株式会社アットウェア",
     "logo": "/img/sponsors/atware.svg",
-    "url": "https://www.atware.co.jp/"
+    "url": "https://www.atware.co.jp/",
+    "text_html": "<p>アットウェアは<a href=\"https://www.atware.co.jp/aboutus#about-us\">「システムで人々をしあわせにする」</a>をミッションとする、横浜みなとみらいにある40名ほどの会社で、ScalaMatsuriには2017年以来毎年協賛しています。<br><br>私たちは、Java/Scala + アジャイル + クラウド を軸として、小規模から大規模まで、BtoB/BtoC Webアプリケーション開発の他、ビッグデータの並列分散処理案件、AIプラットフォーム構築案件など幅広い分野に携わっています。<br>近年は問題解決のアプローチを模索する中で、Scalaが持つ可能性を見いだし案件での採用を増やしています。<br><br>またアフターコロナの新しい働き方として、「選択的全国居住制度」を昨年末にスタートしました。<br>日本全国好きな場所に住み、働くことができます。まだ始まったばかりの制度ですが、既に沖縄など地方へ移住したエンジニアもいます。<br><br>もしアットウェアに少しでもご興味を持っていただけたのであれば、Scalaの経験は問いませんので、お気軽に下記のフォームからお問合せください。<br>選考だけでなく、カジュアル面談も受け付けております。<br><br><a href=\"https://www.atware.co.jp/recruit\">株式会社アットウェア採用ページ</a><br><br><a href=\"https://tech.atware.co.jp/scalainterview/\">Scala先駆者インタビュー</a><br><a href=\"https://blog.scalamatsuri.org/entry/2022/03/01/093656\">私、ScalaMatsuri で転職しました Vol.7 株式会社アットウェア オヤマさん -ScalaMatsuri運営ブログ</a></p>",
+    "slide_html": ""
   },
   {
     "name": "株式会社スタンバイ",
