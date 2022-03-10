@@ -2,11 +2,11 @@
   <div id="top">
     <main-visual />
     <news :posts="blogPosts" />
-    <!-- <chairpersonRecruit /> -->
     <!-- <thankYou /> -->
     <banner />
-    <!-- <program /> -->
-    <events />
+    <!-- <ecShop /> -->
+    <program />
+    <!-- <events /> -->
     <lazy-component>
       <info />
     </lazy-component>
@@ -19,25 +19,25 @@ import { mapActions, mapState } from 'vuex'
 import mainVisual from '@/components/sections/top/mainVisual'
 import news from '@/components/sections/top/news'
 // import thankYou from '@/components/sections/top/thankYou'
-// import chairpersonRecruit from '@/components/sections/top/chairpersonRecruit'
+// import ecShop from '@/components/sections/top/ecShop'
 import banner from '@/components/sections/top/banner'
-import events from '@/components/sections/top/events'
+// import events from '@/components/sections/top/events'
 // import access from '@/components/sections/top/access'
 import info from '@/components/sections/top/info'
 import topSponsors from '@/components/sections/top/sponsors'
-// // import program from '@/components/sections/top/program'
+import program from '@/components/sections/top/program'
 
 export default {
   components: {
     mainVisual,
     news,
-    // chairpersonRecruit,
+    // ecShop,
     // thankYou,
     banner,
-    events,
+    // events,
     info,
-    topSponsors
-    // program
+    topSponsors,
+    program
   },
   computed: {
     ...mapState({

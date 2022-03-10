@@ -20,7 +20,8 @@
         </div>
         -->
         <p class="extrastaff_note">
-          2022/10/1 ScalaMatsuri 2022 <strong>直前期スタッフ募集は締め切りました。</strong><br> たくさんのご応募、誠にありがとうございました。
+          2022/10/1 ScalaMatsuri 2022 <strong>直前期スタッフ募集は締め切りました。</strong><br>
+          たくさんのご応募、誠にありがとうございました。
         </p>
       </div>
     </div>
@@ -65,7 +66,7 @@
             <p>(シフト時間外は自由にScalaMatsuriを楽しんでください！)</p>
             <ul>
               <li>各セッションのタイムキーパー、司会</li>
-              <li>アンカンファレンス</li>
+              <li>飛び入りカンファレンス</li>
             </ul>
           </dd>
         </dl>
@@ -74,7 +75,9 @@
           <dd>
             <ul>
               <li>チケット代無料</li>
-              <li><a href="https://scalamatsuri.official.ec/" target="_blank" rel="noopener">Tシャツ</a>割引クーポン(システム下限の50円となります)</li>
+              <li>
+                <a href="https://scalamatsuri.official.ec/" target="_blank" rel="noopener">Tシャツ</a>割引クーポン(システム下限の50円となります)
+              </li>
               <li>後日のスタッフ打ち上げへの参加</li>
             </ul>
           </dd>
@@ -88,15 +91,13 @@
 </template>
 
 <script>
-// import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
+import Page404NotFoundMixin from '@/mixins/page/Page404NotFound.js'
 export default {
-  // mixins: [Page404NotFoundMixin],
+  mixins: [Page404NotFoundMixin],
   head() {
     return {
       title: '直前期スタッフ募集',
-      meta: [
-        { name: 'og:title', content: '直前期スタッフ募集 | ScalaMatsuri 2022' }
-      ]
+      meta: [{ name: 'og:title', content: '直前期スタッフ募集 | ScalaMatsuri 2022' }]
     }
   }
 }

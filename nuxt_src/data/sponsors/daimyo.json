@@ -37,7 +37,7 @@
     "logo": "/img/sponsors/funds.png",
     "url": "https://funds.jp/",
     "text_html": "<p>ファンズ株式会社は、資産形成をしたい個人が上場企業へ間接的にお金を貸し出すことで資産形成をすることができる、<a href=\"https://funds.jp/\" target=\"_blank\">貸付ファンドのオンラインマーケット「Funds」</a>を運営する企業です。 Funds では1円から1円単位で投資をすることができる機会を提供しており、投資未経験の方であっても、少額から資産形成を始めることができます。 「未来の不安に、まだない答えを。」というミッションのもと、従来の資産運用サービスでは実現されていない新たな投資機会の提供を通じて、国民的な資産運用サービスへと成長させ、将来の資産形成にまつわる課題の解決を目指しています。</p><p><em>Funds のプロダクト開発と Scala</em></p><p>Funds のプロダクト開発では、スタートアップながらも持続可能性のある開発を重要視しています。 Scala のもつ堅牢な型システムや表現力は、金融という複雑かつ正確性が要求されるドメインのアプリケーションを開発するうえで適した開発言語だと考え、バックエンドの開発言語には開発当初から Scala を採用しています。</p><p>また技術研鑽についても奨励しており、平日の営業時間内で Scala にまつわる勉強会を実施しています。</p><p><em>エンジニアの働き方</em></p><p>エンジニアメンバーは裁量労働制となっています。オフィスへの出社も可能ですが、ほとんどのメンバーは完全リモートで働いています（日本国内であれば遠隔地での就業も可能です。）</p><p>ファンズ株式会社では、 Scala を使って私達と一緒に課題解決に携わっていただける開発者を募集しています。以下のページをご覧ください。</p><p><a href=\"https://open.talentio.com/r/1/c/crowdport_entry/pages/56324\" target=\"_blank\">サーバサイドエンジニア（Scala） / ファンズ株式会社</a></p><p>その他の募集中ポジションについては <a href=\"https://open.talentio.com/r/1/c/crowdport_entry/homes/3643\" target=\"_blank\">募集一覧 / ファンズ株式会社</a> をご覧ください。</p><p>もし少しでも関心のある方は、 Meety でもカジュアル面談を受け付けていますので、ぜひお話させてください！<a href=\"https://meety.net/matches/PwwDKwfFDFZo\" target=\"_blank\">ファンズでの Scala を使用した金融サービス開発についてお話します</a></p>",
-    "slide_html": ""
+    "slide_html": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/692c8db892f246279814fb0a1adf5ab3\" title=\"ファンズ株式会社 エンジニア採用資料\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;\" data-ratio=\"1.78343949044586\"></iframe>"
   },
   {
     "name": "株式会社FLINTERS",
@@ -49,11 +49,41 @@
   {
     "name": "株式会社FOLIO",
     "logo": "/img/sponsors/folio.svg",
-    "url": "https://corp.folio-sec.com/"
+    "url": "https://corp.folio-sec.com/",
+    "text_html": "<p>FOLIOは様々な資産運用サービスを提供している証券会社です。</p><p>直近では、toCサービスで培ったシステムやノウハウを、他の金融機関にSaaS方式で提供する<a href=\"https://4rap.folio-sec.com/\">4RAP</a>という新規事業をローンチしました。<br>スタートアップらしいスピード感と、金融機関としての堅牢性を兼ね備えたシステムをScalaやK8S, DDD等を利用して開発しています。</p><p><b>Scalaで資産運用をもっと身近にしませんか？</b></p><p>FOLIOでのScala開発について</p><ul><li>・AWS/EKS上で稼働させるScalaアプリケーション（cats, fs2などを採用）の開発を通じてモダンな技術のキャッチアップが可能です。</li><li>・コーディングガイドラインや採用ライブラリのチュートリアル集の整備など、Scala未経験者も活躍しやすい環境を整えています。</li><li>・作って終わりではなく、長く運用し改善し続けることを見据えたシステム設計・開発のノウハウが学べます。</li></ul><p>資産運用をもっと身近にしたいエンジニア、Scalaで堅牢なシステムを作りたいエンジニアを積極募集中です。<br>お気軽にご連絡ください！</p><ul><li>・<a href=\"https://open.talentio.com/r/1/c/folio-sec/pages/16926\">バックエンドエンジニア カジュアル面談へのご応募はこちらから</a></li><li>・<a href=\"https://www.figma.com/proto/WcBxKrIa4BbWOH5TvSaTsh/FOLIO%E4%BC%9A%E7%A4%BE%E7%B4%B9%E4%BB%8B%E8%B3%87%E6%96%99%EF%BC%88%E5%85%AC%E9%96%8B%E7%94%A8%EF%BC%89?page-id=0%3A1&node-id=2%3A2&viewport=315%2C48%2C0.08&scaling=scale-down-width&starting-point-node-id=2%3A2\">会社説明資料</a></li></ul>",
+    "slide_html": ""
   },
   {
     "name": "株式会社アットウェア",
     "logo": "/img/sponsors/atware.svg",
-    "url": "https://www.atware.co.jp/"
+    "url": "https://www.atware.co.jp/",
+    "text_html": "<p>アットウェアは<a href=\"https://www.atware.co.jp/aboutus#about-us\">「システムで人々をしあわせにする」</a>をミッションとする、横浜みなとみらいにある40名ほどの会社で、ScalaMatsuriには2017年以来毎年協賛しています。<br><br>私たちは、Java/Scala + アジャイル + クラウド を軸として、小規模から大規模まで、BtoB/BtoC Webアプリケーション開発の他、ビッグデータの並列分散処理案件、AIプラットフォーム構築案件など幅広い分野に携わっています。<br>近年は問題解決のアプローチを模索する中で、Scalaが持つ可能性を見いだし案件での採用を増やしています。<br><br>またアフターコロナの新しい働き方として、「選択的全国居住制度」を昨年末にスタートしました。<br>日本全国好きな場所に住み、働くことができます。まだ始まったばかりの制度ですが、既に沖縄など地方へ移住したエンジニアもいます。<br><br>もしアットウェアに少しでもご興味を持っていただけたのであれば、Scalaの経験は問いませんので、お気軽に下記のフォームからお問合せください。<br>選考だけでなく、カジュアル面談も受け付けております。<br><br><a href=\"https://www.atware.co.jp/recruit\">株式会社アットウェア採用ページ</a><br><br><a href=\"https://tech.atware.co.jp/scalainterview/\">Scala先駆者インタビュー</a><br><a href=\"https://blog.scalamatsuri.org/entry/2022/03/01/093656\">私、ScalaMatsuri で転職しました Vol.7 株式会社アットウェア オヤマさん -ScalaMatsuri運営ブログ</a></p>",
+    "slide_html": ""
+  },
+  {
+    "name": "株式会社スタンバイ",
+    "logo": "/img/sponsors/stanby.png",
+    "url": "https://recruit.stanby.co.jp/engineering/",
+    "text_html": "<p><b>▼会社について</b><br>株式会社スタンバイは日本最大級の求人検索エンジン「スタンバイ」を運営している企業です。<br>人生100年時代という言葉にあるように多くの方が生涯を通して働き続ける世の中になるとも言われておりますが、理想の仕事に出会えている方はまだほんの一部です。私たちは「UPDATE WORKSTYLE」をミッション掲げ、テクノロジーの力でこれまでの仕事探しの当たり前をアップデートし、すべての働く人が新しい働き方の可能性に気づける社会を創っていきたいと考えています。</p><p><b>▼技術領域について</b><br>検索技術は様々なサービスで利用されていますが、まだまだ成長途上の領域です。特に日本語領域においては他の言語と文法が異なる特殊な領域です。だからこそバーティカル検索×日本語検索の世界ではトッププレイヤーになれる可能性を秘めてると考えています。スタンバイは自ら検索エンジンを開発しながら、ヤフーを始め事業拡大のためのアセットを活用できる環境であり、スキルや経験を伸ばしていくには絶好の場だと思っております。</p><p><b>▼環境紹介について</b><br>検索エンジンの開発は、クローリング、インデクシング、検索と広範囲に渡ります。大規模データを高速で処理することが求められるため、並列処理、分散処理システムが実現しやすく、そして静的型付け言語であるScalaを主要言語として採用しています。<br>実際のプロダクトにはAkkaを活用したバッチ処理システムや、ZIOライブラリを活用し純粋な関数型プログラミングを促進する非同期、並列プログラミングを行っています。またScalaを主要言語としていますが直近ではRustもプロダクトに採用しています。スクラムベースの開発を行っており、要件定義、技術選定から実装、運用まで幅広く経験ができる環境です。</p><p><b>スタンバイでは一緒にサービスを創り上げる仲間を募集していますので、ご興味いただける方はぜひお気軽にご連絡ください！！</b></p><p><a href=\"https://meety.net/matches/xRzXfAsilmQI\">Meety（スタンバイの中の人 / Scalaを使用した、求人検索エンジンの裏側についてお話します！）</a></p><p><a href=\"https://recruit.stanby.co.jp/\">スタンバイ-採用情報</a><br><a href=\"https://stanby.co.jp/company_brochure/20220201.pdf\">スタンバイ-会社紹介資料</a><br><a href=\"https://hrmos.co/pages/stanby-inc/jobs/100100455\">Scalaエンジニア募集要項</a><br><p><a href=\"https://techblog.stanby.co.jp/\">Stanby Tech Blog</a></p>",
+    "slide_html": ""
+  },
+  {
+    "name": "株式会社ネクストビート",
+    "logo": "/img/sponsors/nextbeat.png",
+    "url": "https://www.nextbeat.co.jp/",
+    "text_html": "<p>未来のふつうを、次々と。</p><p><a target=\"_blank\" href=\"https://www.nextbeat.co.jp/\">ネクストビート</a>は「人口減少社会において必要とされるインターネット事業を創造し、ニッポンを元気にする」をミッションに掲げています。</p><p>人口減少による「労働力人口の減少」が起因の社会課題を挑戦機会と捉えて、ライフイベント・地方創生・グローバルの3領域において全10事業展開しており、創業9年目を迎えました。</p><p>私たちはこれまで、保育や子育てに関するtoC,toBサービスを複数展開して参りました。</p><p>アナログなオペレーションが未だに多く残る保育施設に対し、職員のシフト管理から児童の登降園管理、写真整理などの幅広い機能で保育士の業務負担を軽減するSaaSサービス「<a target=\"_blank\" href=\"https://kidsna-connect.com/site/\">保育士バンク！コネクト</a>」<br>潜在保育士の雇用を創出と共働き世帯の子育て負担軽減を目指すベビーシッターマッチングアプリ「<a target=\"_blank\" href=\"https://sitter.kidsna.com/\">キズナシッター</a>」</p><p>今後は子育てフレンドリーなトラベル予約やショッピングなど、子育てに関わるユーザーに対して便益をシームレスに提供できるtoC向けプラットフォームや、保育園の経営課題を包括的に解決に導くtoB向けプラットフォームをリリース予定です。</p><p>このプラットフォームの実現に向けて、力を貸してくださる方を探しております。<br>詳しくは以下のスライドやサイトをご覧ください！</p><p><a target=\"_blank\" href=\"https://hrmos.co/pages/nextbeat/jobs?category=1435504483358539776\">募集ポジション一覧</a><br><a target=\"_blank\" href=\"https://speakerdeck.com/nextbeat/engineer-issues-and-policies\">プロダクト開発の課題と方針</a></p>",
+    "slide_html": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/176f131e05eb4cce9d519c46e043e2f8\" title=\"ネクストビート 事業紹介/our-business\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;\" data-ratio=\"1.78343949044586\"></iframe>"
+  },
+  {
+    "name": "Kipp Financial Technologies株式会社",
+    "logo": "/img/sponsors/kipp.svg",
+    "url": "https://kipp-corp.com/",
+    "text_html": "<p><a href=\"https://kipp-corp.com/\">Kipp Financial Technologies (kipp)</a> は、金融サービス提供事業者向けプラットフォーム (Banking as a Service) 開発をしています。プラットフォーム上で発生しているトランザクション量は毎月 20% 以上の成長を続けており、プラットフォームの規模が急拡大しています。プロダクト開発を支えるコア技術として、Scala を活用しています。</p><p>kipp では、金融サービス提供事業者が実装・運用に頭を悩ませずユーザー体験の改善や業務効率化に集中できるよう、モダンな設計で多機能な金融システム基盤をワンストップで提供しています。</p><p><a href=\"https://engineering.kipp-corp.com/\">Kipp Engineering Blog</a> では kipp における取り組みや働き方を紹介しています。そのなかでも特に kipp について深く知っていただける記事をいくつかご紹介します。</p><p><a href=\"https://engineering.kipp-corp.com/blog/hello-world/\">・Kipp Engineering Blogを始めます</a> … kipp の概要と技術スタック、少ない作業量で高品質な管理画面を提供するコツ等を紹介しています。<br><a href=\"https://engineering.kipp-corp.com/blog/team/\">・kippエンジニアリングチームの作り方</a> … kipp エンジニアリングチームの実情とその背景にある考え方、それを実現するための取り組みを説明しています。<br><a href=\"https://engineering.kipp-corp.com/blog/workflow/\">・kippのワークスタイル紹介</a> … 今まさに実践しているワークフローを紹介します。複数のチームがどのようにコラボレートするのかもお伝えしています。<br><a href=\"https://engineering.kipp-corp.com/blog/graphql-hacks/\">・ScalaのマクロをつかったGraphQLサーバの構築</a> … 限られたリソースで多機能なアプリケーションを開発するために GraphQL サーバを構築した事例を紹介しています。</p><p>kipp の開発環境は、従来の金融系といって想像される労働集約的な開発とは一線を画しています。Banking as a Service (BaaS) は SaaS 形式で複数のクライアントに提供するため、クライアントの要望を聞きつつ既存のサービス設計と融合し資産的価値を高めるというチャレンジングな開発体験ができます。</p><p>kipp では、働き方の自由度を高めることで、多様な人材がパフォーマンスを発揮できるような組織づくりをしています。各メンバーがアウトプットを最大化できる方法を考慮した結果、フルリモート勤務と裁量労働制を導入しています（現在も北海道から九州まで各地に在籍）。また、業務委託の開発者も多数参加しています。業務委託から正社員になったメンバーもいます。</p><p>プロダクトの成長にともない、kipp では全国各地から一緒に働ける仲間を積極的に募集しています。日本から新たに価値ある Fintech サービスを生み出しませんか？</p><p>【Kipp Financial Technologies 株式会社 採用情報】<br><a href=\"https://www.wantedly.com/projects/759043\">・サーバサイドエンジニア</a><br><a href=\"https://www.wantedly.com/projects/782595\">・サイトリライアビリティエンジニア</a><br><a href=\"https://www.wantedly.com/projects/732778\">・プロダクトマネジャー</a></p>",
+    "slide_html": ""
+  },
+  {
+    "name": "レバレジーズ株式会社",
+    "logo": "/img/sponsors/leverages.png",
+    "url": "https://leverages.jp/"
   }
 ]

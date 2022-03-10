@@ -11,7 +11,7 @@
         <span v-html="sponsor.text_html" />
       </div>
       <div class="sponsor_url">
-        <span v-html="sponsor.slide_html" />
+        <div v-html="sponsor.slide_html" />
       </div>
     </section>
   </section>

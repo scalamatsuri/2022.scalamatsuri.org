@@ -1,9 +1,5 @@
-
 import * as mTypes from './mutation-types'
-import {
-  combineMutation,
-  combineAction
-} from 'vuex-typescript-fsa'
+import { combineMutation, combineAction } from 'vuex-typescript-fsa'
 import { DateTime } from 'luxon'
 import { sortBy, groupBy, Dictionary } from 'lodash'
 import { defineModule, defineGetter } from '~/store/helpers'
@@ -11,7 +7,8 @@ import { RootState } from '~/store'
 import { Session } from '~/models/session'
 
 import sessionsData from '~/data/sessions/index.json'
-import acceptedSessions from '~/data/top/acceptedSessions.json'
+import proposals from '~/data/proposals/all.json'
+import openMicSessionData from '~/data/open-mic-conference/all.json'
 import sponsorSessionData from '~/data/sponsor-sessions/all.json'
 import { Proposal } from '~/models/proposal'
 import { Zone } from 'luxon'
@@ -34,12 +31,18 @@ export interface State {
 
 const initialState = (): State => {
   const partialSessions: Array<PartialSession> = sessionsData
-  const sessons: Array<Proposal> = acceptedSessions
+  const sessons: Array<Proposal> = proposals
+  const openMicSessions: Array<Proposal> = openMicSessionData
   const sponsorSessions: Array<Proposal> = sponsorSessionData
 
-  // All sessions, containing: acceptedSessions, sponsor sessions, and unconference sessions.
-  const sessionsMap: Map<string, Proposal> = new Map(sessons.concat(sponsorSessions).map(p => [p.id, p]))
- 
+  // All sessions, containing: proposals, sponsor sessions, and Open mic conference sessions.
+  const sessionsMap: Map<string, Proposal> = new Map(
+    sessons
+      .concat(sponsorSessions)
+      .concat(openMicSessions)
+      .map(p => [p.id, p])
+  )
+
   const parseUnixTime = (unixTimeOrTimeStr: number | string): number => {
     return typeof unixTimeOrTimeStr === "number" ? 
       unixTimeOrTimeStr : 

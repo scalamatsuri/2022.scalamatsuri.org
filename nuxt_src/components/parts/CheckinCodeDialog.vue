@@ -8,7 +8,7 @@
     close: "close"
   ja:
     title: "チェックインコード登録"
-    description: "チケット購入時に発行されたチェックインコードを入力してください"
+    description: "チケット取得時に発行されたチェックインコードを入力してください"
     placeholder: "チェックインコードを入力"
     submit: "登録"
     close: "閉じる"
@@ -127,20 +127,19 @@ export default {
     display: inline-block;
     height: 38px;
     margin-top: 10px;
-    background-color: #EEE;
+    background-color: #eee;
     border: none;
     border-radius: 4px;
     padding: 0 8px;
     box-sizing: border-box;
-    caret-color: #CC293E;
+    caret-color: #cc293e;
     font-weight: bold;
     outline: none;
 
     &::placeholder {
-      color: #BEBEBE;
+      color: #bebebe;
       font-weight: normal;
     }
-
   }
   .form__submit {
     flex: 0 0 100px;
@@ -148,7 +147,7 @@ export default {
     border: none;
     margin-top: 10px;
     margin-left: 10px;
-    background-color: #CC293E;
+    background-color: #cc293e;
     color: white;
     font-size: 16px;
     border-radius: 38px;

@@ -1,6 +1,7 @@
 [
   {
     "id": "J1647653100",
+    "isAdopted": true,
     "artifacts": {
       "slides": {
         "speakerdeck": {
@@ -23,11 +24,7 @@
           "icon": "https://pbs.twimg.com/profile_images/1431608839/ceb5e4f7-bec8-4a68-a86c-32d0c7ae4e22_400x400.png",
           "organization": "(株)Tech to Value, (株)エフ・コード",
           "speaker_experience": [],
-          "contributes": [
-            "https://github.com/t2v/holidays",
-            "",
-            "https: //github.com/gakuzzzz/nullable-quantifier"
-          ],
+          "contributes": ["https://github.com/t2v/holidays", "", "https: //github.com/gakuzzzz/nullable-quantifier"],
           "github": "gakuzzzz",
           "twitter": "gakuzzzz",
           "other_sns": ""
@@ -47,11 +44,7 @@
           "icon": "https://pbs.twimg.com/profile_images/1431608839/ceb5e4f7-bec8-4a68-a86c-32d0c7ae4e22_400x400.png",
           "organization": "(株)Tech to Value, (株)エフ・コード",
           "speaker_experience": [],
-          "contributes": [
-            "https://github.com/t2v/holidays",
-            "",
-            "https: //github.com/gakuzzzz/nullable-quantifier"
-          ],
+          "contributes": ["https://github.com/t2v/holidays", "", "https: //github.com/gakuzzzz/nullable-quantifier"],
           "github": "gakuzzzz",
           "twitter": "gakuzzzz",
           "other_sns": ""
@@ -61,6 +54,7 @@
   },
   {
     "id": "E1647654600",
+    "isAdopted": true,
     "artifacts": {
       "slides": {
         "speakerdeck": {
@@ -113,6 +107,7 @@
   },
   {
     "id": "J1647656700",
+    "isAdopted": true,
     "artifacts": {
       "slides": {
         "speakerdeck": {
@@ -165,6 +160,7 @@
   },
   {
     "id": "J1647658800",
+    "isAdopted": true,
     "artifacts": {
       "slides": {
         "speakerdeck": {
@@ -187,9 +183,7 @@
           "icon": "https://secure.gravatar.com/avatar/405ad7da1defc0f6f8804e026778038f",
           "organization": "",
           "speaker_experience": [],
-          "contributes": [
-            "flyway/flyway-play, tototoshi/scala-csv, playframework/playframework"
-          ],
+          "contributes": ["flyway/flyway-play, tototoshi/scala-csv, playframework/playframework"],
           "github": "tototoshi",
           "twitter": "tototoshi",
           "other_sns": ""
@@ -209,9 +203,7 @@
           "icon": "https://secure.gravatar.com/avatar/405ad7da1defc0f6f8804e026778038f",
           "organization": "",
           "speaker_experience": [],
-          "contributes": [
-            "flyway/flyway-play, tototoshi/scala-csv, playframework/playframework"
-          ],
+          "contributes": ["flyway/flyway-play, tototoshi/scala-csv, playframework/playframework"],
           "github": "tototoshi",
           "twitter": "tototoshi",
           "other_sns": ""
@@ -221,6 +213,7 @@
   },
   {
     "id": "E1647663000",
+    "isAdopted": true,
     "artifacts": {
       "slides": {
         "speakerdeck": {
@@ -277,6 +270,7 @@
   },
   {
     "id": "J1647664500",
+    "isAdopted": true,
     "artifacts": {
       "slides": {
         "speakerdeck": {
@@ -329,6 +323,7 @@
   },
   {
     "id": "J1647666600",
+    "isAdopted": true,
     "artifacts": {
       "slides": {
         "speakerdeck": {
@@ -381,6 +376,7 @@
   },
   {
     "id": "J1647668100",
+    "isAdopted": true,
     "artifacts": {
       "slides": {
         "speakerdeck": {
@@ -404,8 +400,8 @@
           "organization": "アルプ株式会社",
           "speaker_experience": [],
           "contributes": [],
-          "github": "wing_007",
-          "twitter": "ma2k8",
+          "github": "ma2k8",
+          "twitter": "wing_007",
           "other_sns": ""
         }
       ]
@@ -424,8 +420,8 @@
           "organization": "アルプ株式会社",
           "speaker_experience": [],
           "contributes": [],
-          "github": "wing_007",
-          "twitter": "ma2k8",
+          "github": "ma2k8",
+          "twitter": "wing_007",
           "other_sns": ""
         }
       ]

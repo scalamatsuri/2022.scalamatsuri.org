@@ -21,13 +21,7 @@ ja:
     </div>
     <!-- modal -->
     <transition name="fade">
-      <div
-        v-if="showModal"
-        class="modal"
-        tabindex="0"
-        @click.self="closeModal"
-        @keyup.escape="closeModal()"
-      >
+      <div v-if="showModal" class="modal" tabindex="0" @click.self="closeModal" @keyup.escape="closeModal()">
         <modal :program="selectedProgram" @close="closeModal" />
       </div>
     </transition>
@@ -39,7 +33,7 @@ import ListSessionContainer from '@/components/parts/ListSessionContainer'
 import Modal from '@/components/parts/SessionDetailModal.vue'
 
 // accepted sessions json
-import sessions from '~/data/top/acceptedSessions.json'
+import proposals from '~/data/proposals/all.json'
 
 export default {
   components: {
@@ -47,8 +41,9 @@ export default {
     ListSessionContainer
   },
   data() {
+    const addaptedSessions = proposals.filter(session => session.isAdapted)
     return {
-      sessions,
+      addaptedSessions,
       selectedProgram: null,
       showModal: null
     }
@@ -98,6 +93,6 @@ export default {
 }
 
 .session_news {
-  font-size: 20px
+  font-size: 20px;
 }
 </style>

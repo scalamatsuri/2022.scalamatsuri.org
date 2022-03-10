@@ -9,18 +9,29 @@
   {
  	  "name": "株式会社リクルート",
  	  "logo": "/img/sponsors/recruit.jpg",
- 	  "url": "https://recruit-saiyo.jp/technology/"
+ 	  "url": "https://recruit-saiyo.jp/technology/",
+    "text_html": "<p>私たちは、個人と企業をつなぎ、より多くの選択肢を提供することで「まだ、ここにない、出会い。」を実現してきました。<br>リクルートグループでは国内で200以上のサービスを開発・運用しており、規模、課題感、開発体制、使用技術はそれぞれ違っていますが、開発現場ではサービスを良くするために様々な挑戦をしております。</p><p><a href=\"https://eigosapuri.jp/\">スタディサプリENGLISH</a></p><p>累計590万DLの英語学習アプリ（2021年12月時点）。予約・通学不要、最短3分の隙間時間で充実した学習ができます。iOS、Android、PCに対応しています。</p><p>スタディサプリENGLISHではシステムを内製しており、バックエンドの開発言語としてScalaを採用しています。アプリケーションは複数のマイクロサービスから構成されお互いがgRPCで通信することで協調動作しています。また積極的に関数型プログラミングのエッセンスを採用しEffなどの先進的な概念も取り入れています。<br>サーバーのエンジニアは合計で15名ほど在籍しており、全員に最新のMacBookProやディスプレイを貸与されフルリモートでSlackやGitHub, GoogleMeetsなどを利用してコミュニケーションをとり開発を行っています。また、OSSのコミッターも複数在籍しスタディサプリ ENGLISHで活用しているライブラリやシステムには積極的に機能追加を行ってもらっています。モナドやScalaに限らずセキュリティーに関する勉強会なども開催されており技術交流もさかんです。</p><p>興味ある方のエントリーお待ちしております。</p><p><a href=\"https://recruit-saiyo.jp/technology/\">テクノロジー職 | 株式会社リクルート 中途採用サイト </a><br><a href=\"https://tech.recruit-mp.co.jp/\">テックブログ</a></p>",
+    "slide_html": ""
   },
   {
  	  "name": "株式会社COMPASS",
  	  "logo": "/img/sponsors/qubena.png",
  	  "url": "https://qubena.com/",
-    "text_html": "<p><a href=\"https://qubena.com/\">COMPASS</a>は、「Qubena（キュビナ）」というAI型教材の開発を通して、子どもたちの<br>学習をパーソナライズし、より効果的に知識、技能を習得できるプラットフォームを<br>提供しています！</p><p>現在全国約100自治体、公立・私立小中高合計で1,800校にて導入され、約50万人の<br>子供たちの学びを支えています。<br>昨今のコロナの影響もあり、EdTechの市場規模は2600億円となっており、今後ますます<br>多くの自治体での導入が見込まれています。</p><p><b>「Scalaで、学びをもっと愉しく！」</b></p><p>バックエンド開発ではScalaを全面的に採用し、設計にはDDD、高負荷への対策に<br>Akka Cluster Sharding(分散システム)を導入しています。<br>また、進化可能なアーキテクチャ基盤の構築に向けてモジュラモノリスの導入に取り<br>組んでいます。</p><p>組織としては開発リソースの80%を機能開発に、20%をカイゼン活動、技術的課題への<br>取り組みに充てており、常に現状に満足しないシステム開発を進めています。</p><p>日本の公教育をアップデートし、子どもたちの未来を支えるエンジニアを募集しています！<br>少しでも興味がある方は、ぜひお気軽にご連絡ください！</p><p><a href=\"https://herp.careers/v1/compass/requisition-groups/1aae6e77-07d3-4903-b02d-3d589c183ec4\">エンジニア採用情報</a><br><a href=\"https://note.qubena.com/\">COMPASS公式note</a>",
+    "text_html": "<p><a href=\"https://qubena.com/\">COMPASS</a>は、「Qubena（キュビナ）」というAI型教材の開発を通して、子どもたちの学習をパーソナライズし、より効果的に知識、技能を習得できるプラットフォームを提供しています！</p><p>現在全国約100自治体、公立・私立小中高合計で1,800校にて導入され、約50万人の子供たちの学びを支えています。昨今のコロナの影響もあり、EdTechの市場規模は2600億円となっており、今後ますます多くの自治体での導入が見込まれています。</p><p><b>「Scalaで、学びをもっと愉しく！」</b></p><p>バックエンド開発ではScalaを全面的に採用し、設計にはDDD、高負荷への対策にAkka Cluster Sharding(分散システム)を導入しています。また、進化可能なアーキテクチャ基盤の構築に向けてモジュラモノリスの導入に取り組んでいます。</p><p>組織としては開発リソースの80%を機能開発に、20%をカイゼン活動、技術的課題への取り組みに充てており、常に現状に満足しないシステム開発を進めています。</p><p>日本の公教育をアップデートし、子どもたちの未来を支えるエンジニアを募集しています！少しでも興味がある方は、ぜひお気軽にご連絡ください！</p><p><a href=\"https://herp.careers/v1/compass/requisition-groups/1aae6e77-07d3-4903-b02d-3d589c183ec4\">エンジニア採用情報</a><br><a href=\"https://note.qubena.com/\">COMPASS公式note</a>",
     "slide_html": "<div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;\"><iframe src=\"https://speakerdeck.com/player/35d1c6c17ce8487bb0498febcf88a569\" style=\"top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media;\"></iframe></div>"
   },
   {
     "name": "株式会社スリーシェイク",
     "logo": "/img/sponsors/3shake.png",
-    "url": "https://3-shake.com/"
+    "url": "https://3-shake.com/",
+    "text_html": "<p>株式会社スリーシェイクは、代表の吉田をはじめ、SREコンサルティングやデータ活用基盤など、ITインフラ領域の技術力に強みをもつメンバーを中心に構成されたテックカンパニーです。<br>私達は社会に蔓延るToilをなくすプラットフォーマーになることをビジョンとし、そのためにエンジニアが中心となってさまざまなアイデアを日々形にし続けています。</p><p>弊社で開発しているクラウドネイティブなデータ連携プラットフォーム「Reckoner」はScalaを使って開発しています。<br>詳しくは是非<a href=\"https://reckoner.io\">こちら</a>をご覧ください！</p><p>株式会社スリーシェイクでは一緒に会社を盛り上げてくれる仲間を募集しています！<br>まずはぜひ一度お話をさせてください！</p><p><a href=\"https://hrmos.co/pages/threeshake/jobs/E_0006\">スリーシェイクScalaエンジニア採用ページ</a></p>",
+    "slide_html": "<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vTPNBp2nFJaR-YPlRZEKtJtEaxx5CDwNIG0auDslMD9iu5y_nCeKnL-ZW-oiLiRIA8ElW1uvDUXMZG8/embed?start=false&loop=false&delayms=5000\" frameborder=\"0\" width=\"710\" height=\"419\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>"
+  },
+  {
+    "name": "株式会社ギブリー",
+    "logo": "/img/sponsors/track.png",
+    "url": "https://tracks.run/",
+    "text_html": "<p><a href=\"https://tracks.run/aboutus/\" target=\"_blank\">テクノロジースキルを経営資源に</a></p><p>エンジニアの人材不足が社会課題となる中、<a href=\"https://givery.co.jp/\" target=\"_blank\">株式会社ギブリー</a>のHRTech事業では、<a href=\"https://tracks.run/\" target=\"_blank\">「Track」</a>というプロダクトを中心に、エンジニアの採用・育成・評価を軸としたソリューションを通じて、企業におけるテクノロジー人材のHR基盤構築を支援しています。</p><p>私たちは、ソフトウェアを創造し続けるエンジニアをアスリートになぞらえ、彼らの成長を支援するような、エンジニアにとっての陸上競技場を目指したいという思いで、<a href=\"https://tracks.run/\" target=\"_blank\">「Track」</a>というプロダクトを開発しています。</p><p>プロダクトの開発は、Scalaを中心としグローバルなエンジニアリングチームで行っていますが、まだまだ仲間が足りません！</p><ul><li>・ エンジニアの教育や育成、スキルの評価に興味がある！</li><li>・ グローバルを目指すプロダクト開発に挑戦したい！</li><li>・ ダイバーシティ（多国籍）のあるプロフェッショナルなエンジニアリングチームで働きたい！</li><li>・ 自らのスキルアップにつながるような技術的にチャレンジングな仕事がしたい！</li></ul><p>これらの想いや情熱に共感していただける方は、ぜひ一度お話をさせてください！</p><p><a href=\"https://hrmos.co/pages/givery/jobs?jobType=FULL&category=1688060102702190592\" target=\"_blank\">株式会社ギブリー エンジニアの求人一覧</a></p>",
+    "slide_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vTtHS8o_q58\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   }
 ]

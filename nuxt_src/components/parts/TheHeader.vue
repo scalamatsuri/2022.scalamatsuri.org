@@ -21,7 +21,7 @@
     proposals: "セッション候補"
     outline: "開催概要"
     login: "ログイン"
-    ticket: "チケット購入"
+    ticket: "チケット"
     cfp: "セッション募集"
     extra-staff: "スタッフ募集"
     logout: "ログアウト"
@@ -98,7 +98,6 @@
             </li> -->
           </ul>
         </div>
-        </ul>
         <!-- ログイン前 ここまで -->
         <!-- ログイン後 ここから -->
         <!-- <ul v-else-if="isLoggedIn" class="function"> -->
@@ -125,7 +124,6 @@
         <!-- </ul> -->
         <!-- ログイン後 ここまで -->
       </div>
-    </div>
     </div>
     <!-- グローバルナビ PC ここまで -->
     <!-- グローバルナビ SP ここから -->
@@ -168,11 +166,11 @@
                   <span>{{ $t('code-of-conduct') }}</span>
                 </nuxt-link>
               </li>
-              <!-- <li class="gnav_item" :class="{ 'gnav_item-current': current_path('/sponsors') }" @click="toggleMenu()">
+              <li class="gnav_item" :class="{ 'gnav_item-current': current_path('/sponsors') }" @click="toggleMenu()">
                 <nuxt-link :to="localePath('sponsors')">
                   <span>{{ $t('sponsors') }}</span>
                 </nuxt-link>
-              </li> -->
+              </li>
               <!-- <li class="gnav_item" :class="{ 'gnav_item-current': current_path('#access') }" @click="toggleMenu()">
                 <nuxt-link :to="locale_access_link()">
                   <span>{{ $t('access') }}</span>
