@@ -5,7 +5,7 @@
     </p>
     <div class="schedule_detail">
       <p class="schedule_title">
-        {{ schedule.title }}
+        {{ typeof schedule.title === "string" ? schedule.title : ( locale in schedule.title ? schedule.title[locale] : schedule.title["en"]) }}
       </p>
       <div class="schedule_tags">
         <p class="schedule_tag">

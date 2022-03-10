@@ -61,9 +61,15 @@
   },
   {
     "id": "1647670200",
-    "title": "Closing",
-    "startAt": 1647670200,
-    "endAt": 1647671100
+    "title": { "ja": "Closing/懇親会案内", "en": "Closing/Prepare for after party" },
+    "startAt": "2022-03-19 15:10",
+    "endAt": "2022-03-19 15:30"
+  },
+  {
+    "id": "1647671400",
+    "title": { "ja": "懇親会", "en": "After party" },
+    "startAt": "2022-03-19 15:30",
+    "endAt": "2022-03-19 17:00"
   },
   {
     "id": "1647738000",
