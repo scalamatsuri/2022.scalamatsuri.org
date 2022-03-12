@@ -11,16 +11,17 @@ import proposals from '~/data/proposals/all.json'
 import openMicSessionData from '~/data/open-mic-conference/all.json'
 import sponsorSessionData from '~/data/sponsor-sessions/all.json'
 import { Proposal } from '~/models/proposal'
+import { Zone } from 'luxon'
 
 export const namespace = 'sessions'
 
 interface PartialSession {
-  startAt: number
-  endAt: number
-  id?: string // proposal id
-  title?: string // alternative to proposal id.
-  room?: string
-  youtubeUrl?: string
+  startAt: number | string,
+  endAt: number | string,
+  id?: string, // proposal id
+  title?: string | {ja: string, en: string}, // alternative to proposal id.
+  room?: string,
+  youtubeUrl?: string,
   slideUrl?: string
 }
 
@@ -42,9 +43,16 @@ const initialState = (): State => {
       .map(p => [p.id, p])
   )
 
+  const parseUnixTime = (unixTimeOrTimeStr: number | string): number => {
+    return typeof unixTimeOrTimeStr === "number" ? 
+      unixTimeOrTimeStr : 
+      DateTime.fromFormat(unixTimeOrTimeStr, "yyyy-MM-dd HH:mm", {zone: "UTC+9"}).toSeconds()
+  }
   return {
     sessions: partialSessions.map(s => ({
       ...s,
+      startAt: parseUnixTime(s.startAt),
+      endAt: parseUnixTime(s.endAt),
       proposal: s.id ? sessionsMap.get(s.id) : undefined
     }))
   }
