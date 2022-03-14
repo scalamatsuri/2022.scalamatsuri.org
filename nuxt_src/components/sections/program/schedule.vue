@@ -5,7 +5,7 @@
     </p>
     <div class="schedule_detail">
       <p class="schedule_title">
-        {{ typeof schedule.title === "string" ? schedule.title : ( locale in schedule.title ? schedule.title[locale] : schedule.title["en"]) }}
+        {{ typeof schedule.title === 'string' ? schedule.title : locale in schedule.title ? schedule.title[locale] : schedule.title['en'] }}
       </p>
       <div class="schedule_tags">
         <p class="schedule_tag">
@@ -35,8 +35,7 @@
       </div>
       <ul class="schedule_function">
         <li v-for="item in schedule.proposal[locale].tags" :key="item" class="schedule_function">
-          <!-- eslint-disable-next-line vue/no-v-html -->
-          <!-- <span v-html="item" /> -->
+          <span v-html="item" />
         </li>
       </ul>
     </div>
@@ -45,13 +44,23 @@
     <div class="schedule_speakers">
       <div v-for="speaker in schedule.proposal[locale].speakers" :key="speaker.name" class="schedule_speaker">
         <div v-if="speaker.name">
-          <img v-if="speaker.icon" v-lazy="speaker.icon" class="schedule_speaker_icon">
-          <p class="schedule_speaker_name">
-            {{ speaker.name }}
-          </p>
-          <p class="schedule_speaker_id">
-            {{ speaker.id }}
-          </p>
+          <template v-if="speaker.icon">
+            <img v-lazy="speaker.icon" class="schedule_speaker_icon">
+            <div class="schedule_speaker_name">
+              {{ speaker.name }}
+            </div>
+            <p class="schedule_speaker_id">
+              {{ speaker.id }}
+            </p>
+          </template>
+          <template v-if="!speaker.icon">
+            <div class="schedule_speaker_name_not_icon">
+              {{ speaker.name }}
+            </div>
+            <p class="schedule_speaker_id_not_icon">
+              {{ speaker.id }}
+            </p>
+          </template>
         </div>
       </div>
     </div>
@@ -111,6 +120,9 @@ export default {
   methods: {
     useRoom() {
       return this.schedule && !!this.schedule.proposal
+    },
+    isSponsor() {
+      return this.schedule && !!this.schedule.sponsor
     },
     isProgram() {
       return this.useRoom() && !!this.schedule.proposal
