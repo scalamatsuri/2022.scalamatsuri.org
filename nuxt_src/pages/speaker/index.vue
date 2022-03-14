@@ -10,7 +10,7 @@ en:
     We ask your cooperation to be punctual for both the starting time and the talk time (20min) to respect the attendees and other speakers.
     On the day of the talk, a time keeper will join you in the Zoom Webinar to display the remaining time, which you could glance from time to time.
     <br/>
-    <b>In the event the talk runs over by 3min, please note that the MC will interrupt your talk.</b>
+    <b>In the event the talk runs over, please note that the MC will interrupt your talk.</b>
   title_03: Practice using Zoom Meeting
   body_03: |
     We suggest practicing using an ad-hoc <a href="https://zoom.us/start/videomeeting">Zoom Meeting</a>.
@@ -27,7 +27,7 @@ ja:
     スケジュールの遅れが出ないように、開始時間およびトーク時間 (20分) の時間厳守をお願いしております。
     当日の Zoom Webinar にはタイムキーパーが同席して残り時間を表示するなどするので是非活用してください。
     <br/>
-    <b>終了時間3分をオーバーした場合、司会がトークを中断させていただきます。ご了承ください。</b>
+    <b>終了時間オーバーした場合、司会がトークを中断させていただきます。ご了承ください。</b>
   title_03: Zoom Meeting での練習
   body_03: |
     <a href="https://zoom.us/start/videomeeting">Zoom Meeting</a> を使っての練習をお願いしております。
