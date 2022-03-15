@@ -76,7 +76,7 @@ ja:
               <small>({{ getTimeZoneStr(parseInt(startAt)) }})</small>
             </p>
             <div class="schedule_events">
-              <div v-for="session in sessions" :key="session.title || session.proposal" @click="openModal(session.proposal)">
+              <div v-for="session in sessions" :key="session.id" @click="openModal(session.proposal)">
                 <schedule
                   :schedule="session"
                   :locale="$i18n.locale"

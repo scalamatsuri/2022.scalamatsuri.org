@@ -22,7 +22,8 @@
   },
   {
     "id": "1647655800",
-    "title": "Sponsor Session 1",
+    "title": "Scalaの新規事業でScalaの未経験者をオンボーディング",
+    "room": "Visionalグループ<br>Assured事業部<br>Discord Virtual Booth",
     "startAt": 1647655800,
     "endAt": 1647656700,
     "jst": "2022/03/19 11:10:00"
@@ -57,7 +58,8 @@
   },
   {
     "id": "1647662100",
-    "title": "Sponsor Session 3",
+    "title": "Discussion of practical design with Scala (available in Japanese)",
+    "room": "アルプ株式会社<br>Discord Virtual Booth",
     "startAt": 1647662100,
     "endAt": 1647663000,
     "jst": "2022-03-19 12:55:00"
@@ -126,7 +128,8 @@
   },
   {
     "id": "1647741600",
-    "title": "Sponsor session 1",
+    "title": "Practical coding with Eff (available in Japanese)",
+    "room": "アルプ株式会社<br>Discord Virtual Booth",
     "startAt": 1647741600,
     "endAt": 1647742500,
     "jst": "2022-03-20 11:00:00"

@@ -36,7 +36,7 @@
   line-height: 39px;
   font-size: 24px;
   letter-spacing: 0.1em;
-  padding: 22px 0;
+  padding: 18px 0 0 0;
   text-align: center;
   & + .schedule_events {
     border-left: 1px solid #eee;
@@ -104,9 +104,9 @@
   align-items: center;
 }
 .schedule_detail {
-  width: 65%;
+  width: 55%;
   text-align: left;
-  padding: 20px 30px 20px 46px;
+  padding: 20px 10px 20px 20px;
   &-sort {
     width: 80%;
     position: relative;
@@ -159,8 +159,34 @@
   font-size: 12px;
   letter-spacing: 0.1em;
 }
+.schedule_speaker_name_not_icon {
+  font-weight: bold;
+  line-height: 20px;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+}
 .schedule_speaker_id {
   margin-left: 50px;
+  font-weight: bold;
+  line-height: 20px;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  > a {
+    color: #00a4de;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100px;
+    display: block;
+  }
+  > a > img {
+    width: 16px;
+    height: 16px;
+    margin-top: 0.24em;
+    margin-right: 4px;
+  }
+}
+.schedule_speaker_id_not_icon {
   font-weight: bold;
   line-height: 20px;
   font-size: 12px;

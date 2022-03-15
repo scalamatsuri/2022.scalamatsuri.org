@@ -25,8 +25,8 @@
       </span>
     </h2>
     <ul class="modal_speakers">
-      <li v-for="speaker in program[$i18n.locale].speakers" :key="speaker.id" class="modal_speaker">
-        <div class="modal_speaker_icon" :style="`backgroundImage: url('${speaker.icon}')`" />
+      <li v-for="speaker in program[$i18n.locale].speakers.filter(speaker => !speaker.organization)" :key="speaker.id" class="modal_speaker">
+        <div v-if="speaker.icon" class="modal_speaker_icon" :style="`backgroundImage: url('${speaker.icon}')`" />
         <p class="modal_speaker_name">
           {{ speaker.name }}
         </p>
@@ -136,7 +136,8 @@
             {{ $t('contribute') }}
           </dt>
           <dt v-else>
-            {{ speaker.name }} <br> {{ $t('contribute') }}
+            {{ speaker.name }} <br>
+            {{ $t('contribute') }}
           </dt>
           <dd>
             <p v-for="contribute in speaker.contributes" :key="contribute">
@@ -144,12 +145,13 @@
             </p>
           </dd>
         </dl>
-        <dl v-if=" speaker.speaker_experience && speaker.speaker_experience.length > 0 " class="modal_scope_large">
-          <dt v-if=" program[$i18n.locale].speakers && program[$i18n.locale].speakers.length === 1 ">
+        <dl v-if="speaker.speaker_experience && speaker.speaker_experience.length > 0" class="modal_scope_large">
+          <dt v-if="program[$i18n.locale].speakers && program[$i18n.locale].speakers.length === 1">
             {{ $t('speaker_experience') }}
           </dt>
           <dt v-else>
-            {{ speaker.name }} <br> {{ $t('speaker_experience') }}
+            {{ speaker.name }} <br>
+            {{ $t('speaker_experience') }}
           </dt>
           <dd>
             <p v-for="ex in speaker.speaker_experience" :key="ex">

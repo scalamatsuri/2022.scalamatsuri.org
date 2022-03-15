@@ -1,19 +1,28 @@
 [
   {
     "id": "1647655800",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
-      "title": "Sponsor Session 1",
-      "detail": "",
-      "language": "",
+      "title": "Scalaの新規事業でScalaの未経験者をオンボーディング",
+      "detail": "オンボーディングした人＆された人が、実体験を語るトークイベントです！\nぜひDiscord内Assuredチャンネルにお越しください＾＾",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
       "speakers": [
         {
-          "name": "",
+          "name": "岩松、内山",
           "icon": "",
-          "organization": "",
-          "speaker_experience": [""],
+          "organization": "ビジョナル・インキュベーション株式会社",
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -22,18 +31,18 @@
       ]
     },
     "ja": {
-      "title": "Sponsor Session 1",
-      "detail": "",
-      "language": "",
+      "title": "Scalaの新規事業でScalaの未経験者をオンボーディング",
+      "detail": "オンボーディングした人＆された人が、実体験を語るトークイベントです！\nぜひDiscord内Assuredチャンネルにお越しください＾＾",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
       "speakers": [
         {
-          "name": "",
+          "name": "岩松、内山",
           "icon": "",
-          "organization": "",
-          "speaker_experience": [""],
+          "organization": "ビジョナル・インキュベーション株式会社",
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -44,6 +53,15 @@
   },
   {
     "id": "1647657900",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "Sponsor Session 2",
       "detail": "",
@@ -56,7 +74,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -76,7 +94,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -87,8 +105,17 @@
   },
   {
     "id": "1647662100",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
-      "title": "Sponsor Session 3",
+      "title": "Discussion of practical design with Scala (available in Japanese)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -96,10 +123,10 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
+          "name": "増田 亨、集約のエンティティ、@aoinoaoino",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -108,7 +135,7 @@
       ]
     },
     "ja": {
-      "title": "Sponsor Session 3",
+      "title": "Scalaの現場から学ぶ設計 座談会",
       "detail": "",
       "language": "",
       "length": 15,
@@ -116,10 +143,10 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
+          "name": "増田 亨、集約のエンティティ、@aoinoaoino",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -130,6 +157,15 @@
   },
   {
     "id": "1647665700",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "Sponsor Session 4",
       "detail": "",
@@ -142,7 +178,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -162,7 +198,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -173,6 +209,15 @@
   },
   {
     "id": "1647669300",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "Sponsor Session 5",
       "detail": "",
@@ -185,7 +230,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -205,7 +250,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -216,8 +261,17 @@
   },
   {
     "id": "1647741600",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
-      "title": "Sponsor session 1",
+      "title": "Eff（atnos-eff）による実践的なコーディング集",
       "detail": "",
       "language": "",
       "length": 15,
@@ -225,19 +279,20 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "name": "久代太一",
+          "icon": "https://pbs.twimg.com/profile_images/1480098135079030784/7t7OauxW_400x400.jpg",
+          "id": "@shiroichi315",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "shiroichi315",
+          "twitter": "shiroichi315",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Sponsor session 1",
+      "title": "Practical coding with Eff (available in Japanese)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -245,13 +300,14 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "name": "久代太一",
+          "icon": "https://pbs.twimg.com/profile_images/1480098135079030784/7t7OauxW_400x400.jpg",
+          "id": "@shiroichi315",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "shiroichi315",
+          "twitter": "shiroichi315",
           "other_sns": ""
         }
       ]
@@ -259,6 +315,15 @@
   },
   {
     "id": "1647748800",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "Sponsor session 2",
       "detail": "",
@@ -271,7 +336,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -291,7 +356,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -302,6 +367,15 @@
   },
   {
     "id": "1647751500",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "Sponsor session 3",
       "detail": "",
@@ -314,7 +388,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -334,7 +408,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -345,6 +419,15 @@
   },
   {
     "id": "1647756000",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "Sponsor session 4",
       "detail": "",
@@ -357,7 +440,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -377,7 +460,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -388,6 +471,15 @@
   },
   {
     "id": "1647760500",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        }
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "Sponsor session 5",
       "detail": "",
@@ -400,7 +492,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
@@ -420,7 +512,7 @@
           "name": "",
           "icon": "",
           "organization": "",
-          "speaker_experience": [""],
+          "speaker_experience": [],
           "contributes": [],
           "github": "",
           "twitter": "",
