@@ -25,7 +25,7 @@
       </span>
     </h2>
     <ul class="modal_speakers">
-      <li v-for="speaker in program[$i18n.locale].speakers.filter(speaker => !speaker.isCompany)" :key="speaker.id" class="modal_speaker">
+      <li v-for="speaker in program[$i18n.locale].speakers.filter(speaker => !speaker.organization)" :key="speaker.id" class="modal_speaker">
         <div v-if="speaker.icon" class="modal_speaker_icon" :style="`backgroundImage: url('${speaker.icon}')`" />
         <p class="modal_speaker_name">
           {{ speaker.name }}
