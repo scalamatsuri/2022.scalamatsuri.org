@@ -15,9 +15,9 @@
     </div>
   </div>
   <div v-else-if="isProgram()" class="schedule_event">
-    <p v-if="schedule.room" class="schedule_room">
-      {{ schedule.room }}
-    </p>
+    <div v-if="schedule.room" class="schedule_room">
+      <p v-html="schedule.room" />
+    </div>
     <div v-if="schedule.proposal" class="schedule_detail">
       <p class="schedule_title">
         {{ schedule.proposal[locale].title }}

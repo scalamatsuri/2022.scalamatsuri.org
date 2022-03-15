@@ -19,18 +19,9 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "ビジョナル・インキュベーション株式会社",
-          "isCompany": true,
-          "organization": "",
-          "speaker_experience": [],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
-          "other_sns": ""
-        },
-        {
-          "name": "Assured、岩松、内山",
-          "organization": "",
+          "name": "岩松、内山",
+          "icon": "",
+          "organization": "ビジョナル・インキュベーション株式会社",
           "speaker_experience": [],
           "contributes": [],
           "github": "",
@@ -48,18 +39,9 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "ビジョナル・インキュベーション株式会社",
-          "isCompany": true,
-          "organization": "",
-          "speaker_experience": [],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
-          "other_sns": ""
-        },
-        {
-          "name": "Assured、岩松、内山",
-          "organization": "",
+          "name": "岩松、内山",
+          "icon": "",
+          "organization": "ビジョナル・インキュベーション株式会社",
           "speaker_experience": [],
           "contributes": [],
           "github": "",
@@ -141,17 +123,6 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "アルプ株式会社",
-          "isCompany": true,
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
-          "other_sns": ""
-        },
-        {
           "name": "増田 亨、集約のエンティティ、@aoinoaoino",
           "icon": "",
           "organization": "",
@@ -171,17 +142,6 @@
       "tags": [],
       "keywords": [],
       "speakers": [
-        {
-          "name": "アルプ株式会社",
-          "isCompany": true,
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
-          "other_sns": ""
-        },
         {
           "name": "増田 亨、集約のエンティティ、@aoinoaoino",
           "icon": "",
@@ -319,17 +279,6 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "アルプ株式会社",
-          "isCompany": true,
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
-          "other_sns": ""
-        },
-        {
           "name": "久代太一",
           "icon": "https://pbs.twimg.com/profile_images/1480098135079030784/7t7OauxW_400x400.jpg",
           "id": "@shiroichi315",
@@ -350,17 +299,6 @@
       "tags": [],
       "keywords": [],
       "speakers": [
-        {
-          "name": "アルプ株式会社",
-          "isCompany": true,
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
-          "other_sns": ""
-        },
         {
           "name": "久代太一",
           "icon": "https://pbs.twimg.com/profile_images/1480098135079030784/7t7OauxW_400x400.jpg",
