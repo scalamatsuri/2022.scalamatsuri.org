@@ -9,11 +9,12 @@ en:
   bookmark_only: BookMark Only
   day1_description: |
     Conference DAY in conference format. Doors open at 09:30, scheduled to end at 15:25 in JST.<br>
-    Simultaneous interpretation will be provided via Zoom Webinar for all sessions.
+    Simultaneous interpretation by professionals will be provided via Zoom Webinar for all sessions.
   day2_description: |
     Open Mic Conference <br>
     Doors open at 9:30, and scheduled to end at 17:00 in JST.<br>
     Please put your sessions ideas to <a href="https://github.com/scalamatsuri/2022.open-mic-conference" target="_blank" rel="noopener">scalamatsuri/2022.open-mic-conference</a> Github repository.<br><br>
+    Simultaneous interpretation won't be provided. All sessions will be in either Japanese or English. <br><br>
 
 ja:
   title: プログラム
@@ -29,7 +30,8 @@ ja:
     飛び入りカンファレンス <br>
     09時30分入場開始 17時終了予定(JST）<br>
     セッションのアイディアは、<a href="https://github.com/scalamatsuri/2022.open-mic-conference" target="_blank" rel="noopener">scalamatsuri/2022.open-mic-conference</a> Githubリポジトリに投稿してください。<br><br>
-    さらに、ScalaMatsuriスポンサー企業によるバーチャルブースコンテンツTrackも追加予定です。どうぞお楽しみに！
+    さらに、ScalaMatsuriスポンサー企業によるバーチャルブースコンテンツTrackも追加予定です。どうぞお楽しみに！<br><br>
+    なお同時通訳は提供されません。セッションは日本語か英語で提供されます。<br><br>
 </i18n>
 
 <template>
