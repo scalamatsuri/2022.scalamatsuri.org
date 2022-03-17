@@ -23,12 +23,12 @@ en:
     <br>
     During the session, we will use Zoom Webinar's <b>Interpretation</b> feature. Be sure to click the <b>Interpretation</b> button at the bottom right of Zoom Webinar UI and choose <b>English</b> if you'd be giving your talk in English.<br>
     <br>
-    Questions and answers are included in the session time. You can answer as appropriate during the session, or you can answer all at the end of the session. Questions from participants will be written to the <b>track-a</b> channel of Discord. Be sure to read the question aloud before answering these questions. The <b>track-a-chat</b> channel in Discord are for chat. You can see them when you want to see the reaction of the participants. 
+    Questions and answers are included in the session time. You can answer as appropriate during the session, or you can answer all at the end of the session. Questions from participants will be written to the <b>track-a</b> channel of Discord. Be sure to read the question aloud before answering these questions. The <b>track-a-chat</b> channel in Discord are for chat. You can see them when you want to see the reaction of the participants.
   title_05: slide link
   body_05: |
     After ScalaMatsuri 2022, we plan to add slide and video links to our website.<br>
     <br>
-    If you would like to see the slide links published in your account, please be sure to post the link to the <br>SPEAKERS / chat</br> channel of Discord. If you don't, we will publish the submitted slides in your ScalaMatsuri account and provide a link.  
+    If you would like to see the slide links published in your account, please be sure to post the link to the <br>SPEAKERS / chat</br> channel of Discord. If you don't, we will publish the submitted slides in your ScalaMatsuri account and provide a link.
 ja:
   title_01: スピーカーの皆さんへ
   body_01: |
