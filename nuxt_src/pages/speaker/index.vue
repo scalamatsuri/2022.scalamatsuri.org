@@ -21,7 +21,7 @@ en:
   body_04: |
     We will send you an invitation email for Zoom Webinar by the day before. Please be sure to enter from the link in the invitation email.<br>
     <br>
-    Also, we use the simultaneous interpretation function. You should be sure to click the <b>Interpretation</b> button at the bottom right of Zoom Webinar and choose the language you speak, which is English or Japanese.<br>
+    During the session, we will use Zoom Webinar's <b>Interpretation</b> feature. Be sure to click the <b>Interpretation</b> button at the bottom right of Zoom Webinar UI and choose <b>English</b> if you'd be giving your talk in English.<br>
     <br>
     Questions and answers are included in the session time. You can answer as appropriate during the session, or you can answer all at the end of the session. Questions from participants will be written to the <b>track-a</b> channel of Discord. Be sure to read the question aloud before answering these questions. The <b>track-a-chat</b> channel in Discord are for chat. You can see them when you want to see the reaction of the participants. 
   title_05: slide link
