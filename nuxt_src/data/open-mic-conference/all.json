@@ -88,9 +88,19 @@
 
   {
     "id": "1647742500A",
+        "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        },
+        "other_url": "https://zenn.dev/gakuzzzz/articles/1f36d215a4b218"
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
-      "detail": "",
+      "detail": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
       "language": "",
       "length": 15,
       "tags": [],
@@ -111,7 +121,7 @@
     },
     "ja": {
       "title": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
-      "detail": "",
+      "detail": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
       "language": "",
       "length": 15,
       "tags": [],
@@ -133,9 +143,19 @@
   },
   {
     "id": "1647742500B",
+        "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        },
+        "other_url": "https://github.com/Javakky-pxv/Slides/blob/main/Scalafix%20%E3%83%AB%E3%83%BC%E3%83%AB%E4%BD%9C%E6%88%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf"
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
-      "title": "Session B",
-      "detail": "",
+      "title": "Slides/Scalafix ルール作成について",
+      "detail": "Slides/Scalafix ルール作成について",
       "language": "",
       "length": 15,
       "tags": [],
@@ -155,8 +175,8 @@
       ]
     },
     "ja": {
-      "title": "Session B",
-      "detail": "",
+      "title": "Slides/Scalafix ルール作成について",
+      "detail": "Slides/Scalafix ルール作成について",
       "language": "",
       "length": 15,
       "tags": [],
@@ -178,9 +198,19 @@
   },
   {
     "id": "1647744300A",
+        "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        },
+        "other_url": "https://xuwei-k.github.io/slides/wartremover-3/#1"
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "wartremoverのScala 3対応",
-      "detail": "",
+      "detail": "wartremoverのScala 3対応",
       "language": "",
       "length": 15,
       "tags": [],
@@ -201,7 +231,7 @@
     },
     "ja": {
       "title": "wartremoverのScala 3対応",
-      "detail": "",
+      "detail": "wartremoverのScala 3対応",
       "language": "",
       "length": 15,
       "tags": [],
@@ -398,9 +428,19 @@
   },
   {
     "id": "1647750600A",
+    "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        },
+        "other_url": "https://github.com/yuiwai/slides/blob/main/JVM%E3%81%9F%E3%82%99%E3%81%91%E3%81%97%E3%82%99%E3%82%83%E3%81%AA%E3%81%84Scala%E3%83%BB%E6%94%B9.pdf"
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
-      "title": "Scala.js LT",
-      "detail": "",
+      "title": "JVMだけじゃないScala・改",
+      "detail": "JVMだけじゃないScala・改",
       "language": "",
       "length": 15,
       "tags": [],
@@ -419,8 +459,8 @@
       ]
     },
     "ja": {
-      "title": "Scala.js LT",
-      "detail": "",
+      "title": "JVMだけじゃないScala・改",
+      "detail": "JVMだけじゃないScala・改",
       "language": "",
       "length": 15,
       "tags": [],
@@ -484,9 +524,19 @@
   },
   {
     "id": "1647752400A",
+        "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        },
+        "other_url": "https://scrapbox.io/tanishiking-pub/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84Metals%E3%81%AE%E4%BE%BF%E5%88%A9%E3%81%AA100%E3%81%AE%E6%A9%9F%E8%83%BD"
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "あなたの知らないMetalsの便利な100の機能",
-      "detail": "",
+      "detail": "あなたの知らないMetalsの便利な100の機能",
       "language": "",
       "length": 15,
       "tags": [],
@@ -507,7 +557,7 @@
     },
     "ja": {
       "title": "あなたの知らないMetalsの便利な100の機能",
-      "detail": "",
+      "detail": "あなたの知らないMetalsの便利な100の機能",
       "language": "",
       "length": 15,
       "tags": [],
@@ -663,9 +713,19 @@
 
   {
     "id": "1647756900A",
+        "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        },
+        "other_url": "https://docs.google.com/presentation/d/14bq2fqxSDVcAW0JlT5mZsaX994zVijzkioMKamvsoBE/edit#slide=id.p"
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
       "title": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
-      "detail": "",
+      "detail": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
       "language": "",
       "length": 15,
       "tags": [],
@@ -686,7 +746,7 @@
     },
     "ja": {
       "title": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
-      "detail": "",
+      "detail": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
       "language": "",
       "length": 15,
       "tags": [],
