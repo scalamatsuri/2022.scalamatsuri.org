@@ -4,7 +4,7 @@
     "en": {
       "title": "Session A",
       "detail": "",
-      "language": "English",
+      "language": "ja",
       "length": 30,
       "tags": [],
       "keywords": [],
@@ -24,7 +24,7 @@
     "ja": {
       "title": "Session A",
       "detail": "",
-      "language": "English",
+      "language": "ja",
       "length": 30,
       "tags": [],
       "keywords": [],
@@ -47,7 +47,7 @@
     "en": {
       "title": "Session B",
       "detail": "",
-      "language": "English",
+      "language": "ja",
       "length": 30,
       "tags": [],
       "keywords": [],
@@ -67,7 +67,7 @@
     "ja": {
       "title": "Session B",
       "detail": "",
-      "language": "English",
+      "language": "ja",
       "length": 30,
       "tags": [],
       "keywords": [],
@@ -89,7 +89,7 @@
   {
     "id": "1647742500A",
     "en": {
-      "title": "Session A",
+      "title": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
       "detail": "",
       "language": "",
       "length": 15,
@@ -97,19 +97,20 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [""],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
+          "name": "NAKAMURA Manabu",
+          "id": "gakuzzzz",
+          "icon": "https://pbs.twimg.com/profile_images/1431608839/ceb5e4f7-bec8-4a68-a86c-32d0c7ae4e22_400x400.png",
+          "organization": "(株)Tech to Value, (株)エフ・コード",
+          "speaker_experience": [],
+          "contributes": ["https://github.com/t2v/holidays", "", "https: //github.com/gakuzzzz/nullable-quantifier"],
+          "github": "gakuzzzz",
+          "twitter": "gakuzzzz",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Session A",
+      "title": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
       "detail": "",
       "language": "",
       "length": 15,
@@ -117,13 +118,14 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [""],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
+          "name": "NAKAMURA Manabu",
+          "id": "gakuzzzz",
+          "icon": "https://pbs.twimg.com/profile_images/1431608839/ceb5e4f7-bec8-4a68-a86c-32d0c7ae4e22_400x400.png",
+          "organization": "(株)Tech to Value, (株)エフ・コード",
+          "speaker_experience": [],
+          "contributes": ["https://github.com/t2v/holidays", "", "https: //github.com/gakuzzzz/nullable-quantifier"],
+          "github": "gakuzzzz",
+          "twitter": "gakuzzzz",
           "other_sns": ""
         }
       ]
@@ -140,12 +142,13 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id":"Javakky-pxv",
+          "name": "Kazuma Iemura",
+          "icon": "https://avatars.githubusercontent.com/u/71240288?v=4",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
+          "github": "Javakky-pxv",
           "twitter": "",
           "other_sns": ""
         }
@@ -160,12 +163,13 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id":"Javakky-pxv",
+          "name": "Kazuma Iemura",
+          "icon": "https://avatars.githubusercontent.com/u/71240288?v=4",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
+          "github": "Javakky-pxv",
           "twitter": "",
           "other_sns": ""
         }
@@ -175,7 +179,7 @@
   {
     "id": "1647744300A",
     "en": {
-      "title": "Session A",
+      "title": "wartremoverのScala 3対応",
       "detail": "",
       "language": "",
       "length": 15,
@@ -183,19 +187,20 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "name": "kenji yoshida",
+          "id": "@xuwei-k",
+          "icon": "https://pbs.twimg.com/profile_images/1931553270/xuwei_reasonably_small.gif",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "xuwei-k",
+          "twitter": "xuwei_k",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Session A",
+      "title": "wartremoverのScala 3対応",
       "detail": "",
       "language": "",
       "length": 15,
@@ -203,13 +208,14 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "name": "kenji yoshida",
+          "id": "@xuwei-k",
+          "icon": "https://pbs.twimg.com/profile_images/1931553270/xuwei_reasonably_small.gif",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "xuwei-k",
+          "twitter": "xuwei_k",
           "other_sns": ""
         }
       ]
@@ -218,7 +224,7 @@
   {
     "id": "1647744300B",
     "en": {
-      "title": "Session B",
+      "title": "talk about big data ecosystem e.g. apache spark or scio",
       "detail": "",
       "language": "",
       "length": 15,
@@ -226,19 +232,19 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [""],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
+          "name": "Eugene Yokota",
+          "icon": "https://pbs.twimg.com/profile_images/1433141732930109446/1chynLaI_400x400.jpg",
+          "organization": "Twitter",
+          "speaker_experience": [],
+          "contributes": ["sbt, scopt"],
+          "github": "eed3si9n",
+          "twitter": "eed3si9n",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Session B",
+      "title": "apache spark や scio などデータ系のライブラリ/エコシステムの話がききたい",
       "detail": "",
       "language": "",
       "length": 15,
@@ -246,13 +252,13 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [""],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
+          "name": "Eugene Yokota",
+          "icon": "https://pbs.twimg.com/profile_images/1433141732930109446/1chynLaI_400x400.jpg",
+          "organization": "Twitter",
+          "speaker_experience": [],
+          "contributes": ["sbt, scopt"],
+          "github": "eed3si9n",
+          "twitter": "eed3si9n",
           "other_sns": ""
         }
       ]
@@ -348,7 +354,7 @@
   {
     "id": "1647749700B",
     "en": {
-      "title": "LT 1 - B (max 15 min)",
+      "title": "IntelliJの便利な使い方が知りたい・聞きたい",
       "detail": "",
       "language": "",
       "length": 15,
@@ -356,19 +362,20 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "howmant",
+          "name": "竹尾正馬",
+          "icon": "https://pbs.twimg.com/profile_images/1452921852049821703/kwSsk7qy_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "showmant",
+          "twitter": "showmant_",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "LT 1 - B (max 15 min)",
+      "title": "IntelliJの便利な使い方が知りたい・聞きたい",
       "detail": "",
       "language": "",
       "length": 15,
@@ -376,13 +383,14 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "howmant",
+          "name": "竹尾正馬",
+          "icon": "https://pbs.twimg.com/profile_images/1452921852049821703/kwSsk7qy_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "showmant",
+          "twitter": "showmant_",
           "other_sns": ""
         }
       ]
@@ -391,7 +399,7 @@
   {
     "id": "1647750600A",
     "en": {
-      "title": "LT 2 - A (max 15 min)",
+      "title": "Scala.js LT",
       "detail": "",
       "language": "",
       "length": 15,
@@ -399,19 +407,19 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "name": "yuiwai",
+          "icon": "https://pbs.twimg.com/profile_images/1149904403/neko_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "yuiwai",
+          "twitter": "dont_cocoa",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "LT 2 - A (max 15 min)",
+      "title": "Scala.js LT",
       "detail": "",
       "language": "",
       "length": 15,
@@ -419,13 +427,13 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "name": "yuiwai",
+          "icon": "https://pbs.twimg.com/profile_images/1149904403/neko_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "yuiwai",
+          "twitter": "dont_cocoa",
           "other_sns": ""
         }
       ]
@@ -477,7 +485,7 @@
   {
     "id": "1647752400A",
     "en": {
-      "title": "Session A",
+      "title": "あなたの知らないMetalsの便利な100の機能",
       "detail": "",
       "language": "",
       "length": 15,
@@ -485,19 +493,20 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "tanishiking",
+          "name": "Rikito Taniguchi",
+          "icon": "https://pbs.twimg.com/profile_images/797683591610150913/L9nAcOzi_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "tanishiking",
+          "twitter": "tanishiking",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Session A",
+      "title": "あなたの知らないMetalsの便利な100の機能",
       "detail": "",
       "language": "",
       "length": 15,
@@ -505,13 +514,14 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "tanishiking",
+          "name": "Rikito Taniguchi",
+          "icon": "https://pbs.twimg.com/profile_images/797683591610150913/L9nAcOzi_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "tanishiking",
+          "twitter": "tanishiking",
           "other_sns": ""
         }
       ]
@@ -520,7 +530,7 @@
   {
     "id": "1647752400B",
     "en": {
-      "title": "Session B",
+      "title": "ZIO利用者が雑談する会(使ってないけど興味ある人も歓迎)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -528,19 +538,20 @@
       "keywords": [],
       "speakers": [
         {
+          "id": "rysh",
           "name": "",
-          "icon": "",
+          "icon": "https://avatars.githubusercontent.com/u/828709?v=4",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
+          "github": "rysh",
           "twitter": "",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Session B",
+      "title": "ZIO利用者が雑談する会(使ってないけど興味ある人も歓迎)",
       "detail": "",
       "language": "",
       "length": 15,
@@ -548,12 +559,13 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "rysh",
+          "name": "Ryuhei Ishibashi",
+          "icon": "https://avatars.githubusercontent.com/u/828709?v=4",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
+          "github": "rysh",
           "twitter": "",
           "other_sns": ""
         }
@@ -563,7 +575,7 @@
   {
     "id": "1647754200A",
     "en": {
-      "title": "Session A",
+      "title": "playframework/twirlのScala3対応について",
       "detail": "",
       "language": "",
       "length": 15,
@@ -571,19 +583,20 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "tototoshi",
+          "name": "Toshiyuki Takahashi",
+          "icon": "https://pbs.twimg.com/profile_images/1601948797/twitter_icon_320_320_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "tototoshi",
+          "twitter": "tototoshi",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Session A",
+      "title": "playframework/twirlのScala3対応について",
       "detail": "",
       "language": "",
       "length": 15,
@@ -591,13 +604,14 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "tototoshi",
+          "name": "Toshiyuki Takahashi",
+          "icon": "https://pbs.twimg.com/profile_images/1601948797/twitter_icon_320_320_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "tototoshi",
+          "twitter": "tototoshi",
           "other_sns": ""
         }
       ]
@@ -650,7 +664,7 @@
   {
     "id": "1647756900A",
     "en": {
-      "title": "Session A",
+      "title": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
       "detail": "",
       "language": "",
       "length": 15,
@@ -658,19 +672,20 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "tanishiking",
+          "name": "Rikito Taniguchi",
+          "icon": "https://pbs.twimg.com/profile_images/797683591610150913/L9nAcOzi_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "tanishiking",
+          "twitter": "tanishiking",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Session A",
+      "title": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
       "detail": "",
       "language": "",
       "length": 15,
@@ -678,13 +693,14 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "tanishiking",
+          "name": "Rikito Taniguchi",
+          "icon": "https://pbs.twimg.com/profile_images/797683591610150913/L9nAcOzi_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "tanishiking",
+          "twitter": "tanishiking",
           "other_sns": ""
         }
       ]
@@ -693,7 +709,7 @@
   {
     "id": "1647756900B",
     "en": {
-      "title": "Session B",
+      "title": "第2回 ひどいコード選手権",
       "detail": "",
       "language": "",
       "length": 15,
@@ -701,19 +717,20 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "takezoux2",
+          "name": "Yoshiteru Takeshita",
+          "icon": "https://avatars.githubusercontent.com/u/304296?v=4",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
+          "github": "takezoux2",
           "twitter": "",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Session B",
+      "title": "第2回 ひどいコード選手権",
       "detail": "",
       "language": "",
       "length": 15,
@@ -721,12 +738,13 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "takezoux2",
+          "name": "Yoshiteru Takeshita",
+          "icon": "https://avatars.githubusercontent.com/u/304296?v=4",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
+          "github": "takezoux2",
           "twitter": "",
           "other_sns": ""
         }
@@ -736,7 +754,7 @@
   {
     "id": "1647758700A",
     "en": {
-      "title": "Session A",
+      "title": "Fibersのことを詳しく知りたい！教えて偉い人！！",
       "detail": "",
       "language": "",
       "length": 15,
@@ -744,19 +762,20 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "tototoshi",
+          "name": "Toshiyuki Takahashi",
+          "icon": "https://pbs.twimg.com/profile_images/1601948797/twitter_icon_320_320_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "tototoshi",
+          "twitter": "tototoshi",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "Session A",
+      "title": "Fibersのことを詳しく知りたい！教えて偉い人！！",
       "detail": "",
       "language": "",
       "length": 15,
@@ -764,13 +783,14 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
+          "id": "tototoshi",
+          "name": "Toshiyuki Takahashi",
+          "icon": "https://pbs.twimg.com/profile_images/1601948797/twitter_icon_320_320_400x400.jpg",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "",
-          "twitter": "",
+          "github": "tototoshi",
+          "twitter": "tototoshi",
           "other_sns": ""
         }
       ]
@@ -822,7 +842,7 @@
   {
     "id": "1647761400A",
     "en": {
-      "title": "LT 3 - A (max 15 min)",
+      "title": "Scala 3 移行への remaining list",
       "detail": "",
       "language": "",
       "length": 15,
@@ -830,19 +850,19 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [""],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
+          "name": "Eugene Yokota",
+          "icon": "https://pbs.twimg.com/profile_images/1433141732930109446/1chynLaI_400x400.jpg",
+          "organization": "Twitter",
+          "speaker_experience": [],
+          "contributes": ["sbt, scopt"],
+          "github": "eed3si9n",
+          "twitter": "eed3si9n",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "LT 3 - A (max 15 min)",
+      "title": "Scala 3 移行への remaining list",
       "detail": "",
       "language": "",
       "length": 15,
@@ -850,13 +870,13 @@
       "keywords": [],
       "speakers": [
         {
-          "name": "",
-          "icon": "",
-          "organization": "",
-          "speaker_experience": [""],
-          "contributes": [],
-          "github": "",
-          "twitter": "",
+          "name": "Eugene Yokota",
+          "icon": "https://pbs.twimg.com/profile_images/1433141732930109446/1chynLaI_400x400.jpg",
+          "organization": "Twitter",
+          "speaker_experience": [],
+          "contributes": ["sbt, scopt"],
+          "github": "eed3si9n",
+          "twitter": "eed3si9n",
           "other_sns": ""
         }
       ]
