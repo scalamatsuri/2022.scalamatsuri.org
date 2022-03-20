@@ -92,9 +92,9 @@
       </div>
       <div v-if="program.artifacts.slides.other_url">
         <h3>Slide</h3>
-        <nuxt-link :to="program.artifacts.slides.other_url" no-prefetch target="_blank">
+        <a :href="program.artifacts.slides.other_url" no-prefetch target="_blank">
           {{ program.artifacts.slides.other_url }}
-        </nuxt-link>
+        </a>
       </div>
     </div>
     <div class="modal_scopeArea">
