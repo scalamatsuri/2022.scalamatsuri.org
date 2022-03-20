@@ -6,7 +6,8 @@
       "slides": {
         "speakerdeck": {
           "data_id": ""
-        }
+        },
+        "other_url": "https://gakuzzzz.github.io/slides/abstract_type_member_introduction/"
       },
       "youtube_embed_url": "",
       "youtube_embed_url_2": ""
@@ -61,7 +62,8 @@
       "slides": {
         "speakerdeck": {
           "data_id": ""
-        }
+        },
+        "other_url": "https://github.com/ghostdogpr/mtl-benchmarks/blob/master/beautiful-domain-logic.pdf"
       },
       "youtube_embed_url": "",
       "youtube_embed_url_2": ""
@@ -113,7 +115,7 @@
     "artifacts": {
       "slides": {
         "speakerdeck": {
-          "data_id": ""
+          "data_id": "4f21c283621747cd8fb9850554381bf7"
         }
       },
       "youtube_embed_url": "",
@@ -166,7 +168,7 @@
     "artifacts": {
       "slides": {
         "speakerdeck": {
-          "data_id": ""
+          "data_id": "2bd308ced55a497684a99368950f194a"
         }
       },
       "youtube_embed_url": "",
@@ -220,7 +222,8 @@
       "slides": {
         "speakerdeck": {
           "data_id": ""
-        }
+        },
+        "other_url": "https://drive.google.com/file/d/1KcH7orpj0K_9B-CEG979-MoC9tqbyFrz/view?usp=sharing"
       },
       "youtube_embed_url": "",
       "youtube_embed_url_2": ""
@@ -277,7 +280,8 @@
       "slides": {
         "speakerdeck": {
           "data_id": ""
-        }
+        },
+        "other_url": "https://eed3si9n.com/bazel101/"
       },
       "youtube_embed_url": "",
       "youtube_embed_url_2": ""
@@ -329,7 +333,7 @@
     "artifacts": {
       "slides": {
         "speakerdeck": {
-          "data_id": ""
+          "data_id": "ea4f7d9eb6964928b9ed16674e5090c9"
         }
       },
       "youtube_embed_url": "",
@@ -384,7 +388,7 @@
     "artifacts": {
       "slides": {
         "speakerdeck": {
-          "data_id": ""
+          "data_id": "194c009daef94589b2ce5251adbbd234"
         }
       },
       "youtube_embed_url": "",

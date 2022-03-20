@@ -119,6 +119,8 @@
     "endAt": "2022-03-19 17:00"
   },
 
+
+
   {
     "id": "1647738000",
     "title": "Morning Session / 朝会",
@@ -136,7 +138,7 @@
   },
   {
     "id": "1647742500A",
-    "title": "Session A",
+    "title": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
     "room": "Track A",
     "startAt": 1647742500,
     "endAt": 1647744300,
@@ -144,7 +146,7 @@
   },
   {
     "id": "1647742500B",
-    "title": "Session B",
+    "title": "scalafix のルールを作成した話",
     "room": "Track B",
     "startAt": 1647742500,
     "endAt": 1647744300,
@@ -152,15 +154,15 @@
   },
   {
     "id": "1647744300A",
-    "title": "Session A",
+    "title": "wartremoverのScala 3対応",
     "room": "Track A",
     "startAt": 1647744300,
-    "endAt": 1647746100,
+    "endAt": 1647747000,
     "jst": "2022-03-20 11:45:00"
   },
   {
     "id": "1647744300B",
-    "title": "Session B",
+    "title": "apache spark や scio などデータ系のライブラリ/エコシステムの話がききたい(talk about big data ecosystem e.g. apache spark or scio)",
     "room": "Track B",
     "startAt": 1647744300,
     "endAt": 1647746100,
@@ -174,16 +176,8 @@
     "jst": "2022-03-20 12:15:00"
   },
   {
-    "id": "1647749700A",
-    "title": "LT 1 - A (max 15 min)",
-    "room": "Track A",
-    "startAt": 1647749700,
-    "endAt": 1647750600,
-    "jst": "2022-03-20 13:15:00"
-  },
-  {
     "id": "1647749700B",
-    "title": "LT 1 - B (max 15 min)",
+    "title": "IntelliJの便利な使い方が知りたい・聞きたい",
     "room": "Track B",
     "startAt": 1647749700,
     "endAt": 1647750600,
@@ -191,7 +185,7 @@
   },
   {
     "id": "1647750600A",
-    "title": "LT 2 - A(max 15 min)",
+    "title": "Scala.js LT",
     "room": "Track A",
     "startAt": 1647750600,
     "endAt": 1647751500,
@@ -214,7 +208,7 @@
   },
   {
     "id": "1647752400A",
-    "title": "Session A",
+    "title": "あなたの知らないMetalsの便利な100の機能",
     "room": "Track A",
     "startAt": 1647752400,
     "endAt": 1647754200,
@@ -222,7 +216,7 @@
   },
   {
     "id": "1647752400B",
-    "title": "Session B",
+    "title": "ZIO利用者が雑談する会(使ってないけど興味ある人も歓迎)",
     "room": "Track B",
     "startAt": 1647752400,
     "endAt": 1647754200,
@@ -230,7 +224,7 @@
   },
   {
     "id": "1647754200A",
-    "title": "Session A",
+    "title": "playframework/twirlのScala3対応について",
     "room": "Track A",
     "startAt": 1647754200,
     "endAt": 1647756000,
@@ -253,7 +247,7 @@
   },
   {
     "id": "1647756900A",
-    "title": "Session A",
+    "title": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
     "room": "Track A",
     "startAt": 1647756900,
     "endAt": 1647758700,
@@ -261,7 +255,7 @@
   },
   {
     "id": "1647756900B",
-    "title": "Session B",
+    "title": "第2回 ひどいコード選手権",
     "room": "Track B",
     "startAt": 1647756900,
     "endAt": 1647758700,
@@ -269,7 +263,7 @@
   },
   {
     "id": "1647758700A",
-    "title": "Session A",
+    "title": "Fibersのことを詳しく知りたい！教えて偉い人！！",
     "room": "Track A",
     "startAt": 1647758700,
     "endAt": 1647760500,
@@ -292,7 +286,7 @@
   },
   {
     "id": "1647761400A",
-    "title": "LT 3 - A (max 15 min)",
+    "title": "Scala 3 移行への remaining list",
     "room": "Track A",
     "startAt": 1647761400,
     "endAt": 1647762300,
