@@ -101,7 +101,7 @@
     "en": {
       "title": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
       "detail": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -122,7 +122,7 @@
     "ja": {
       "title": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
       "detail": "「安全で柔軟なAlways-Valid Domain Modelの作り方」の解説",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -156,7 +156,7 @@
     "en": {
       "title": "Slides/Scalafix ルール作成について",
       "detail": "Slides/Scalafix ルール作成について",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -177,7 +177,7 @@
     "ja": {
       "title": "Slides/Scalafix ルール作成について",
       "detail": "Slides/Scalafix ルール作成について",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -211,7 +211,7 @@
     "en": {
       "title": "wartremoverのScala 3対応",
       "detail": "wartremoverのScala 3対応",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -232,7 +232,7 @@
     "ja": {
       "title": "wartremoverのScala 3対応",
       "detail": "wartremoverのScala 3対応",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -256,7 +256,7 @@
     "en": {
       "title": "apache spark や scio などデータ系のライブラリ/エコシステムの話がききたい",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -276,7 +276,7 @@
     "ja": {
       "title": "talk about big data ecosystem e.g. apache spark or scio",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -299,7 +299,7 @@
     "en": {
       "title": "Break",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -319,7 +319,7 @@
     "ja": {
       "title": "Break",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -343,7 +343,7 @@
     "en": {
       "title": "LT 1 - A (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -363,7 +363,7 @@
     "ja": {
       "title": "LT 1 - A (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -386,7 +386,7 @@
     "en": {
       "title": "IntelliJの便利な使い方が知りたい・聞きたい",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -407,7 +407,7 @@
     "ja": {
       "title": "IntelliJの便利な使い方が知りたい・聞きたい",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -441,7 +441,7 @@
     "en": {
       "title": "JVMだけじゃないScala・改",
       "detail": "JVMだけじゃないScala・改",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -461,7 +461,7 @@
     "ja": {
       "title": "JVMだけじゃないScala・改",
       "detail": "JVMだけじゃないScala・改",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -484,7 +484,7 @@
     "en": {
       "title": "LT 2 - B (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -504,7 +504,7 @@
     "ja": {
       "title": "LT 2 - B (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -537,7 +537,7 @@
     "en": {
       "title": "あなたの知らないMetalsの便利な100の機能",
       "detail": "あなたの知らないMetalsの便利な100の機能",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -558,7 +558,7 @@
     "ja": {
       "title": "あなたの知らないMetalsの便利な100の機能",
       "detail": "あなたの知らないMetalsの便利な100の機能",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -579,44 +579,54 @@
   },
   {
     "id": "1647752400B",
+        "artifacts": {
+      "slides": {
+        "speakerdeck": {
+          "data_id": ""
+        },
+        "other_url": "https://github.com/taketora26/library-app-zio"
+      },
+      "youtube_embed_url": "",
+      "youtube_embed_url_2": ""
+    },
     "en": {
-      "title": "ZIO利用者が雑談する会(使ってないけど興味ある人も歓迎)",
-      "detail": "",
-      "language": "",
-      "length": 15,
+      "title": "library-app-zio",
+      "detail": "library-app-zio",
+      "language": "ja",
+      "length": 30,
       "tags": [],
       "keywords": [],
       "speakers": [
         {
-          "id": "rysh",
-          "name": "",
-          "icon": "https://avatars.githubusercontent.com/u/828709?v=4",
+          "id": "taket0ra1",
+          "name": "Ikeda",
+          "icon": "https://avatars.githubusercontent.com/u/21272619?v=4",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "rysh",
-          "twitter": "",
+          "github": "taketora26",
+          "twitter": "taket0ra1",
           "other_sns": ""
         }
       ]
     },
     "ja": {
-      "title": "ZIO利用者が雑談する会(使ってないけど興味ある人も歓迎)",
-      "detail": "",
-      "language": "",
-      "length": 15,
+      "title": "library-app-zio",
+      "detail": "library-app-zio",
+      "language": "ja",
+      "length": 30,
       "tags": [],
       "keywords": [],
       "speakers": [
         {
-          "id": "rysh",
-          "name": "Ryuhei Ishibashi",
-          "icon": "https://avatars.githubusercontent.com/u/828709?v=4",
+          "id": "taket0ra1",
+          "name": "Ikeda",
+          "icon": "https://avatars.githubusercontent.com/u/21272619?v=4",
           "organization": "",
           "speaker_experience": [""],
           "contributes": [],
-          "github": "rysh",
-          "twitter": "",
+          "github": "taketora26",
+          "twitter": "taket0ra1",
           "other_sns": ""
         }
       ]
@@ -627,7 +637,7 @@
     "en": {
       "title": "playframework/twirlのScala3対応について",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -648,7 +658,7 @@
     "ja": {
       "title": "playframework/twirlのScala3対応について",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -672,7 +682,7 @@
     "en": {
       "title": "Session B",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -692,7 +702,7 @@
     "ja": {
       "title": "Session B",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -726,7 +736,7 @@
     "en": {
       "title": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
       "detail": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -747,7 +757,7 @@
     "ja": {
       "title": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
       "detail": "なぜ(巨大なリポジトリの)コードを読んで理解するのが難しいのか",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -771,7 +781,7 @@
     "en": {
       "title": "第2回 ひどいコード選手権",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -792,7 +802,7 @@
     "ja": {
       "title": "第2回 ひどいコード選手権",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -816,7 +826,7 @@
     "en": {
       "title": "Fibersのことを詳しく知りたい！教えて偉い人！！",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -837,7 +847,7 @@
     "ja": {
       "title": "Fibersのことを詳しく知りたい！教えて偉い人！！",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -861,7 +871,7 @@
     "en": {
       "title": "Session B",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -881,7 +891,7 @@
     "ja": {
       "title": "Session B",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -904,7 +914,7 @@
     "en": {
       "title": "Scala 3 移行への remaining list",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -924,7 +934,7 @@
     "ja": {
       "title": "Scala 3 移行への remaining list",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -947,7 +957,7 @@
     "en": {
       "title": "LT 3 - B (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -967,7 +977,7 @@
     "ja": {
       "title": "LT 3 - B (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -990,7 +1000,7 @@
     "en": {
       "title": "LT 4 - A (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -1010,7 +1020,7 @@
     "ja": {
       "title": "LT 4 - A (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -1033,7 +1043,7 @@
     "en": {
       "title": "LT 4 - B (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
@@ -1053,7 +1063,7 @@
     "ja": {
       "title": "LT 4 - B (max 15 min)",
       "detail": "",
-      "language": "",
+      "language": "ja",
       "length": 15,
       "tags": [],
       "keywords": [],
