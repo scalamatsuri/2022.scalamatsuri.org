@@ -2,7 +2,7 @@
   <div id="top">
     <main-visual />
     <news :posts="blogPosts" />
-    <!-- <thankYou /> -->
+    <thankYou />
     <banner />
     <!-- <ecShop /> -->
     <program />
@@ -18,7 +18,7 @@
 import { mapActions, mapState } from 'vuex'
 import mainVisual from '@/components/sections/top/mainVisual'
 import news from '@/components/sections/top/news'
-// import thankYou from '@/components/sections/top/thankYou'
+import thankYou from '@/components/sections/top/thankYou'
 // import ecShop from '@/components/sections/top/ecShop'
 import banner from '@/components/sections/top/banner'
 // import events from '@/components/sections/top/events'
@@ -32,7 +32,7 @@ export default {
     mainVisual,
     news,
     // ecShop,
-    // thankYou,
+    thankYou,
     banner,
     // events,
     info,

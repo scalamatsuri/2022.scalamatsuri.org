@@ -3,12 +3,12 @@
 en:
   sponsorship: "Sponsorship(ja)"
   cfp: "Call for proposals"
-  ticket: "Ticket"
+  ticket: "Doorkeepr"
   tshirt: "Get a (Ninja) T-Shirt"
 ja:
   sponsorship: "スポンサー募集"
   cfp: "セッションに応募する"
-  ticket: "チケット"
+  ticket: "Doorkeepr"
   tshirt: "(忍者)Tシャツ購入"
 </i18n>
 <template>
