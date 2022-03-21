@@ -8,7 +8,7 @@
     proposals: "Proposals"
     outline: "Outline"
     login: "Log in"
-    ticket: "Ticket"
+    ticket: "Doorkeeper"
     cfp: "CFP"
     extra-staff: "Extra Staffs(ja)"
     logout: "Log Out"
@@ -21,7 +21,7 @@
     proposals: "セッション候補"
     outline: "開催概要"
     login: "ログイン"
-    ticket: "チケット"
+    ticket: "Doorkeeper"
     cfp: "セッション募集"
     extra-staff: "スタッフ募集"
     logout: "ログアウト"
@@ -63,6 +63,11 @@
             <li class="gnav_item" :class="{ 'gnav_item-current': current_path('/sponsors') }">
               <nuxt-link :to="localePath('sponsors')">
                 <span>{{ $t('sponsors') }}</span>
+              </nuxt-link>
+            </li>
+            <li class="gnav_item" :class="{ 'gnav_item-current': current_path('/cm') }">
+              <nuxt-link :to="localePath('cm')">
+                <span>{{ $t('CM') }}</span>
               </nuxt-link>
             </li>
             <!-- <li class="gnav_item" :class="{ 'gnav_item-current': current_path('/extra-staff') }">
