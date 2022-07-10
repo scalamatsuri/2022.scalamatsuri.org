@@ -20,7 +20,14 @@ ja:
       <!-- <nuxt-link :to="localePath('cfp')" class="banner_item banner_item-staff">
         <span>{{ $t('cfp') }}</span>
       </nuxt-link> -->
-      <!-- <a href="https://scalamatsuri-online-shop.myshopify.com/" target="_blank" rel="noopener" class="banner_item banner_item-sponsor"><span>{{ $t('tshirt') }} </span></a> -->
+      <a
+        href="https://scalamatsuri-online-shop.myshopify.com/"
+        target="_blank"
+        rel="noopener"
+        class="banner_item banner_item-sponsor"
+      >
+        <span>{{ $t('tshirt') }} </span>
+      </a>
       <a
         href="https://scalaconfjp.doorkeeper.jp/events/131313"
         target="_blank"
@@ -45,9 +52,9 @@ ja:
 }
 .banner_item {
   display: block;
-  // width: calc(50% - 10px); // NOTE: バナー2つのとき
-  margin: 0 auto; // NOTE: バナー1つのとき
-  max-width: 394px; // NOTE: バナー1つのとき
+  width: calc(50% - 10px); // NOTE: バナー2つのとき
+  // margin: 0 auto; // NOTE: バナー1つのとき
+  // max-width: 394px; // NOTE: バナー1つのとき
   height: 88px;
   color: #fff;
   font-weight: bold;
