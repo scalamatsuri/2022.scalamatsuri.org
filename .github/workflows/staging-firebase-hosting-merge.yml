@@ -24,6 +24,6 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: >-
-            ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SCALAMATSURI_2022_WEB }}
+            ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SCALAMATSURI_2022_WEB_STAGING }}
           channelId: live
           projectId: scalamatsuri-2022-web-staging
