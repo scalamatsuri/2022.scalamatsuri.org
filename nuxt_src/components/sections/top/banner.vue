@@ -48,6 +48,7 @@ ja:
   // width: calc(50% - 10px); // NOTE: バナー2つのとき
   margin: 0 auto; // NOTE: バナー1つのとき
   max-width: 394px; // NOTE: バナー1つのとき
+  width: 20rem; // NOTE: バナー1つのとき
   height: 88px;
   color: #fff;
   font-weight: bold;
